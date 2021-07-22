@@ -7,3 +7,12 @@ Along with the results of thousands of events our analysis includes non-traditio
 Using advanced machine learning techniques we answer these questions and more on our quest to tackle Tokyo and stand atop the prediction podium. :trophy:
 
 
+## The Project
+
+### Communication protocols:
+* Team members communicated through Zoom video calls and Slack messaging
+* Code and resources were reviewed by team members through screen sharing and GitHub
+* Resources and code were individually committed to team member branches and routinely reviewed and merged to main project branch. 
+
+
+
