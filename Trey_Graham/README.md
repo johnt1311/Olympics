@@ -9,7 +9,7 @@ Using advanced machine learning techniques we answer these questions and more on
 
 :1st_place_medal: :second_place_medal: :third_place_medal:
 
-### :jp: From Tokyo to Tokyo :jp:
+### :crossed_flags: From Tokyo to Tokyo :crossed_flags:
 
 Japan is one of just six countries who have hosted the Summer Olympics multiple times since 1900. For our analysis we decided to collect data from the first Summer games in Tokyo in 1964, through the most recent Summer games in Rio de Janeiro, Brazil, in 2016. Our data comprised nearly 22,000 medals won by 141 countries in 335 individual and team events.
 
