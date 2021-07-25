@@ -1,4 +1,4 @@
-# Olympics Analysis
+# :1st_place_medal: :2nd_place_medal: :3rd_place_medal: Olympics Analysis :1st_place_medal: :2nd_place_medal: :3rd_place_medal:
 
 ## Overview
 As more than 50,000 athletes, coaches, trainers, and team members head to the land of the rising sun we wondered, "Can Olympic results be predicted?". We analyzed the history of the Summer Olympics to see how past results might help us predict which country will hear their national anthem the most times this year. 
@@ -7,8 +7,8 @@ Along with the results of thousands of events our analysis includes non-traditio
 
 Using advanced machine learning techniques we answer these questions and more on our quest to tackle Tokyo and stand atop the prediction podium. 
 
-:1st_place_medal: :second_place_medal: :third_place_medal:
 
+ 
 ### :crossed_flags: From Tokyo to Tokyo :crossed_flags:
 
 Japan is one of just six countries who have hosted the Summer Olympics multiple times since 1900. For our analysis we decided to collect data from the first Summer games in Tokyo in 1964, through the most recent Summer games in Rio de Janeiro, Brazil, in 2016. Our data comprised nearly 22,000 medals won by 141 countries in 335 individual and team events.
