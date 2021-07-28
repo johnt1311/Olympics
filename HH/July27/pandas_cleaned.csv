@@ -72,15 +72,15 @@ Event,NOC,Pos.,Year,Discipline
 "3,000 metres Steeplechase, Men",BEL,1,1964,Athletics
 "3,000 metres Steeplechase, Men",GBR,2,1964,Athletics
 "3,000 metres Steeplechase, Men",URS,3,1964,Athletics
-"4 ÃÂ 100 metres Relay, Men",USA,1,1964,Athletics
-"4 ÃÂ 100 metres Relay, Men",POL,2,1964,Athletics
-"4 ÃÂ 100 metres Relay, Men",FRA,3,1964,Athletics
-"4 ÃÂ 100 metres Relay, Women",POL,1,1964,Athletics
-"4 ÃÂ 100 metres Relay, Women",USA,2,1964,Athletics
-"4 ÃÂ 100 metres Relay, Women",GBR,3,1964,Athletics
-"4 ÃÂ 400 metres Relay, Men",USA,1,1964,Athletics
-"4 ÃÂ 400 metres Relay, Men",GBR,2,1964,Athletics
-"4 ÃÂ 400 metres Relay, Men",TTO,3,1964,Athletics
+"4 x 100 metres Freestyle Relay, Men",AUS,1,2000,Swimming
+"4 x 100 metres Freestyle Relay, Men",USA,2,2000,Swimming
+"4 x 100 metres Freestyle Relay, Men",BRA,3,2000,Swimming
+"4 x 100 metres Freestyle Relay, Women",USA,1,2000,Swimming
+"4 x 100 metres Freestyle Relay, Women",NED,2,2000,Swimming
+"4 x 100 metres Freestyle Relay, Women",SWE,3,2000,Swimming
+"4 x 100 metres Medley Relay, Men",USA,1,2000,Swimming
+"4 x 100 metres Medley Relay, Men",AUS,2,2000,Swimming
+"4 x 100 metres Medley Relay, Men",GER,3,2000,Swimming
 "400 metres Hurdles, Men",USA,1,1964,Athletics
 "400 metres Hurdles, Men",GBR,2,1964,Athletics
 "400 metres Hurdles, Men",ITA,3,1964,Athletics
@@ -268,12 +268,12 @@ Event,NOC,Pos.,Year,Discipline
 "Team, Open",GER,1,1964,Equestrian Jumping
 "Team, Open",FRA,2,1964,Equestrian Jumping
 "Team, Open",ITA,3,1964,Equestrian Jumping
-"ÃÂpÃÂ©e, Individual, Men",URS,1,1964,Fencing
-"ÃÂpÃÂ©e, Individual, Men",GBR,2,1964,Fencing
-"ÃÂpÃÂ©e, Individual, Men",URS,3,1964,Fencing
-"ÃÂpÃÂ©e, Team, Men",HUN,1,1964,Fencing
-"ÃÂpÃÂ©e, Team, Men",ITA,2,1964,Fencing
-"ÃÂpÃÂ©e, Team, Men",FRA,3,1964,Fencing
+"�p�e, Individual, Men",URS,1,1964,Fencing
+"�p�e, Individual, Men",GBR,2,1964,Fencing
+"�p�e, Individual, Men",URS,3,1964,Fencing
+"�p�e, Team, Men",HUN,1,1964,Fencing
+"�p�e, Team, Men",ITA,2,1964,Fencing
+"�p�e, Team, Men",FRA,3,1964,Fencing
 "Foil, Individual, Men",POL,1,1964,Fencing
 "Foil, Individual, Men",FRA,2,1964,Fencing
 "Foil, Individual, Men",FRA,3,1964,Fencing
@@ -401,21 +401,21 @@ Event,NOC,Pos.,Year,Discipline
 "200 metres Butterfly, Men",AUS,1,1964,Swimming
 "200 metres Butterfly, Men",USA,2,1964,Swimming
 "200 metres Butterfly, Men",USA,3,1964,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",USA,1,1964,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",GER,2,1964,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",AUS,3,1964,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",USA,1,1964,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",AUS,2,1964,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",NED,3,1964,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",USA,1,1964,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",GER,2,1964,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",AUS,3,1964,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",USA,1,1964,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",NED,2,1964,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",URS,3,1964,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",USA,1,1964,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",GER,2,1964,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",JPN,3,1964,Swimming
+"4 x 100 metres Medley Relay, Women",USA,1,2000,Swimming
+"4 x 100 metres Medley Relay, Women",AUS,2,2000,Swimming
+"4 x 100 metres Medley Relay, Women",JPN,3,2000,Swimming
+"4 x 100 metres Relay, Men",USA,1,1984,Athletics
+"4 x 100 metres Relay, Men",JAM,2,1984,Athletics
+"4 x 100 metres Relay, Men",CAN,3,1984,Athletics
+"4 x 100 metres Relay, Men",URS,1,1988,Athletics
+"4 x 100 metres Relay, Men",GBR,2,1988,Athletics
+"4 x 100 metres Relay, Men",FRA,3,1988,Athletics
+"4 x 100 metres Relay, Men",USA,1,1992,Athletics
+"4 x 100 metres Relay, Men",NGR,2,1992,Athletics
+"4 x 100 metres Relay, Men",CUB,3,1992,Athletics
+"4 x 100 metres Relay, Men",CAN,1,1996,Athletics
+"4 x 100 metres Relay, Men",USA,2,1996,Athletics
+"4 x 100 metres Relay, Men",BRA,3,1996,Athletics
 "400 metres Freestyle, Men",USA,1,1964,Swimming
 "400 metres Freestyle, Men",GER,2,1964,Swimming
 "400 metres Freestyle, Men",AUS,3,1964,Swimming
@@ -577,15 +577,15 @@ Event,NOC,Pos.,Year,Discipline
 "3,000 metres Steeplechase, Men",KEN,1,1968,Athletics
 "3,000 metres Steeplechase, Men",KEN,2,1968,Athletics
 "3,000 metres Steeplechase, Men",USA,3,1968,Athletics
-"4 ÃÂ 100 metres Relay, Men",USA,1,1968,Athletics
-"4 ÃÂ 100 metres Relay, Men",CUB,2,1968,Athletics
-"4 ÃÂ 100 metres Relay, Men",FRA,3,1968,Athletics
-"4 ÃÂ 100 metres Relay, Women",USA,1,1968,Athletics
-"4 ÃÂ 100 metres Relay, Women",CUB,2,1968,Athletics
-"4 ÃÂ 100 metres Relay, Women",URS,3,1968,Athletics
-"4 ÃÂ 400 metres Relay, Men",USA,1,1968,Athletics
-"4 ÃÂ 400 metres Relay, Men",KEN,2,1968,Athletics
-"4 ÃÂ 400 metres Relay, Men",FRG,3,1968,Athletics
+"4 x 100 metres Relay, Men",GBR,1,2004,Athletics
+"4 x 100 metres Relay, Men",USA,2,2004,Athletics
+"4 x 100 metres Relay, Men",NGR,3,2004,Athletics
+"4 x 100 metres Relay, Men ",USA ,1,2000,Athletics
+"4 x 100 metres Relay, Men ",BRA ,2,2000,Athletics
+"4 x 100 metres Relay, Men ",CUB,3,2000,Athletics
+"4 x 100 metres Relay, Women",USA,1,1984,Athletics
+"4 x 100 metres Relay, Women",CAN,2,1984,Athletics
+"4 x 100 metres Relay, Women",GBR,3,1984,Athletics
 "400 metres Hurdles, Men",GBR,1,1968,Athletics
 "400 metres Hurdles, Men",FRG,2,1968,Athletics
 "400 metres Hurdles, Men",GBR,3,1968,Athletics
@@ -777,12 +777,12 @@ Event,NOC,Pos.,Year,Discipline
 "Team, Open",CAN,1,1968,Equestrian Jumping
 "Team, Open",FRA,2,1968,Equestrian Jumping
 "Team, Open",FRG,3,1968,Equestrian Jumping
-"ÃÂpÃÂ©e, Individual, Men",HUN,1,1968,Fencing
-"ÃÂpÃÂ©e, Individual, Men",URS,2,1968,Fencing
-"ÃÂpÃÂ©e, Individual, Men",ITA,3,1968,Fencing
-"ÃÂpÃÂ©e, Team, Men",HUN,1,1968,Fencing
-"ÃÂpÃÂ©e, Team, Men",URS,2,1968,Fencing
-"ÃÂpÃÂ©e, Team, Men",POL,3,1968,Fencing
+"�p�e, Individual, Men",HUN,1,1968,Fencing
+"�p�e, Individual, Men",URS,2,1968,Fencing
+"�p�e, Individual, Men",ITA,3,1968,Fencing
+"�p�e, Team, Men",HUN,1,1968,Fencing
+"�p�e, Team, Men",URS,2,1968,Fencing
+"�p�e, Team, Men",POL,3,1968,Fencing
 "Foil, Individual, Men",ROU,1,1968,Fencing
 "Foil, Individual, Men",HUN,2,1968,Fencing
 "Foil, Individual, Men",FRA,3,1968,Fencing
@@ -927,21 +927,21 @@ Event,NOC,Pos.,Year,Discipline
 "200 metres Individual Medley, Women",USA,1,1968,Swimming
 "200 metres Individual Medley, Women",USA,2,1968,Swimming
 "200 metres Individual Medley, Women",USA,3,1968,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",USA,1,1968,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",URS,2,1968,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",AUS,3,1968,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",USA,1,1968,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",GDR,2,1968,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",CAN,3,1968,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",USA,1,1968,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",GDR,2,1968,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",URS,3,1968,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",USA,1,1968,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",AUS,2,1968,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",FRG,3,1968,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",USA,1,1968,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",AUS,2,1968,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",URS,3,1968,Swimming
+"4 x 100 metres Relay, Women",USA,1,1988,Athletics
+"4 x 100 metres Relay, Women",GDR,2,1988,Athletics
+"4 x 100 metres Relay, Women",URS,3,1988,Athletics
+"4 x 100 metres Relay, Women",USA,1,1992,Athletics
+"4 x 100 metres Relay, Women",EUN,2,1992,Athletics
+"4 x 100 metres Relay, Women",NGR,3,1992,Athletics
+"4 x 100 metres Relay, Women",USA,1,1996,Athletics
+"4 x 100 metres Relay, Women",BAH,2,1996,Athletics
+"4 x 100 metres Relay, Women",JAM,3,1996,Athletics
+"4 x 100 metres Relay, Women",JAM,1,2004,Athletics
+"4 x 100 metres Relay, Women",RUS,2,2004,Athletics
+"4 x 100 metres Relay, Women",FRA,3,2004,Athletics
+"4 x 100 metres Relay, Women ",BAH ,1,2000,Athletics
+"4 x 100 metres Relay, Women ",JAM ,2,2000,Athletics
+"4 x 100 metres Relay, Women ",USA,3,2000,Athletics
 "400 metres Freestyle, Men",USA,1,1968,Swimming
 "400 metres Freestyle, Men",CAN,2,1968,Swimming
 "400 metres Freestyle, Men",FRA,3,1968,Swimming
@@ -1117,18 +1117,18 @@ Event,NOC,Pos.,Year,Discipline
 "3,000 metres Steeplechase, Men",KEN,1,1972,Athletics
 "3,000 metres Steeplechase, Men",KEN,2,1972,Athletics
 "3,000 metres Steeplechase, Men",FIN,3,1972,Athletics
-"4 ÃÂ 100 metres Relay, Men",USA,1,1972,Athletics
-"4 ÃÂ 100 metres Relay, Men",URS,2,1972,Athletics
-"4 ÃÂ 100 metres Relay, Men",FRG,3,1972,Athletics
-"4 ÃÂ 100 metres Relay, Women",FRG,1,1972,Athletics
-"4 ÃÂ 100 metres Relay, Women",GDR,2,1972,Athletics
-"4 ÃÂ 100 metres Relay, Women",CUB,3,1972,Athletics
-"4 ÃÂ 400 metres Relay, Men",KEN,1,1972,Athletics
-"4 ÃÂ 400 metres Relay, Men",GBR,2,1972,Athletics
-"4 ÃÂ 400 metres Relay, Men",FRA,3,1972,Athletics
-"4 ÃÂ 400 metres Relay, Women",GDR,1,1972,Athletics
-"4 ÃÂ 400 metres Relay, Women",USA,2,1972,Athletics
-"4 ÃÂ 400 metres Relay, Women",FRG,3,1972,Athletics
+"4 x 200 metres Freestyle Relay, Men",AUS,1,2000,Swimming
+"4 x 200 metres Freestyle Relay, Men",USA,2,2000,Swimming
+"4 x 200 metres Freestyle Relay, Men",NED,3,2000,Swimming
+"4 x 200 metres Freestyle Relay, Women",USA,1,2000,Swimming
+"4 x 200 metres Freestyle Relay, Women",AUS,2,2000,Swimming
+"4 x 200 metres Freestyle Relay, Women",GER,3,2000,Swimming
+"4 x 400 metres Relay, Men",USA,1,1984,Athletics
+"4 x 400 metres Relay, Men",GBR,2,1984,Athletics
+"4 x 400 metres Relay, Men",NGR,3,1984,Athletics
+"4 x 400 metres Relay, Men",USA,1,1988,Athletics
+"4 x 400 metres Relay, Men",JAM,2,1988,Athletics
+"4 x 400 metres Relay, Men",FRG,3,1988,Athletics
 "400 metres Hurdles, Men",UGA,1,1972,Athletics
 "400 metres Hurdles, Men",USA,2,1972,Athletics
 "400 metres Hurdles, Men",GBR,3,1972,Athletics
@@ -1329,12 +1329,12 @@ Event,NOC,Pos.,Year,Discipline
 "Team, Open",FRG,1,1972,Equestrian Jumping
 "Team, Open",USA,2,1972,Equestrian Jumping
 "Team, Open",ITA,3,1972,Equestrian Jumping
-"ÃÂpÃÂ©e, Individual, Men",HUN,1,1972,Fencing
-"ÃÂpÃÂ©e, Individual, Men",FRA,2,1972,Fencing
-"ÃÂpÃÂ©e, Individual, Men",HUN,3,1972,Fencing
-"ÃÂpÃÂ©e, Team, Men",HUN,1,1972,Fencing
-"ÃÂpÃÂ©e, Team, Men",SUI,2,1972,Fencing
-"ÃÂpÃÂ©e, Team, Men",URS,3,1972,Fencing
+"�p�e, Individual, Men",HUN,1,1972,Fencing
+"�p�e, Individual, Men",FRA,2,1972,Fencing
+"�p�e, Individual, Men",HUN,3,1972,Fencing
+"�p�e, Team, Men",HUN,1,1972,Fencing
+"�p�e, Team, Men",SUI,2,1972,Fencing
+"�p�e, Team, Men",URS,3,1972,Fencing
 "Foil, Individual, Men",POL,1,1972,Fencing
 "Foil, Individual, Men",HUN,2,1972,Fencing
 "Foil, Individual, Men",FRA,3,1972,Fencing
@@ -1513,21 +1513,21 @@ Event,NOC,Pos.,Year,Discipline
 "200 metres Individual Medley, Women",AUS,1,1972,Swimming
 "200 metres Individual Medley, Women",GDR,2,1972,Swimming
 "200 metres Individual Medley, Women",USA,3,1972,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",USA,1,1972,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",URS,2,1972,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",GDR,3,1972,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",USA,1,1972,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",GDR,2,1972,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",FRG,3,1972,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",USA,1,1972,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",GDR,2,1972,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",CAN,3,1972,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",USA,1,1972,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",GDR,2,1972,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",FRG,3,1972,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",USA,1,1972,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",FRG,2,1972,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",URS,3,1972,Swimming
+"4 x 400 metres Relay, Men",USA,1,1992,Athletics
+"4 x 400 metres Relay, Men",CUB,2,1992,Athletics
+"4 x 400 metres Relay, Men",GBR,3,1992,Athletics
+"4 x 400 metres Relay, Men",USA,1,1996,Athletics
+"4 x 400 metres Relay, Men",GBR,2,1996,Athletics
+"4 x 400 metres Relay, Men",JAM,3,1996,Athletics
+"4 x 400 metres Relay, Men",USA,1,2004,Athletics
+"4 x 400 metres Relay, Men",AUS,2,2004,Athletics
+"4 x 400 metres Relay, Men",NGR,3,2004,Athletics
+"4 x 400 metres Relay, Men ",NGR ,1,2000,Athletics
+"4 x 400 metres Relay, Men ",JAM ,2,2000,Athletics
+"4 x 400 metres Relay, Men ",BAH,3,2000,Athletics
+"4 x 400 metres Relay, Women",USA,1,1984,Athletics
+"4 x 400 metres Relay, Women",CAN,2,1984,Athletics
+"4 x 400 metres Relay, Women",FRG,3,1984,Athletics
 "400 metres Freestyle, Men",AUS,1,1972,Swimming
 "400 metres Freestyle, Men",USA,2,1972,Swimming
 "400 metres Freestyle, Men",USA,3,1972,Swimming
@@ -1723,18 +1723,18 @@ Event,NOC,Pos.,Year,Discipline
 "3,000 metres Steeplechase, Men",SWE,1,1976,Athletics
 "3,000 metres Steeplechase, Men",POL,2,1976,Athletics
 "3,000 metres Steeplechase, Men",GDR,3,1976,Athletics
-"4 ÃÂ 100 metres Relay, Men",USA,1,1976,Athletics
-"4 ÃÂ 100 metres Relay, Men",GDR,2,1976,Athletics
-"4 ÃÂ 100 metres Relay, Men",URS,3,1976,Athletics
-"4 ÃÂ 100 metres Relay, Women",GDR,1,1976,Athletics
-"4 ÃÂ 100 metres Relay, Women",FRG,2,1976,Athletics
-"4 ÃÂ 100 metres Relay, Women",URS,3,1976,Athletics
-"4 ÃÂ 400 metres Relay, Men",USA,1,1976,Athletics
-"4 ÃÂ 400 metres Relay, Men",POL,2,1976,Athletics
-"4 ÃÂ 400 metres Relay, Men",FRG,3,1976,Athletics
-"4 ÃÂ 400 metres Relay, Women",GDR,1,1976,Athletics
-"4 ÃÂ 400 metres Relay, Women",USA,2,1976,Athletics
-"4 ÃÂ 400 metres Relay, Women",URS,3,1976,Athletics
+"4 x 400 metres Relay, Women",URS,1,1988,Athletics
+"4 x 400 metres Relay, Women",USA,2,1988,Athletics
+"4 x 400 metres Relay, Women",GDR,3,1988,Athletics
+"4 x 400 metres Relay, Women",EUN,1,1992,Athletics
+"4 x 400 metres Relay, Women",USA,2,1992,Athletics
+"4 x 400 metres Relay, Women",GBR,3,1992,Athletics
+"4 x 400 metres Relay, Women",USA,1,1996,Athletics
+"4 x 400 metres Relay, Women",NGR,2,1996,Athletics
+"4 x 400 metres Relay, Women",GER,3,1996,Athletics
+"4 x 400 metres Relay, Women",USA,1,2004,Athletics
+"4 x 400 metres Relay, Women",RUS,2,2004,Athletics
+"4 x 400 metres Relay, Women",JAM,3,2004,Athletics
 "400 metres Hurdles, Men",USA,1,1976,Athletics
 "400 metres Hurdles, Men",USA,2,1976,Athletics
 "400 metres Hurdles, Men",URS,3,1976,Athletics
@@ -1932,12 +1932,12 @@ Event,NOC,Pos.,Year,Discipline
 "Team, Open",FRA,1,1976,Equestrian Jumping
 "Team, Open",FRG,2,1976,Equestrian Jumping
 "Team, Open",BEL,3,1976,Equestrian Jumping
-"ÃÂpÃÂ©e, Individual, Men",FRG,1,1976,Fencing
-"ÃÂpÃÂ©e, Individual, Men",FRG,2,1976,Fencing
-"ÃÂpÃÂ©e, Individual, Men",HUN,3,1976,Fencing
-"ÃÂpÃÂ©e, Team, Men",SWE,1,1976,Fencing
-"ÃÂpÃÂ©e, Team, Men",FRG,2,1976,Fencing
-"ÃÂpÃÂ©e, Team, Men",SUI,3,1976,Fencing
+"�p�e, Individual, Men",FRG,1,1976,Fencing
+"�p�e, Individual, Men",FRG,2,1976,Fencing
+"�p�e, Individual, Men",HUN,3,1976,Fencing
+"�p�e, Team, Men",SWE,1,1976,Fencing
+"�p�e, Team, Men",FRG,2,1976,Fencing
+"�p�e, Team, Men",SUI,3,1976,Fencing
 "Foil, Individual, Men",ITA,1,1976,Fencing
 "Foil, Individual, Men",URS,2,1976,Fencing
 "Foil, Individual, Men",FRA,3,1976,Fencing
@@ -2130,18 +2130,18 @@ Event,NOC,Pos.,Year,Discipline
 "200 metres Freestyle, Women",GDR,1,1976,Swimming
 "200 metres Freestyle, Women",USA,2,1976,Swimming
 "200 metres Freestyle, Women",NED,3,1976,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",USA,1,1976,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",GDR,2,1976,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",CAN,3,1976,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",USA,1,1976,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",CAN,2,1976,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",FRG,3,1976,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",GDR,1,1976,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",USA,2,1976,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",CAN,3,1976,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",USA,1,1976,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",URS,2,1976,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",GBR,3,1976,Swimming
+"4 x 400 metres Relay, Women ",USA ,1,2000,Athletics
+"4 x 400 metres Relay, Women ",JAM ,2,2000,Athletics
+"4 x 400 metres Relay, Women ",RUS,3,2000,Athletics
+"4 x 100 metres Freestyle Relay, Men",USA,1,1964,Swimming
+"4 x 100 metres Freestyle Relay, Men",GER,2,1964,Swimming
+"4 x 100 metres Freestyle Relay, Men",AUS,3,1964,Swimming
+"4 x 100 metres Freestyle Relay, Men",USA,1,1968,Swimming
+"4 x 100 metres Freestyle Relay, Men",URS,2,1968,Swimming
+"4 x 100 metres Freestyle Relay, Men",AUS,3,1968,Swimming
+"4 x 100 metres Freestyle Relay, Men",USA,1,1972,Swimming
+"4 x 100 metres Freestyle Relay, Men",URS,2,1972,Swimming
+"4 x 100 metres Freestyle Relay, Men",GDR,3,1972,Swimming
 "400 metres Freestyle, Men",USA,1,1976,Swimming
 "400 metres Freestyle, Men",USA,2,1976,Swimming
 "400 metres Freestyle, Men",URS,3,1976,Swimming
@@ -2339,18 +2339,18 @@ Event,NOC,Pos.,Year,Discipline
 "3,000 metres Steeplechase, Men",POL,1,1980,Athletics
 "3,000 metres Steeplechase, Men",TAN,2,1980,Athletics
 "3,000 metres Steeplechase, Men",ETH,3,1980,Athletics
-"4 ÃÂ 100 metres Relay, Men",URS,1,1980,Athletics
-"4 ÃÂ 100 metres Relay, Men",POL,2,1980,Athletics
-"4 ÃÂ 100 metres Relay, Men",FRA,3,1980,Athletics
-"4 ÃÂ 100 metres Relay, Women",GDR,1,1980,Athletics
-"4 ÃÂ 100 metres Relay, Women",URS,2,1980,Athletics
-"4 ÃÂ 100 metres Relay, Women",GBR,3,1980,Athletics
-"4 ÃÂ 400 metres Relay, Men",URS,1,1980,Athletics
-"4 ÃÂ 400 metres Relay, Men",GDR,2,1980,Athletics
-"4 ÃÂ 400 metres Relay, Men",ITA,3,1980,Athletics
-"4 ÃÂ 400 metres Relay, Women",URS,1,1980,Athletics
-"4 ÃÂ 400 metres Relay, Women",GDR,2,1980,Athletics
-"4 ÃÂ 400 metres Relay, Women",GBR,3,1980,Athletics
+"4 x 100 metres Freestyle Relay, Men",USA,1,1984,Swimming
+"4 x 100 metres Freestyle Relay, Men",AUS,2,1984,Swimming
+"4 x 100 metres Freestyle Relay, Men",SWE,3,1984,Swimming
+"4 x 100 metres Freestyle Relay, Men",USA,1,1988,Swimming
+"4 x 100 metres Freestyle Relay, Men",URS,2,1988,Swimming
+"4 x 100 metres Freestyle Relay, Men",GDR,3,1988,Swimming
+"4 x 100 metres Freestyle Relay, Men",USA,1,1992,Swimming
+"4 x 100 metres Freestyle Relay, Men",EUN,2,1992,Swimming
+"4 x 100 metres Freestyle Relay, Men",GER,3,1992,Swimming
+"4 x 100 metres Freestyle Relay, Men",USA,1,1996,Swimming
+"4 x 100 metres Freestyle Relay, Men",RUS,2,1996,Swimming
+"4 x 100 metres Freestyle Relay, Men",GER,3,1996,Swimming
 "400 metres Hurdles, Men",GDR,1,1980,Athletics
 "400 metres Hurdles, Men",URS,2,1980,Athletics
 "400 metres Hurdles, Men",GBR,3,1980,Athletics
@@ -2552,12 +2552,12 @@ Event,NOC,Pos.,Year,Discipline
 "Team, Open",URS,1,1980,Equestrian Jumping
 "Team, Open",POL,2,1980,Equestrian Jumping
 "Team, Open",MEX,3,1980,Equestrian Jumping
-"ÃÂpÃÂ©e, Individual, Men",SWE,1,1980,Fencing
-"ÃÂpÃÂ©e, Individual, Men",HUN,2,1980,Fencing
-"ÃÂpÃÂ©e, Individual, Men",FRA,3,1980,Fencing
-"ÃÂpÃÂ©e, Team, Men",FRA,1,1980,Fencing
-"ÃÂpÃÂ©e, Team, Men",POL,2,1980,Fencing
-"ÃÂpÃÂ©e, Team, Men",URS,3,1980,Fencing
+"�p�e, Individual, Men",SWE,1,1980,Fencing
+"�p�e, Individual, Men",HUN,2,1980,Fencing
+"�p�e, Individual, Men",FRA,3,1980,Fencing
+"�p�e, Team, Men",FRA,1,1980,Fencing
+"�p�e, Team, Men",POL,2,1980,Fencing
+"�p�e, Team, Men",URS,3,1980,Fencing
 "Foil, Individual, Men",URS,1,1980,Fencing
 "Foil, Individual, Men",FRA,2,1980,Fencing
 "Foil, Individual, Men",URS,3,1980,Fencing
@@ -2761,18 +2761,18 @@ Event,NOC,Pos.,Year,Discipline
 "200 metres Freestyle, Women",GDR,1,1980,Swimming
 "200 metres Freestyle, Women",GDR,2,1980,Swimming
 "200 metres Freestyle, Women",GDR,3,1980,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",GDR,1,1980,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",SWE,2,1980,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",NED,3,1980,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",AUS,1,1980,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",URS,2,1980,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",GBR,3,1980,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",GDR,1,1980,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",GBR,2,1980,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",URS,3,1980,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",URS,1,1980,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",GDR,2,1980,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",BRA,3,1980,Swimming
+"4 x 100 metres Freestyle Relay, Men",RSA,1,2004,Swimming
+"4 x 100 metres Freestyle Relay, Men",NED,2,2004,Swimming
+"4 x 100 metres Freestyle Relay, Men",USA,3,2004,Swimming
+"4 x 100 metres Freestyle Relay, Men",USA,1,2008,Swimming
+"4 x 100 metres Freestyle Relay, Men",FRA,2,2008,Swimming
+"4 x 100 metres Freestyle Relay, Men",AUS,3,2008,Swimming
+"4 x 100 metres Freestyle Relay, Men",FRA,1,2012,Swimming
+"4 x 100 metres Freestyle Relay, Men",USA,2,2012,Swimming
+"4 x 100 metres Freestyle Relay, Men",RUS,3,2012,Swimming
+"4 x 100 metres Freestyle Relay, Men",USA,1,2016,Swimming
+"4 x 100 metres Freestyle Relay, Men",FRA,2,2016,Swimming
+"4 x 100 metres Freestyle Relay, Men",AUS,3,2016,Swimming
 "400 metres Freestyle, Men",URS,1,1980,Swimming
 "400 metres Freestyle, Men",URS,2,1980,Swimming
 "400 metres Freestyle, Men",URS,3,1980,Swimming
@@ -2986,18 +2986,18 @@ Event,NOC,Pos.,Year,Discipline
 "3,000 metres, Women",ROU,1,1984,Athletics
 "3,000 metres, Women",GBR,2,1984,Athletics
 "3,000 metres, Women",CAN,3,1984,Athletics
-"4 × 100 metres Relay, Men",USA,1,1984,Athletics
-"4 × 100 metres Relay, Men",JAM,2,1984,Athletics
-"4 × 100 metres Relay, Men",CAN,3,1984,Athletics
-"4 × 100 metres Relay, Women",USA,1,1984,Athletics
-"4 × 100 metres Relay, Women",CAN,2,1984,Athletics
-"4 × 100 metres Relay, Women",GBR,3,1984,Athletics
-"4 × 400 metres Relay, Men",USA,1,1984,Athletics
-"4 × 400 metres Relay, Men",GBR,2,1984,Athletics
-"4 × 400 metres Relay, Men",NGR,3,1984,Athletics
-"4 × 400 metres Relay, Women",USA,1,1984,Athletics
-"4 × 400 metres Relay, Women",CAN,2,1984,Athletics
-"4 × 400 metres Relay, Women",FRG,3,1984,Athletics
+"4 x 100 metres Freestyle Relay, Women",USA,1,1964,Swimming
+"4 x 100 metres Freestyle Relay, Women",AUS,2,1964,Swimming
+"4 x 100 metres Freestyle Relay, Women",NED,3,1964,Swimming
+"4 x 100 metres Freestyle Relay, Women",USA,1,1968,Swimming
+"4 x 100 metres Freestyle Relay, Women",GDR,2,1968,Swimming
+"4 x 100 metres Freestyle Relay, Women",CAN,3,1968,Swimming
+"4 x 100 metres Freestyle Relay, Women",USA,1,1972,Swimming
+"4 x 100 metres Freestyle Relay, Women",GDR,2,1972,Swimming
+"4 x 100 metres Freestyle Relay, Women",FRG,3,1972,Swimming
+"4 x 100 metres Freestyle Relay, Women",USA,1,1976,Swimming
+"4 x 100 metres Freestyle Relay, Women",GDR,2,1976,Swimming
+"4 x 100 metres Freestyle Relay, Women",CAN,3,1976,Swimming
 "400 metres Hurdles, Men",USA,1,1984,Athletics
 "400 metres Hurdles, Men",USA,2,1984,Athletics
 "400 metres Hurdles, Men",FRG,3,1984,Athletics
@@ -3218,12 +3218,12 @@ Event,NOC,Pos.,Year,Discipline
 "Team, Open",USA,1,1984,Equestrian Jumping
 "Team, Open",GBR,2,1984,Equestrian Jumping
 "Team, Open",FRG,3,1984,Equestrian Jumping
-"ÃÂpÃÂ©e, Individual, Men",FRA,1,1984,Fencing
-"ÃÂpÃÂ©e, Individual, Men",SWE,2,1984,Fencing
-"ÃÂpÃÂ©e, Individual, Men",FRA,3,1984,Fencing
-"ÃÂpÃÂ©e, Team, Men",FRG,1,1984,Fencing
-"ÃÂpÃÂ©e, Team, Men",FRA,2,1984,Fencing
-"ÃÂpÃÂ©e, Team, Men",ITA,3,1984,Fencing
+"�p�e, Individual, Men",FRA,1,1984,Fencing
+"�p�e, Individual, Men",SWE,2,1984,Fencing
+"�p�e, Individual, Men",FRA,3,1984,Fencing
+"�p�e, Team, Men",FRG,1,1984,Fencing
+"�p�e, Team, Men",FRA,2,1984,Fencing
+"�p�e, Team, Men",ITA,3,1984,Fencing
 "Foil, Individual, Men",ITA,1,1984,Fencing
 "Foil, Individual, Men",FRG,2,1984,Fencing
 "Foil, Individual, Men",ITA,3,1984,Fencing
@@ -3452,21 +3452,21 @@ Event,NOC,Pos.,Year,Discipline
 "200 metres Individual Medley, Women",USA,1,1984,Swimming
 "200 metres Individual Medley, Women",USA,2,1984,Swimming
 "200 metres Individual Medley, Women",AUS,3,1984,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",USA,1,1984,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",AUS,2,1984,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",SWE,3,1984,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",USA,1,1984,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",NED,2,1984,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",FRG,3,1984,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",USA,1,1984,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",CAN,2,1984,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",AUS,3,1984,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",USA,1,1984,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",FRG,2,1984,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",CAN,3,1984,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",USA,1,1984,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",FRG,2,1984,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",GBR,3,1984,Swimming
+"4 x 100 metres Freestyle Relay, Women",GDR,1,1980,Swimming
+"4 x 100 metres Freestyle Relay, Women",SWE,2,1980,Swimming
+"4 x 100 metres Freestyle Relay, Women",NED,3,1980,Swimming
+"4 x 100 metres Freestyle Relay, Women",USA,1,1984,Swimming
+"4 x 100 metres Freestyle Relay, Women",NED,2,1984,Swimming
+"4 x 100 metres Freestyle Relay, Women",FRG,3,1984,Swimming
+"4 x 100 metres Freestyle Relay, Women",GDR,1,1988,Swimming
+"4 x 100 metres Freestyle Relay, Women",NED,2,1988,Swimming
+"4 x 100 metres Freestyle Relay, Women",USA,3,1988,Swimming
+"4 x 100 metres Freestyle Relay, Women",USA,1,1992,Swimming
+"4 x 100 metres Freestyle Relay, Women",CHN,2,1992,Swimming
+"4 x 100 metres Freestyle Relay, Women",GER,3,1992,Swimming
+"4 x 100 metres Freestyle Relay, Women",USA,1,1996,Swimming
+"4 x 100 metres Freestyle Relay, Women",CHN,2,1996,Swimming
+"4 x 100 metres Freestyle Relay, Women",GER,3,1996,Swimming
 "400 metres Freestyle, Men",USA,1,1984,Swimming
 "400 metres Freestyle, Men",USA,2,1984,Swimming
 "400 metres Freestyle, Men",AUS,3,1984,Swimming
@@ -3687,18 +3687,18 @@ Event,NOC,Pos.,Year,Discipline
 "3,000 metres, Women",URS,1,1988,Athletics
 "3,000 metres, Women",ROU,2,1988,Athletics
 "3,000 metres, Women",GBR,3,1988,Athletics
-"4 × 100 metres Relay, Men",URS,1,1988,Athletics
-"4 × 100 metres Relay, Men",GBR,2,1988,Athletics
-"4 × 100 metres Relay, Men",FRA,3,1988,Athletics
-"4 × 100 metres Relay, Women",USA,1,1988,Athletics
-"4 × 100 metres Relay, Women",GDR,2,1988,Athletics
-"4 × 100 metres Relay, Women",URS,3,1988,Athletics
-"4 × 400 metres Relay, Men",USA,1,1988,Athletics
-"4 × 400 metres Relay, Men",JAM,2,1988,Athletics
-"4 × 400 metres Relay, Men",FRG,3,1988,Athletics
-"4 × 400 metres Relay, Women",URS,1,1988,Athletics
-"4 × 400 metres Relay, Women",USA,2,1988,Athletics
-"4 × 400 metres Relay, Women",GDR,3,1988,Athletics
+"4 x 100 metres Freestyle Relay, Women",AUS,1,2004,Swimming
+"4 x 100 metres Freestyle Relay, Women",USA,2,2004,Swimming
+"4 x 100 metres Freestyle Relay, Women",NED,3,2004,Swimming
+"4 x 100 metres Freestyle Relay, Women",NED,1,2008,Swimming
+"4 x 100 metres Freestyle Relay, Women",USA,2,2008,Swimming
+"4 x 100 metres Freestyle Relay, Women",AUS,3,2008,Swimming
+"4 x 100 metres Freestyle Relay, Women",AUS,1,2012,Swimming
+"4 x 100 metres Freestyle Relay, Women",NED,2,2012,Swimming
+"4 x 100 metres Freestyle Relay, Women",USA,3,2012,Swimming
+"4 x 100 metres Freestyle Relay, Women",AUS,1,2016,Swimming
+"4 x 100 metres Freestyle Relay, Women",USA,2,2016,Swimming
+"4 x 100 metres Freestyle Relay, Women",CAN,3,2016,Swimming
 "400 metres Hurdles, Men",USA,1,1988,Athletics
 "400 metres Hurdles, Men",SEN,2,1988,Athletics
 "400 metres Hurdles, Men",USA,3,1988,Athletics
@@ -3950,12 +3950,12 @@ Event,NOC,Pos.,Year,Discipline
 "Team, Open",FRG,1,1988,Equestrian Jumping
 "Team, Open",USA,2,1988,Equestrian Jumping
 "Team, Open",FRA,3,1988,Equestrian Jumping
-"ÃÂpÃÂ©e, Individual, Men",FRG,1,1988,Fencing
-"ÃÂpÃÂ©e, Individual, Men",FRA,2,1988,Fencing
-"ÃÂpÃÂ©e, Individual, Men",URS,3,1988,Fencing
-"ÃÂpÃÂ©e, Team, Men",FRA,1,1988,Fencing
-"ÃÂpÃÂ©e, Team, Men",FRG,2,1988,Fencing
-"ÃÂpÃÂ©e, Team, Men",URS,3,1988,Fencing
+"�p�e, Individual, Men",FRG,1,1988,Fencing
+"�p�e, Individual, Men",FRA,2,1988,Fencing
+"�p�e, Individual, Men",URS,3,1988,Fencing
+"�p�e, Team, Men",FRA,1,1988,Fencing
+"�p�e, Team, Men",FRG,2,1988,Fencing
+"�p�e, Team, Men",URS,3,1988,Fencing
 "Foil, Individual, Men",ITA,1,1988,Fencing
 "Foil, Individual, Men",GDR,2,1988,Fencing
 "Foil, Individual, Men",URS,3,1988,Fencing
@@ -4160,21 +4160,21 @@ Event,NOC,Pos.,Year,Discipline
 "200 metres Individual Medley, Women",GDR,1,1988,Swimming
 "200 metres Individual Medley, Women",URS,2,1988,Swimming
 "200 metres Individual Medley, Women",ROU,3,1988,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",USA,1,1988,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",URS,2,1988,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",GDR,3,1988,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",GDR,1,1988,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",NED,2,1988,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",USA,3,1988,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",USA,1,1988,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",CAN,2,1988,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",URS,3,1988,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",GDR,1,1988,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",USA,2,1988,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",CAN,3,1988,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",USA,1,1988,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",GDR,2,1988,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",FRG,3,1988,Swimming
+"4 x 100 metres Medley Relay, Men",USA,1,1964,Swimming
+"4 x 100 metres Medley Relay, Men",GER,2,1964,Swimming
+"4 x 100 metres Medley Relay, Men",AUS,3,1964,Swimming
+"4 x 100 metres Medley Relay, Men",USA,1,1968,Swimming
+"4 x 100 metres Medley Relay, Men",GDR,2,1968,Swimming
+"4 x 100 metres Medley Relay, Men",URS,3,1968,Swimming
+"4 x 100 metres Medley Relay, Men",USA,1,1972,Swimming
+"4 x 100 metres Medley Relay, Men",GDR,2,1972,Swimming
+"4 x 100 metres Medley Relay, Men",CAN,3,1972,Swimming
+"4 x 100 metres Medley Relay, Men",USA,1,1976,Swimming
+"4 x 100 metres Medley Relay, Men",CAN,2,1976,Swimming
+"4 x 100 metres Medley Relay, Men",FRG,3,1976,Swimming
+"4 x 100 metres Medley Relay, Men",AUS,1,1980,Swimming
+"4 x 100 metres Medley Relay, Men",URS,2,1980,Swimming
+"4 x 100 metres Medley Relay, Men",GBR,3,1980,Swimming
 "400 metres Freestyle, Men",GDR,1,1988,Swimming
 "400 metres Freestyle, Men",AUS,2,1988,Swimming
 "400 metres Freestyle, Men",POL,3,1988,Swimming
@@ -4437,18 +4437,18 @@ Event,NOC,Pos.,Year,Discipline
 "3,000 metres, Women",EUN,1,1992,Athletics
 "3,000 metres, Women",EUN,2,1992,Athletics
 "3,000 metres, Women",CAN,3,1992,Athletics
-"4 × 100 metres Relay, Men",USA,1,1992,Athletics
-"4 × 100 metres Relay, Men",NGR,2,1992,Athletics
-"4 × 100 metres Relay, Men",CUB,3,1992,Athletics
-"4 × 100 metres Relay, Women",USA,1,1992,Athletics
-"4 × 100 metres Relay, Women",EUN,2,1992,Athletics
-"4 × 100 metres Relay, Women",NGR,3,1992,Athletics
-"4 × 400 metres Relay, Men",USA,1,1992,Athletics
-"4 × 400 metres Relay, Men",CUB,2,1992,Athletics
-"4 × 400 metres Relay, Men",GBR,3,1992,Athletics
-"4 × 400 metres Relay, Women",EUN,1,1992,Athletics
-"4 × 400 metres Relay, Women",USA,2,1992,Athletics
-"4 × 400 metres Relay, Women",GBR,3,1992,Athletics
+"4 x 100 metres Medley Relay, Men",USA,1,1984,Swimming
+"4 x 100 metres Medley Relay, Men",CAN,2,1984,Swimming
+"4 x 100 metres Medley Relay, Men",AUS,3,1984,Swimming
+"4 x 100 metres Medley Relay, Men",USA,1,1988,Swimming
+"4 x 100 metres Medley Relay, Men",CAN,2,1988,Swimming
+"4 x 100 metres Medley Relay, Men",URS,3,1988,Swimming
+"4 x 100 metres Medley Relay, Men",USA,1,1992,Swimming
+"4 x 100 metres Medley Relay, Men",EUN,2,1992,Swimming
+"4 x 100 metres Medley Relay, Men",CAN,3,1992,Swimming
+"4 x 100 metres Medley Relay, Men",USA,1,1996,Swimming
+"4 x 100 metres Medley Relay, Men",RUS,2,1996,Swimming
+"4 x 100 metres Medley Relay, Men",AUS,3,1996,Swimming
 "400 metres Hurdles, Men",USA,1,1992,Athletics
 "400 metres Hurdles, Men",JAM,2,1992,Athletics
 "400 metres Hurdles, Men",GBR,3,1992,Athletics
@@ -4707,12 +4707,12 @@ Event,NOC,Pos.,Year,Discipline
 "Team, Open",NED,1,1992,Equestrian Jumping
 "Team, Open",AUT,2,1992,Equestrian Jumping
 "Team, Open",FRA,3,1992,Equestrian Jumping
-"ÃÂpÃÂ©e, Individual, Men",FRA,1,1992,Fencing
-"ÃÂpÃÂ©e, Individual, Men",EUN,2,1992,Fencing
-"ÃÂpÃÂ©e, Individual, Men",FRA,3,1992,Fencing
-"ÃÂpÃÂ©e, Team, Men",GER,1,1992,Fencing
-"ÃÂpÃÂ©e, Team, Men",HUN,2,1992,Fencing
-"ÃÂpÃÂ©e, Team, Men",EUN,3,1992,Fencing
+"�p�e, Individual, Men",FRA,1,1992,Fencing
+"�p�e, Individual, Men",EUN,2,1992,Fencing
+"�p�e, Individual, Men",FRA,3,1992,Fencing
+"�p�e, Team, Men",GER,1,1992,Fencing
+"�p�e, Team, Men",HUN,2,1992,Fencing
+"�p�e, Team, Men",EUN,3,1992,Fencing
 "Foil, Individual, Men",FRA,1,1992,Fencing
 "Foil, Individual, Men",EUN,2,1992,Fencing
 "Foil, Individual, Men",CUB,3,1992,Fencing
@@ -4979,21 +4979,21 @@ Event,NOC,Pos.,Year,Discipline
 "200 metres Individual Medley, Women",CHN,1,1992,Swimming
 "200 metres Individual Medley, Women",USA,2,1992,Swimming
 "200 metres Individual Medley, Women",GER,3,1992,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",USA,1,1992,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",EUN,2,1992,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",GER,3,1992,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",USA,1,1992,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",CHN,2,1992,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",GER,3,1992,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",USA,1,1992,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",EUN,2,1992,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",CAN,3,1992,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",USA,1,1992,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",GER,2,1992,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",EUN,3,1992,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",EUN,1,1992,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",SWE,2,1992,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",USA,3,1992,Swimming
+"4 x 100 metres Medley Relay, Men",USA,1,2004,Swimming
+"4 x 100 metres Medley Relay, Men",GER,2,2004,Swimming
+"4 x 100 metres Medley Relay, Men",JPN,3,2004,Swimming
+"4 x 100 metres Medley Relay, Men",USA,1,2008,Swimming
+"4 x 100 metres Medley Relay, Men",AUS,2,2008,Swimming
+"4 x 100 metres Medley Relay, Men",JPN,3,2008,Swimming
+"4 x 100 metres Medley Relay, Men",USA,1,2012,Swimming
+"4 x 100 metres Medley Relay, Men",JPN,2,2012,Swimming
+"4 x 100 metres Medley Relay, Men",AUS,3,2012,Swimming
+"4 x 100 metres Medley Relay, Men",USA,1,2016,Swimming
+"4 x 100 metres Medley Relay, Men",GBR,2,2016,Swimming
+"4 x 100 metres Medley Relay, Men",AUS,3,2016,Swimming
+"4 x 100 metres Medley Relay, Women",USA,1,1964,Swimming
+"4 x 100 metres Medley Relay, Women",NED,2,1964,Swimming
+"4 x 100 metres Medley Relay, Women",URS,3,1964,Swimming
 "400 metres Freestyle, Men",EUN,1,1992,Swimming
 "400 metres Freestyle, Men",AUS,2,1992,Swimming
 "400 metres Freestyle, Men",SWE,3,1992,Swimming
@@ -5247,18 +5247,18 @@ Event,NOC,Pos.,Year,Discipline
 "3,000 metres Steeplechase, Men",KEN,1,1996,Athletics
 "3,000 metres Steeplechase, Men",KEN,2,1996,Athletics
 "3,000 metres Steeplechase, Men",ITA,3,1996,Athletics
-"4 × 100 metres Relay, Men",CAN,1,1996,Athletics
-"4 × 100 metres Relay, Men",USA,2,1996,Athletics
-"4 × 100 metres Relay, Men",BRA,3,1996,Athletics
-"4 × 100 metres Relay, Women",USA,1,1996,Athletics
-"4 × 100 metres Relay, Women",BAH,2,1996,Athletics
-"4 × 100 metres Relay, Women",JAM,3,1996,Athletics
-"4 × 400 metres Relay, Men",USA,1,1996,Athletics
-"4 × 400 metres Relay, Men",GBR,2,1996,Athletics
-"4 × 400 metres Relay, Men",JAM,3,1996,Athletics
-"4 × 400 metres Relay, Women",USA,1,1996,Athletics
-"4 × 400 metres Relay, Women",NGR,2,1996,Athletics
-"4 × 400 metres Relay, Women",GER,3,1996,Athletics
+"4 x 100 metres Medley Relay, Women",USA,1,1968,Swimming
+"4 x 100 metres Medley Relay, Women",AUS,2,1968,Swimming
+"4 x 100 metres Medley Relay, Women",FRG,3,1968,Swimming
+"4 x 100 metres Medley Relay, Women",USA,1,1972,Swimming
+"4 x 100 metres Medley Relay, Women",GDR,2,1972,Swimming
+"4 x 100 metres Medley Relay, Women",FRG,3,1972,Swimming
+"4 x 100 metres Medley Relay, Women",GDR,1,1976,Swimming
+"4 x 100 metres Medley Relay, Women",USA,2,1976,Swimming
+"4 x 100 metres Medley Relay, Women",CAN,3,1976,Swimming
+"4 x 100 metres Medley Relay, Women",GDR,1,1980,Swimming
+"4 x 100 metres Medley Relay, Women",GBR,2,1980,Swimming
+"4 x 100 metres Medley Relay, Women",URS,3,1980,Swimming
 "400 metres Hurdles, Men",USA,1,1996,Athletics
 "400 metres Hurdles, Men",ZAM,2,1996,Athletics
 "400 metres Hurdles, Men",USA,3,1996,Athletics
@@ -5538,18 +5538,18 @@ Event,NOC,Pos.,Year,Discipline
 "Team, Open",GER,1,1996,Equestrian Jumping
 "Team, Open",USA,2,1996,Equestrian Jumping
 "Team, Open",BRA,3,1996,Equestrian Jumping
-"ÃÂpÃÂ©e, Individual, Men",RUS,1,1996,Fencing
-"ÃÂpÃÂ©e, Individual, Men",CUB,2,1996,Fencing
-"ÃÂpÃÂ©e, Individual, Men",HUN,3,1996,Fencing
-"ÃÂpÃÂ©e, Individual, Women",FRA,1,1996,Fencing
-"ÃÂpÃÂ©e, Individual, Women",FRA,2,1996,Fencing
-"ÃÂpÃÂ©e, Individual, Women",HUN,3,1996,Fencing
-"ÃÂpÃÂ©e, Team, Men",ITA,1,1996,Fencing
-"ÃÂpÃÂ©e, Team, Men",RUS,2,1996,Fencing
-"ÃÂpÃÂ©e, Team, Men",FRA,3,1996,Fencing
-"ÃÂpÃÂ©e, Team, Women",FRA,1,1996,Fencing
-"ÃÂpÃÂ©e, Team, Women",ITA,2,1996,Fencing
-"ÃÂpÃÂ©e, Team, Women",RUS,3,1996,Fencing
+"�p�e, Individual, Men",RUS,1,1996,Fencing
+"�p�e, Individual, Men",CUB,2,1996,Fencing
+"�p�e, Individual, Men",HUN,3,1996,Fencing
+"�p�e, Individual, Women",FRA,1,1996,Fencing
+"�p�e, Individual, Women",FRA,2,1996,Fencing
+"�p�e, Individual, Women",HUN,3,1996,Fencing
+"�p�e, Team, Men",ITA,1,1996,Fencing
+"�p�e, Team, Men",RUS,2,1996,Fencing
+"�p�e, Team, Men",FRA,3,1996,Fencing
+"�p�e, Team, Women",FRA,1,1996,Fencing
+"�p�e, Team, Women",ITA,2,1996,Fencing
+"�p�e, Team, Women",RUS,3,1996,Fencing
 "Foil, Individual, Men",ITA,1,1996,Fencing
 "Foil, Individual, Men",FRA,2,1996,Fencing
 "Foil, Individual, Men",FRA,3,1996,Fencing
@@ -5828,24 +5828,24 @@ Event,NOC,Pos.,Year,Discipline
 "200 metres Individual Medley, Women",IRL,1,1996,Swimming
 "200 metres Individual Medley, Women",CAN,2,1996,Swimming
 "200 metres Individual Medley, Women",CHN,3,1996,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",USA,1,1996,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",RUS,2,1996,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",GER,3,1996,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",USA,1,1996,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",CHN,2,1996,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",GER,3,1996,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",USA,1,1996,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",RUS,2,1996,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",AUS,3,1996,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",USA,1,1996,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",AUS,2,1996,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",CHN,3,1996,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",USA,1,1996,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",SWE,2,1996,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",GER,3,1996,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Women",USA,1,1996,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Women",GER,2,1996,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Women",AUS,3,1996,Swimming
+"4 x 100 metres Medley Relay, Women",USA,1,1984,Swimming
+"4 x 100 metres Medley Relay, Women",FRG,2,1984,Swimming
+"4 x 100 metres Medley Relay, Women",CAN,3,1984,Swimming
+"4 x 100 metres Medley Relay, Women",GDR,1,1988,Swimming
+"4 x 100 metres Medley Relay, Women",USA,2,1988,Swimming
+"4 x 100 metres Medley Relay, Women",CAN,3,1988,Swimming
+"4 x 100 metres Medley Relay, Women",USA,1,1992,Swimming
+"4 x 100 metres Medley Relay, Women",GER,2,1992,Swimming
+"4 x 100 metres Medley Relay, Women",EUN,3,1992,Swimming
+"4 x 100 metres Medley Relay, Women",USA,1,1996,Swimming
+"4 x 100 metres Medley Relay, Women",AUS,2,1996,Swimming
+"4 x 100 metres Medley Relay, Women",CHN,3,1996,Swimming
+"4 x 100 metres Medley Relay, Women",AUS,1,2004,Swimming
+"4 x 100 metres Medley Relay, Women",USA,2,2004,Swimming
+"4 x 100 metres Medley Relay, Women",GER,3,2004,Swimming
+"4 x 100 metres Medley Relay, Women",AUS,1,2008,Swimming
+"4 x 100 metres Medley Relay, Women",USA,2,2008,Swimming
+"4 x 100 metres Medley Relay, Women",CHN,3,2008,Swimming
 "400 metres Freestyle, Men",NZL,1,1996,Swimming
 "400 metres Freestyle, Men",GBR,2,1996,Swimming
 "400 metres Freestyle, Men",AUS,3,1996,Swimming
@@ -6090,18 +6090,18 @@ Event,NOC,Pos.,Year,Discipline
 "3,000 metres Steeplechase, Men ",KEN ,1,2000,Athletics
 "3,000 metres Steeplechase, Men ",KEN ,2,2000,Athletics
 "3,000 metres Steeplechase, Men ",MAR,3,2000,Athletics
-"4 × 100 metres Relay, Men ",USA ,1,2000,Athletics
-"4 × 100 metres Relay, Men ",BRA ,2,2000,Athletics
-"4 × 100 metres Relay, Men ",CUB,3,2000,Athletics
-"4 × 100 metres Relay, Women ",BAH ,1,2000,Athletics
-"4 × 100 metres Relay, Women ",JAM ,2,2000,Athletics
-"4 × 100 metres Relay, Women ",USA,3,2000,Athletics
-"4 × 400 metres Relay, Men ",NGR ,1,2000,Athletics
-"4 × 400 metres Relay, Men ",JAM ,2,2000,Athletics
-"4 × 400 metres Relay, Men ",BAH,3,2000,Athletics
-"4 × 400 metres Relay, Women ",USA ,1,2000,Athletics
-"4 × 400 metres Relay, Women ",JAM ,2,2000,Athletics
-"4 × 400 metres Relay, Women ",RUS,3,2000,Athletics
+"4 x 100 metres Medley Relay, Women",USA,1,2012,Swimming
+"4 x 100 metres Medley Relay, Women",AUS,2,2012,Swimming
+"4 x 100 metres Medley Relay, Women",JPN,3,2012,Swimming
+"4 x 100 metres Medley Relay, Women",USA,1,2016,Swimming
+"4 x 100 metres Medley Relay, Women",AUS,2,2016,Swimming
+"4 x 100 metres Medley Relay, Women",DEN,3,2016,Swimming
+"4 x 100 metres Relay, Men",USA,1,1964,Athletics
+"4 x 100 metres Relay, Men",POL,2,1964,Athletics
+"4 x 100 metres Relay, Men",FRA,3,1964,Athletics
+"4 x 100 metres Relay, Men",USA,1,1968,Athletics
+"4 x 100 metres Relay, Men",CUB,2,1968,Athletics
+"4 x 100 metres Relay, Men",FRA,3,1968,Athletics
 "400 metres Hurdles, Men ",USA ,1,2000,Athletics
 "400 metres Hurdles, Men ",KSA ,2,2000,Athletics
 "400 metres Hurdles, Men ",RSA,3,2000,Athletics
@@ -6412,18 +6412,18 @@ Event,NOC,Pos.,Year,Discipline
 "Team, Open",GER,1,2000,Equestrian Jumping
 "Team, Open",SUI,2,2000,Equestrian Jumping
 "Team, Open",BRA,3,2000,Equestrian Jumping
-"ÃÂpÃÂ©e, Individual, Men",RUS,1,2000,Fencing
-"ÃÂpÃÂ©e, Individual, Men",FRA,2,2000,Fencing
-"ÃÂpÃÂ©e, Individual, Men",KOR,3,2000,Fencing
-"ÃÂpÃÂ©e, Individual, Women",HUN,1,2000,Fencing
-"ÃÂpÃÂ©e, Individual, Women",SUI,2,2000,Fencing
-"ÃÂpÃÂ©e, Individual, Women",FRA,3,2000,Fencing
-"ÃÂpÃÂ©e, Team, Men",ITA,1,2000,Fencing
-"ÃÂpÃÂ©e, Team, Men",FRA,2,2000,Fencing
-"ÃÂpÃÂ©e, Team, Men",CUB,3,2000,Fencing
-"ÃÂpÃÂ©e, Team, Women",RUS,1,2000,Fencing
-"ÃÂpÃÂ©e, Team, Women",SUI,2,2000,Fencing
-"ÃÂpÃÂ©e, Team, Women",CHN,3,2000,Fencing
+"�p�e, Individual, Men",RUS,1,2000,Fencing
+"�p�e, Individual, Men",FRA,2,2000,Fencing
+"�p�e, Individual, Men",KOR,3,2000,Fencing
+"�p�e, Individual, Women",HUN,1,2000,Fencing
+"�p�e, Individual, Women",SUI,2,2000,Fencing
+"�p�e, Individual, Women",FRA,3,2000,Fencing
+"�p�e, Team, Men",ITA,1,2000,Fencing
+"�p�e, Team, Men",FRA,2,2000,Fencing
+"�p�e, Team, Men",CUB,3,2000,Fencing
+"�p�e, Team, Women",RUS,1,2000,Fencing
+"�p�e, Team, Women",SUI,2,2000,Fencing
+"�p�e, Team, Women",CHN,3,2000,Fencing
 "Foil, Individual, Men",KOR,1,2000,Fencing
 "Foil, Individual, Men",GER,2,2000,Fencing
 "Foil, Individual, Men",RUS,3,2000,Fencing
@@ -6714,24 +6714,24 @@ Event,NOC,Pos.,Year,Discipline
 "200 metres Individual Medley, Women",UKR,1,2000,Swimming
 "200 metres Individual Medley, Women",ROU,2,2000,Swimming
 "200 metres Individual Medley, Women",USA,3,2000,Swimming
-"4 × 100 metres Freestyle Relay, Men",AUS,1,2000,Swimming
-"4 × 100 metres Freestyle Relay, Men",USA,2,2000,Swimming
-"4 × 100 metres Freestyle Relay, Men",BRA,3,2000,Swimming
-"4 × 100 metres Freestyle Relay, Women",USA,1,2000,Swimming
-"4 × 100 metres Freestyle Relay, Women",NED,2,2000,Swimming
-"4 × 100 metres Freestyle Relay, Women",SWE,3,2000,Swimming
-"4 × 100 metres Medley Relay, Men",USA,1,2000,Swimming
-"4 × 100 metres Medley Relay, Men",AUS,2,2000,Swimming
-"4 × 100 metres Medley Relay, Men",GER,3,2000,Swimming
-"4 × 100 metres Medley Relay, Women",USA,1,2000,Swimming
-"4 × 100 metres Medley Relay, Women",AUS,2,2000,Swimming
-"4 × 100 metres Medley Relay, Women",JPN,3,2000,Swimming
-"4 × 200 metres Freestyle Relay, Men",AUS,1,2000,Swimming
-"4 × 200 metres Freestyle Relay, Men",USA,2,2000,Swimming
-"4 × 200 metres Freestyle Relay, Men",NED,3,2000,Swimming
-"4 × 200 metres Freestyle Relay, Women",USA,1,2000,Swimming
-"4 × 200 metres Freestyle Relay, Women",AUS,2,2000,Swimming
-"4 × 200 metres Freestyle Relay, Women",GER,3,2000,Swimming
+"4 x 100 metres Relay, Men",USA,1,1972,Athletics
+"4 x 100 metres Relay, Men",URS,2,1972,Athletics
+"4 x 100 metres Relay, Men",FRG,3,1972,Athletics
+"4 x 100 metres Relay, Men",USA,1,1976,Athletics
+"4 x 100 metres Relay, Men",GDR,2,1976,Athletics
+"4 x 100 metres Relay, Men",URS,3,1976,Athletics
+"4 x 100 metres Relay, Men",URS,1,1980,Athletics
+"4 x 100 metres Relay, Men",POL,2,1980,Athletics
+"4 x 100 metres Relay, Men",FRA,3,1980,Athletics
+"4 x 100 metres Relay, Men",TTO,1,2008,Athletics
+"4 x 100 metres Relay, Men",JPN,2,2008,Athletics
+"4 x 100 metres Relay, Men",BRA,3,2008,Athletics
+"4 x 100 metres Relay, Men",JAM,1,2012,Athletics
+"4 x 100 metres Relay, Men",TTO,2,2012,Athletics
+"4 x 100 metres Relay, Men",FRA,3,2012,Athletics
+"4 x 100 metres Relay, Men",JAM,1,2016,Athletics
+"4 x 100 metres Relay, Men",JPN,2,2016,Athletics
+"4 x 100 metres Relay, Men",CAN,3,2016,Athletics
 "400 metres Freestyle, Men",AUS,1,2000,Swimming
 "400 metres Freestyle, Men",ITA,2,2000,Swimming
 "400 metres Freestyle, Men",USA,3,2000,Swimming
@@ -7019,18 +7019,18 @@ Event,NOC,Pos.,Year,Discipline
 "3,000 metres Steeplechase, Men",KEN,1,2004,Athletics
 "3,000 metres Steeplechase, Men",KEN,2,2004,Athletics
 "3,000 metres Steeplechase, Men",KEN,3,2004,Athletics
-"4 × 100 metres Relay, Men",GBR,1,2004,Athletics
-"4 × 100 metres Relay, Men",USA,2,2004,Athletics
-"4 × 100 metres Relay, Men",NGR,3,2004,Athletics
-"4 × 100 metres Relay, Women",JAM,1,2004,Athletics
-"4 × 100 metres Relay, Women",RUS,2,2004,Athletics
-"4 × 100 metres Relay, Women",FRA,3,2004,Athletics
-"4 × 400 metres Relay, Men",USA,1,2004,Athletics
-"4 × 400 metres Relay, Men",AUS,2,2004,Athletics
-"4 × 400 metres Relay, Men",NGR,3,2004,Athletics
-"4 × 400 metres Relay, Women",USA,1,2004,Athletics
-"4 × 400 metres Relay, Women",RUS,2,2004,Athletics
-"4 × 400 metres Relay, Women",JAM,3,2004,Athletics
+"4 x 100 metres Relay, Women",POL,1,1964,Athletics
+"4 x 100 metres Relay, Women",USA,2,1964,Athletics
+"4 x 100 metres Relay, Women",GBR,3,1964,Athletics
+"4 x 100 metres Relay, Women",USA,1,1968,Athletics
+"4 x 100 metres Relay, Women",CUB,2,1968,Athletics
+"4 x 100 metres Relay, Women",URS,3,1968,Athletics
+"4 x 100 metres Relay, Women",FRG,1,1972,Athletics
+"4 x 100 metres Relay, Women",GDR,2,1972,Athletics
+"4 x 100 metres Relay, Women",CUB,3,1972,Athletics
+"4 x 100 metres Relay, Women",GDR,1,1976,Athletics
+"4 x 100 metres Relay, Women",FRG,2,1976,Athletics
+"4 x 100 metres Relay, Women",URS,3,1976,Athletics
 "400 metres Hurdles, Men",DOM,1,2004,Athletics
 "400 metres Hurdles, Men",JAM,2,2004,Athletics
 "400 metres Hurdles, Men",FRA,3,2004,Athletics
@@ -7336,18 +7336,18 @@ Event,NOC,Pos.,Year,Discipline
 "Team, Open",USA,1,2004,Equestrian Jumping
 "Team, Open",SWE,2,2004,Equestrian Jumping
 "Team, Open",GER,3,2004,Equestrian Jumping
-"ÃÂpÃÂ©e, Individual, Men",SUI,1,2004,Fencing
-"ÃÂpÃÂ©e, Individual, Men",CHN,2,2004,Fencing
-"ÃÂpÃÂ©e, Individual, Men",RUS,3,2004,Fencing
-"ÃÂpÃÂ©e, Individual, Women",HUN,1,2004,Fencing
-"ÃÂpÃÂ©e, Individual, Women",FRA,2,2004,Fencing
-"ÃÂpÃÂ©e, Individual, Women",FRA,3,2004,Fencing
-"ÃÂpÃÂ©e, Team, Men",FRA,1,2004,Fencing
-"ÃÂpÃÂ©e, Team, Men",HUN,2,2004,Fencing
-"ÃÂpÃÂ©e, Team, Men",GER,3,2004,Fencing
-"ÃÂpÃÂ©e, Team, Women",RUS,1,2004,Fencing
-"ÃÂpÃÂ©e, Team, Women",GER,2,2004,Fencing
-"ÃÂpÃÂ©e, Team, Women",FRA,3,2004,Fencing
+"�p�e, Individual, Men",SUI,1,2004,Fencing
+"�p�e, Individual, Men",CHN,2,2004,Fencing
+"�p�e, Individual, Men",RUS,3,2004,Fencing
+"�p�e, Individual, Women",HUN,1,2004,Fencing
+"�p�e, Individual, Women",FRA,2,2004,Fencing
+"�p�e, Individual, Women",FRA,3,2004,Fencing
+"�p�e, Team, Men",FRA,1,2004,Fencing
+"�p�e, Team, Men",HUN,2,2004,Fencing
+"�p�e, Team, Men",GER,3,2004,Fencing
+"�p�e, Team, Women",RUS,1,2004,Fencing
+"�p�e, Team, Women",GER,2,2004,Fencing
+"�p�e, Team, Women",FRA,3,2004,Fencing
 "Foil, Individual, Men",FRA,1,2004,Fencing
 "Foil, Individual, Men",ITA,2,2004,Fencing
 "Foil, Individual, Men",ITA,3,2004,Fencing
@@ -7639,24 +7639,24 @@ Event,NOC,Pos.,Year,Discipline
 "200 metres Individual Medley, Women",UKR,1,2004,Swimming
 "200 metres Individual Medley, Women",USA,2,2004,Swimming
 "200 metres Individual Medley, Women",ZIM,3,2004,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",RSA,1,2004,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",NED,2,2004,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",USA,3,2004,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",AUS,1,2004,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",USA,2,2004,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",NED,3,2004,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",USA,1,2004,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",GER,2,2004,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",JPN,3,2004,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",AUS,1,2004,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",USA,2,2004,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",GER,3,2004,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",USA,1,2004,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",AUS,2,2004,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",ITA,3,2004,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Women",USA,1,2004,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Women",CHN,2,2004,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Women",GER,3,2004,Swimming
+"4 x 100 metres Relay, Women",GDR,1,1980,Athletics
+"4 x 100 metres Relay, Women",URS,2,1980,Athletics
+"4 x 100 metres Relay, Women",GBR,3,1980,Athletics
+"4 x 100 metres Relay, Women",BEL,1,2008,Athletics
+"4 x 100 metres Relay, Women",NGR,2,2008,Athletics
+"4 x 100 metres Relay, Women",BRA,3,2008,Athletics
+"4 x 100 metres Relay, Women",USA,1,2012,Athletics
+"4 x 100 metres Relay, Women",JAM,2,2012,Athletics
+"4 x 100 metres Relay, Women",UKR,3,2012,Athletics
+"4 x 100 metres Relay, Women",USA,1,2016,Athletics
+"4 x 100 metres Relay, Women",JAM,2,2016,Athletics
+"4 x 100 metres Relay, Women",GBR,3,2016,Athletics
+"4 x 200 metres Freestyle Relay, Men",USA,1,1964,Swimming
+"4 x 200 metres Freestyle Relay, Men",GER,2,1964,Swimming
+"4 x 200 metres Freestyle Relay, Men",JPN,3,1964,Swimming
+"4 x 200 metres Freestyle Relay, Men",USA,1,1968,Swimming
+"4 x 200 metres Freestyle Relay, Men",AUS,2,1968,Swimming
+"4 x 200 metres Freestyle Relay, Men",URS,3,1968,Swimming
 "400 metres Freestyle, Men",AUS,1,2004,Swimming
 "400 metres Freestyle, Men",AUS,2,2004,Swimming
 "400 metres Freestyle, Men",USA,3,2004,Swimming
@@ -7952,18 +7952,18 @@ Event,NOC,Pos.,Year,Discipline
 "3,000 metres Steeplechase, Women",RUS,1,2008,Athletics
 "3,000 metres Steeplechase, Women",KEN,2,2008,Athletics
 "3,000 metres Steeplechase, Women",RUS,3,2008,Athletics
-"4 ÃÂ 100 metres Relay, Men",TTO,1,2008,Athletics
-"4 ÃÂ 100 metres Relay, Men",JPN,2,2008,Athletics
-"4 ÃÂ 100 metres Relay, Men",BRA,3,2008,Athletics
-"4 ÃÂ 100 metres Relay, Women",BEL,1,2008,Athletics
-"4 ÃÂ 100 metres Relay, Women",NGR,2,2008,Athletics
-"4 ÃÂ 100 metres Relay, Women",BRA,3,2008,Athletics
-"4 ÃÂ 400 metres Relay, Men",USA,1,2008,Athletics
-"4 ÃÂ 400 metres Relay, Men",BAH,2,2008,Athletics
-"4 ÃÂ 400 metres Relay, Men",GBR,3,2008,Athletics
-"4 ÃÂ 400 metres Relay, Women",USA,1,2008,Athletics
-"4 ÃÂ 400 metres Relay, Women",JAM,2,2008,Athletics
-"4 ÃÂ 400 metres Relay, Women",GBR,3,2008,Athletics
+"4 x 200 metres Freestyle Relay, Men",USA,1,1972,Swimming
+"4 x 200 metres Freestyle Relay, Men",FRG,2,1972,Swimming
+"4 x 200 metres Freestyle Relay, Men",URS,3,1972,Swimming
+"4 x 200 metres Freestyle Relay, Men",USA,1,1976,Swimming
+"4 x 200 metres Freestyle Relay, Men",URS,2,1976,Swimming
+"4 x 200 metres Freestyle Relay, Men",GBR,3,1976,Swimming
+"4 x 200 metres Freestyle Relay, Men",URS,1,1980,Swimming
+"4 x 200 metres Freestyle Relay, Men",GDR,2,1980,Swimming
+"4 x 200 metres Freestyle Relay, Men",BRA,3,1980,Swimming
+"4 x 200 metres Freestyle Relay, Men",USA,1,1984,Swimming
+"4 x 200 metres Freestyle Relay, Men",FRG,2,1984,Swimming
+"4 x 200 metres Freestyle Relay, Men",GBR,3,1984,Swimming
 "400 metres Hurdles, Men",USA,1,2008,Athletics
 "400 metres Hurdles, Men",USA,2,2008,Athletics
 "400 metres Hurdles, Men",USA,3,2008,Athletics
@@ -8269,15 +8269,15 @@ Event,NOC,Pos.,Year,Discipline
 "Team, Open",USA,1,2008,Equestrian Jumping
 "Team, Open",CAN,2,2008,Equestrian Jumping
 "Team, Open",SUI,3,2008,Equestrian Jumping
-"ÃÂpÃÂ©e, Individual, Men",ITA,1,2008,Fencing
-"ÃÂpÃÂ©e, Individual, Men",FRA,2,2008,Fencing
-"ÃÂpÃÂ©e, Individual, Men",ESP,3,2008,Fencing
-"ÃÂpÃÂ©e, Individual, Women",GER,1,2008,Fencing
-"ÃÂpÃÂ©e, Individual, Women",ROU,2,2008,Fencing
-"ÃÂpÃÂ©e, Individual, Women",HUN,3,2008,Fencing
-"ÃÂpÃÂ©e, Team, Men",FRA,1,2008,Fencing
-"ÃÂpÃÂ©e, Team, Men",POL,2,2008,Fencing
-"ÃÂpÃÂ©e, Team, Men",ITA,3,2008,Fencing
+"�p�e, Individual, Men",ITA,1,2008,Fencing
+"�p�e, Individual, Men",FRA,2,2008,Fencing
+"�p�e, Individual, Men",ESP,3,2008,Fencing
+"�p�e, Individual, Women",GER,1,2008,Fencing
+"�p�e, Individual, Women",ROU,2,2008,Fencing
+"�p�e, Individual, Women",HUN,3,2008,Fencing
+"�p�e, Team, Men",FRA,1,2008,Fencing
+"�p�e, Team, Men",POL,2,2008,Fencing
+"�p�e, Team, Men",ITA,3,2008,Fencing
 "Foil, Individual, Men",GER,1,2008,Fencing
 "Foil, Individual, Men",JPN,2,2008,Fencing
 "Foil, Individual, Men",ITA,3,2008,Fencing
@@ -8573,24 +8573,24 @@ Event,NOC,Pos.,Year,Discipline
 "200 metres Individual Medley, Women",AUS,1,2008,Swimming
 "200 metres Individual Medley, Women",ZIM,2,2008,Swimming
 "200 metres Individual Medley, Women",USA,3,2008,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",USA,1,2008,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",FRA,2,2008,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",AUS,3,2008,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",NED,1,2008,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",USA,2,2008,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",AUS,3,2008,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",USA,1,2008,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",AUS,2,2008,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",JPN,3,2008,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",AUS,1,2008,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",USA,2,2008,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",CHN,3,2008,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",USA,1,2008,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",RUS,2,2008,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",AUS,3,2008,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Women",AUS,1,2008,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Women",CHN,2,2008,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Women",USA,3,2008,Swimming
+"4 x 200 metres Freestyle Relay, Men",USA,1,1988,Swimming
+"4 x 200 metres Freestyle Relay, Men",GDR,2,1988,Swimming
+"4 x 200 metres Freestyle Relay, Men",FRG,3,1988,Swimming
+"4 x 200 metres Freestyle Relay, Men",EUN,1,1992,Swimming
+"4 x 200 metres Freestyle Relay, Men",SWE,2,1992,Swimming
+"4 x 200 metres Freestyle Relay, Men",USA,3,1992,Swimming
+"4 x 200 metres Freestyle Relay, Men",USA,1,1996,Swimming
+"4 x 200 metres Freestyle Relay, Men",SWE,2,1996,Swimming
+"4 x 200 metres Freestyle Relay, Men",GER,3,1996,Swimming
+"4 x 200 metres Freestyle Relay, Men",USA,1,2004,Swimming
+"4 x 200 metres Freestyle Relay, Men",AUS,2,2004,Swimming
+"4 x 200 metres Freestyle Relay, Men",ITA,3,2004,Swimming
+"4 x 200 metres Freestyle Relay, Men",USA,1,2008,Swimming
+"4 x 200 metres Freestyle Relay, Men",RUS,2,2008,Swimming
+"4 x 200 metres Freestyle Relay, Men",AUS,3,2008,Swimming
+"4 x 200 metres Freestyle Relay, Men",USA,1,2012,Swimming
+"4 x 200 metres Freestyle Relay, Men",FRA,2,2012,Swimming
+"4 x 200 metres Freestyle Relay, Men",CHN,3,2012,Swimming
 "400 metres Freestyle, Men",KOR,1,2008,Swimming
 "400 metres Freestyle, Men",CHN,2,2008,Swimming
 "400 metres Freestyle, Men",USA,3,2008,Swimming
@@ -8910,18 +8910,18 @@ Event,NOC,Pos.,Year,Discipline
 "3,000 metres Steeplechase, Women",TUN,1,2012,Athletics
 "3,000 metres Steeplechase, Women",ETH,2,2012,Athletics
 "3,000 metres Steeplechase, Women",KEN,3,2012,Athletics
-"4 ÃÂ 100 metres Relay, Men",JAM,1,2012,Athletics
-"4 ÃÂ 100 metres Relay, Men",TTO,2,2012,Athletics
-"4 ÃÂ 100 metres Relay, Men",FRA,3,2012,Athletics
-"4 ÃÂ 100 metres Relay, Women",USA,1,2012,Athletics
-"4 ÃÂ 100 metres Relay, Women",JAM,2,2012,Athletics
-"4 ÃÂ 100 metres Relay, Women",UKR,3,2012,Athletics
-"4 ÃÂ 400 metres Relay, Men",BAH,1,2012,Athletics
-"4 ÃÂ 400 metres Relay, Men",USA,2,2012,Athletics
-"4 ÃÂ 400 metres Relay, Men",TTO,3,2012,Athletics
-"4 ÃÂ 400 metres Relay, Women",USA,1,2012,Athletics
-"4 ÃÂ 400 metres Relay, Women",JAM,2,2012,Athletics
-"4 ÃÂ 400 metres Relay, Women",UKR,3,2012,Athletics
+"4 x 200 metres Freestyle Relay, Men",USA,1,2016,Swimming
+"4 x 200 metres Freestyle Relay, Men",GBR,2,2016,Swimming
+"4 x 200 metres Freestyle Relay, Men",JPN,3,2016,Swimming
+"4 x 200 metres Freestyle Relay, Women",USA,1,1996,Swimming
+"4 x 200 metres Freestyle Relay, Women",GER,2,1996,Swimming
+"4 x 200 metres Freestyle Relay, Women",AUS,3,1996,Swimming
+"4 x 200 metres Freestyle Relay, Women",USA,1,2004,Swimming
+"4 x 200 metres Freestyle Relay, Women",CHN,2,2004,Swimming
+"4 x 200 metres Freestyle Relay, Women",GER,3,2004,Swimming
+"4 x 200 metres Freestyle Relay, Women",AUS,1,2008,Swimming
+"4 x 200 metres Freestyle Relay, Women",CHN,2,2008,Swimming
+"4 x 200 metres Freestyle Relay, Women",USA,3,2008,Swimming
 "400 metres Hurdles, Men",DOM,1,2012,Athletics
 "400 metres Hurdles, Men",USA,2,2012,Athletics
 "400 metres Hurdles, Men",PUR,3,2012,Athletics
@@ -9235,15 +9235,15 @@ Event,NOC,Pos.,Year,Discipline
 "Team, Open",GBR,1,2012,Equestrian Jumping
 "Team, Open",NED,2,2012,Equestrian Jumping
 "Team, Open",KSA,3,2012,Equestrian Jumping
-"ÃÂpÃÂ©e, Individual, Men",VEN,1,2012,Fencing
-"ÃÂpÃÂ©e, Individual, Men",NOR,2,2012,Fencing
-"ÃÂpÃÂ©e, Individual, Men",KOR,3,2012,Fencing
-"ÃÂpÃÂ©e, Individual, Women",UKR,1,2012,Fencing
-"ÃÂpÃÂ©e, Individual, Women",GER,2,2012,Fencing
-"ÃÂpÃÂ©e, Individual, Women",CHN,3,2012,Fencing
-"ÃÂpÃÂ©e, Team, Women",CHN,1,2012,Fencing
-"ÃÂpÃÂ©e, Team, Women",KOR,2,2012,Fencing
-"ÃÂpÃÂ©e, Team, Women",USA,3,2012,Fencing
+"�p�e, Individual, Men",VEN,1,2012,Fencing
+"�p�e, Individual, Men",NOR,2,2012,Fencing
+"�p�e, Individual, Men",KOR,3,2012,Fencing
+"�p�e, Individual, Women",UKR,1,2012,Fencing
+"�p�e, Individual, Women",GER,2,2012,Fencing
+"�p�e, Individual, Women",CHN,3,2012,Fencing
+"�p�e, Team, Women",CHN,1,2012,Fencing
+"�p�e, Team, Women",KOR,2,2012,Fencing
+"�p�e, Team, Women",USA,3,2012,Fencing
 "Foil, Individual, Men",CHN,1,2012,Fencing
 "Foil, Individual, Men",EGY,2,2012,Fencing
 "Foil, Individual, Men",KOR,3,2012,Fencing
@@ -9533,24 +9533,24 @@ Event,NOC,Pos.,Year,Discipline
 "200 metres Individual Medley, Women",CHN,1,2012,Swimming
 "200 metres Individual Medley, Women",AUS,2,2012,Swimming
 "200 metres Individual Medley, Women",USA,3,2012,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",FRA,1,2012,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",USA,2,2012,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",RUS,3,2012,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",AUS,1,2012,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",NED,2,2012,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",USA,3,2012,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",USA,1,2012,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",JPN,2,2012,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",AUS,3,2012,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",USA,1,2012,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",AUS,2,2012,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",JPN,3,2012,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",USA,1,2012,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",FRA,2,2012,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",CHN,3,2012,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Women",USA,1,2012,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Women",AUS,2,2012,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Women",FRA,3,2012,Swimming
+"4 x 200 metres Freestyle Relay, Women",USA,1,2012,Swimming
+"4 x 200 metres Freestyle Relay, Women",AUS,2,2012,Swimming
+"4 x 200 metres Freestyle Relay, Women",FRA,3,2012,Swimming
+"4 x 200 metres Freestyle Relay, Women",USA,1,2016,Swimming
+"4 x 200 metres Freestyle Relay, Women",AUS,2,2016,Swimming
+"4 x 200 metres Freestyle Relay, Women",CAN,3,2016,Swimming
+"4 x 400 metres Relay, Men",USA,1,1964,Athletics
+"4 x 400 metres Relay, Men",GBR,2,1964,Athletics
+"4 x 400 metres Relay, Men",TTO,3,1964,Athletics
+"4 x 400 metres Relay, Men",USA,1,1968,Athletics
+"4 x 400 metres Relay, Men",KEN,2,1968,Athletics
+"4 x 400 metres Relay, Men",FRG,3,1968,Athletics
+"4 x 400 metres Relay, Men",KEN,1,1972,Athletics
+"4 x 400 metres Relay, Men",GBR,2,1972,Athletics
+"4 x 400 metres Relay, Men",FRA,3,1972,Athletics
+"4 x 400 metres Relay, Men",USA,1,1976,Athletics
+"4 x 400 metres Relay, Men",POL,2,1976,Athletics
+"4 x 400 metres Relay, Men",FRG,3,1976,Athletics
 "400 metres Freestyle, Men",CHN,1,2012,Swimming
 "400 metres Freestyle, Men",KOR,2,2012,Swimming
 "400 metres Freestyle, Men",USA,3,2012,Swimming
@@ -9876,18 +9876,18 @@ Event,NOC,Pos.,Year,Discipline
 "3,000 metres Steeplechase, Women",BRN,1,2016,Athletics
 "3,000 metres Steeplechase, Women",KEN,2,2016,Athletics
 "3,000 metres Steeplechase, Women",USA,3,2016,Athletics
-"4 ÃÂ 100 metres Relay, Men",JAM,1,2016,Athletics
-"4 ÃÂ 100 metres Relay, Men",JPN,2,2016,Athletics
-"4 ÃÂ 100 metres Relay, Men",CAN,3,2016,Athletics
-"4 ÃÂ 100 metres Relay, Women",USA,1,2016,Athletics
-"4 ÃÂ 100 metres Relay, Women",JAM,2,2016,Athletics
-"4 ÃÂ 100 metres Relay, Women",GBR,3,2016,Athletics
-"4 ÃÂ 400 metres Relay, Men",USA,1,2016,Athletics
-"4 ÃÂ 400 metres Relay, Men",JAM,2,2016,Athletics
-"4 ÃÂ 400 metres Relay, Men",BAH,3,2016,Athletics
-"4 ÃÂ 400 metres Relay, Women",USA,1,2016,Athletics
-"4 ÃÂ 400 metres Relay, Women",JAM,2,2016,Athletics
-"4 ÃÂ 400 metres Relay, Women",GBR,3,2016,Athletics
+"4 x 400 metres Relay, Men",URS,1,1980,Athletics
+"4 x 400 metres Relay, Men",GDR,2,1980,Athletics
+"4 x 400 metres Relay, Men",ITA,3,1980,Athletics
+"4 x 400 metres Relay, Men",USA,1,2008,Athletics
+"4 x 400 metres Relay, Men",BAH,2,2008,Athletics
+"4 x 400 metres Relay, Men",GBR,3,2008,Athletics
+"4 x 400 metres Relay, Men",BAH,1,2012,Athletics
+"4 x 400 metres Relay, Men",USA,2,2012,Athletics
+"4 x 400 metres Relay, Men",TTO,3,2012,Athletics
+"4 x 400 metres Relay, Men",USA,1,2016,Athletics
+"4 x 400 metres Relay, Men",JAM,2,2016,Athletics
+"4 x 400 metres Relay, Men",BAH,3,2016,Athletics
 "400 metres Hurdles, Men",USA,1,2016,Athletics
 "400 metres Hurdles, Men",KEN,2,2016,Athletics
 "400 metres Hurdles, Men",TUR,3,2016,Athletics
@@ -10198,18 +10198,18 @@ Event,NOC,Pos.,Year,Discipline
 "Team, Open",FRA,1,2016,Equestrian Jumping
 "Team, Open",USA,2,2016,Equestrian Jumping
 "Team, Open",GER,3,2016,Equestrian Jumping
-"ÃÂpÃÂ©e, Individual, Men",KOR,1,2016,Fencing
-"ÃÂpÃÂ©e, Individual, Men",HUN,2,2016,Fencing
-"ÃÂpÃÂ©e, Individual, Men",FRA,3,2016,Fencing
-"ÃÂpÃÂ©e, Individual, Women",HUN,1,2016,Fencing
-"ÃÂpÃÂ©e, Individual, Women",ITA,2,2016,Fencing
-"ÃÂpÃÂ©e, Individual, Women",CHN,3,2016,Fencing
-"ÃÂpÃÂ©e, Team, Men",FRA,1,2016,Fencing
-"ÃÂpÃÂ©e, Team, Men",ITA,2,2016,Fencing
-"ÃÂpÃÂ©e, Team, Men",HUN,3,2016,Fencing
-"ÃÂpÃÂ©e, Team, Women",ROU,1,2016,Fencing
-"ÃÂpÃÂ©e, Team, Women",CHN,2,2016,Fencing
-"ÃÂpÃÂ©e, Team, Women",RUS,3,2016,Fencing
+"�p�e, Individual, Men",KOR,1,2016,Fencing
+"�p�e, Individual, Men",HUN,2,2016,Fencing
+"�p�e, Individual, Men",FRA,3,2016,Fencing
+"�p�e, Individual, Women",HUN,1,2016,Fencing
+"�p�e, Individual, Women",ITA,2,2016,Fencing
+"�p�e, Individual, Women",CHN,3,2016,Fencing
+"�p�e, Team, Men",FRA,1,2016,Fencing
+"�p�e, Team, Men",ITA,2,2016,Fencing
+"�p�e, Team, Men",HUN,3,2016,Fencing
+"�p�e, Team, Women",ROU,1,2016,Fencing
+"�p�e, Team, Women",CHN,2,2016,Fencing
+"�p�e, Team, Women",RUS,3,2016,Fencing
 "Foil, Individual, Men",ITA,1,2016,Fencing
 "Foil, Individual, Men",USA,2,2016,Fencing
 "Foil, Individual, Men",RUS,3,2016,Fencing
@@ -10510,24 +10510,24 @@ Event,NOC,Pos.,Year,Discipline
 "200 metres Individual Medley, Women",HUN,1,2016,Swimming
 "200 metres Individual Medley, Women",GBR,2,2016,Swimming
 "200 metres Individual Medley, Women",USA,3,2016,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",USA,1,2016,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",FRA,2,2016,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Men",AUS,3,2016,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",AUS,1,2016,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",USA,2,2016,Swimming
-"4 ÃÂ 100 metres Freestyle Relay, Women",CAN,3,2016,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",USA,1,2016,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",GBR,2,2016,Swimming
-"4 ÃÂ 100 metres Medley Relay, Men",AUS,3,2016,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",USA,1,2016,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",AUS,2,2016,Swimming
-"4 ÃÂ 100 metres Medley Relay, Women",DEN,3,2016,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",USA,1,2016,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",GBR,2,2016,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Men",JPN,3,2016,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Women",USA,1,2016,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Women",AUS,2,2016,Swimming
-"4 ÃÂ 200 metres Freestyle Relay, Women",CAN,3,2016,Swimming
+"4 x 400 metres Relay, Women",GDR,1,1972,Athletics
+"4 x 400 metres Relay, Women",USA,2,1972,Athletics
+"4 x 400 metres Relay, Women",FRG,3,1972,Athletics
+"4 x 400 metres Relay, Women",GDR,1,1976,Athletics
+"4 x 400 metres Relay, Women",USA,2,1976,Athletics
+"4 x 400 metres Relay, Women",URS,3,1976,Athletics
+"4 x 400 metres Relay, Women",URS,1,1980,Athletics
+"4 x 400 metres Relay, Women",GDR,2,1980,Athletics
+"4 x 400 metres Relay, Women",GBR,3,1980,Athletics
+"4 x 400 metres Relay, Women",USA,1,2008,Athletics
+"4 x 400 metres Relay, Women",JAM,2,2008,Athletics
+"4 x 400 metres Relay, Women",GBR,3,2008,Athletics
+"4 x 400 metres Relay, Women",USA,1,2012,Athletics
+"4 x 400 metres Relay, Women",JAM,2,2012,Athletics
+"4 x 400 metres Relay, Women",UKR,3,2012,Athletics
+"4 x 400 metres Relay, Women",USA,1,2016,Athletics
+"4 x 400 metres Relay, Women",JAM,2,2016,Athletics
+"4 x 400 metres Relay, Women",GBR,3,2016,Athletics
 "400 metres Freestyle, Men",AUS,1,2016,Swimming
 "400 metres Freestyle, Men",CHN,2,2016,Swimming
 "400 metres Freestyle, Men",ITA,3,2016,Swimming
