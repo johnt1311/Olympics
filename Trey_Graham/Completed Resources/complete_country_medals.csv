@@ -1,0 +1,866 @@
+,Country,Country Code,Gold,Silver,Bronze,Total,Year
+0,United States,USA,36,26,28,90,1964
+1,Soviet Union,URS,30,31,35,96,1964
+2,Japan,JPN,16,5,8,29,1964
+3,Germany,GER,10,22,18,50,1964
+4,Italy,ITA,10,10,7,27,1964
+5,Hungary,HUN,10,7,5,22,1964
+6,Poland,POL,7,6,10,23,1964
+7,Australia,AUS,6,2,10,18,1964
+8,Czechoslovakia,TCH,5,6,3,14,1964
+9,Great Britain,GBR,4,12,2,18,1964
+10,Bulgaria,BUL,3,5,2,10,1964
+11,Finland,FIN,3,0,2,5,1964
+12,New Zealand,NZL,3,0,2,5,1964
+13,Romania,ROU,2,4,6,12,1964
+14,Netherlands,NED,2,4,4,10,1964
+15,Turkey,TUR,2,3,1,6,1964
+16,Sweden,SWE,2,2,4,8,1964
+17,Denmark,DEN,2,1,3,6,1964
+18,Yugoslavia,YUG,2,1,2,5,1964
+19,Belgium,BEL,2,0,1,3,1964
+20,France,FRA,1,8,6,15,1964
+21,Canada,CAN,1,2,1,4,1964
+22,Switzerland,SUI,1,2,1,4,1964
+23,Ethiopia,ETH,1,0,0,1,1964
+24,India,IND,1,0,0,1,1964
+25,The Bahamas,BAH,1,0,0,1,1964
+26,Republic of Korea,KOR,0,2,1,3,1964
+27,Trinidad and Tobago,TTO,0,1,2,3,1964
+28,Tunisia,TUN,0,1,1,2,1964
+29,Argentina,ARG,0,1,0,1,1964
+30,Cuba,CUB,0,1,0,1,1964
+31,Pakistan,PAK,0,1,0,1,1964
+32,Philippines,PHI,0,1,0,1,1964
+33,Islamic Republic of Iran,IRI,0,0,2,2,1964
+34,Brazil,BRA,0,0,1,1,1964
+35,Ghana,GHA,0,0,1,1,1964
+36,Ireland,IRL,0,0,1,1,1964
+37,Kenya,KEN,0,0,1,1,1964
+38,Mexico,MEX,0,0,1,1,1964
+39,Nigeria,NGR,0,0,1,1,1964
+40,Uruguay,URU,0,0,1,1,1964
+41,United States,USA,45,28,34,107,1968
+42,Soviet Union,URS,29,32,30,91,1968
+43,Japan,JPN,11,7,7,25,1968
+44,Hungary,HUN,10,10,12,32,1968
+45,East Germany,GDR,9,9,7,25,1968
+46,France,FRA,7,3,5,15,1968
+47,Czechoslovakia,TCH,7,2,4,13,1968
+48,West Germany,FRG,5,11,10,26,1968
+49,Australia,AUS,5,7,5,17,1968
+50,Great Britain,GBR,5,5,3,13,1968
+51,Poland,POL,5,2,11,18,1968
+52,Romania,ROU,4,6,5,15,1968
+53,Italy,ITA,3,4,9,16,1968
+54,Kenya,KEN,3,4,2,9,1968
+55,Mexico,MEX,3,3,3,9,1968
+56,Yugoslavia,YUG,3,3,2,8,1968
+57,Netherlands,NED,3,3,1,7,1968
+58,Bulgaria,BUL,2,4,3,9,1968
+59,Islamic Republic of Iran,IRI,2,1,2,5,1968
+60,Sweden,SWE,2,1,1,4,1968
+61,Turkey,TUR,2,0,0,2,1968
+62,Denmark,DEN,1,4,3,8,1968
+63,Canada,CAN,1,3,1,5,1968
+64,Finland,FIN,1,2,1,4,1968
+65,Ethiopia,ETH,1,1,0,2,1968
+66,Norway,NOR,1,1,0,2,1968
+67,New Zealand,NZL,1,0,2,3,1968
+68,Tunisia,TUN,1,0,1,2,1968
+69,Pakistan,PAK,1,0,0,1,1968
+70,Venezuela,VEN,1,0,0,1,1968
+71,Cuba,CUB,0,4,0,4,1968
+72,Austria,AUT,0,2,2,4,1968
+73,Switzerland,SUI,0,1,4,5,1968
+74,Mongolia,MGL,0,1,3,4,1968
+75,Brazil,BRA,0,1,2,3,1968
+76,Belgium,BEL,0,1,1,2,1968
+77,Republic of Korea,KOR,0,1,1,2,1968
+78,Uganda,UGA,0,1,1,2,1968
+79,Cameroon,CMR,0,1,0,1,1968
+80,Jamaica,JAM,0,1,0,1,1968
+81,Argentina,ARG,0,0,2,2,1968
+82,Chinese Taipei,TPE,0,0,1,1,1968
+83,Greece,GRE,0,0,1,1,1968
+84,India,IND,0,0,1,1,1968
+85,Soviet Union,URS,50,27,22,99,1972
+86,United States,USA,33,31,30,94,1972
+87,East Germany,GDR,20,23,23,66,1972
+88,West Germany,FRG,13,11,16,40,1972
+89,Japan,JPN,13,8,8,29,1972
+90,Australia,AUS,8,7,2,17,1972
+91,Poland,POL,7,5,9,21,1972
+92,Hungary,HUN,6,13,16,35,1972
+93,Bulgaria,BUL,6,10,5,21,1972
+94,Italy,ITA,5,3,10,18,1972
+95,Sweden,SWE,4,6,6,16,1972
+96,Great Britain,GBR,4,5,9,18,1972
+97,Romania,ROU,3,6,7,16,1972
+98,Cuba,CUB,3,1,4,8,1972
+99,Finland,FIN,3,1,4,8,1972
+100,Netherlands,NED,3,1,1,5,1972
+101,France,FRA,2,4,7,13,1972
+102,Czechoslovakia,TCH,2,4,2,8,1972
+103,Kenya,KEN,2,3,4,9,1972
+104,Yugoslavia,YUG,2,1,2,5,1972
+105,Norway,NOR,2,1,1,4,1972
+106,Democratic People's Republic of Korea,PRK,1,1,3,5,1972
+107,New Zealand,NZL,1,1,1,3,1972
+108,Uganda,UGA,1,1,0,2,1972
+109,Denmark,DEN,1,0,0,1,1972
+110,Switzerland,SUI,0,3,0,3,1972
+111,Canada,CAN,0,2,3,5,1972
+112,Islamic Republic of Iran,IRI,0,2,1,3,1972
+113,Belgium,BEL,0,2,0,2,1972
+114,Greece,GRE,0,2,0,2,1972
+115,Austria,AUT,0,1,2,3,1972
+116,Colombia,COL,0,1,2,3,1972
+117,Argentina,ARG,0,1,0,1,1972
+118,Lebanon,LBN,0,1,0,1,1972
+119,Mexico,MEX,0,1,0,1,1972
+120,Mongolia,MGL,0,1,0,1,1972
+121,Pakistan,PAK,0,1,0,1,1972
+122,Republic of Korea,KOR,0,1,0,1,1972
+123,Tunisia,TUN,0,1,0,1,1972
+124,Turkey,TUR,0,1,0,1,1972
+125,Brazil,BRA,0,0,2,2,1972
+126,Ethiopia,ETH,0,0,2,2,1972
+127,Ghana,GHA,0,0,1,1,1972
+128,India,IND,0,0,1,1,1972
+129,Jamaica,JAM,0,0,1,1,1972
+130,Niger,NIG,0,0,1,1,1972
+131,Nigeria,NGR,0,0,1,1,1972
+132,Spain,ESP,0,0,1,1,1972
+133,Soviet Union,URS,49,41,35,125,1976
+134,East Germany,GDR,40,25,25,90,1976
+135,United States,USA,34,35,25,94,1976
+136,West Germany,FRG,10,12,17,39,1976
+137,Japan,JPN,9,6,10,25,1976
+138,Poland,POL,7,6,13,26,1976
+139,Bulgaria,BUL,6,9,7,22,1976
+140,Cuba,CUB,6,4,3,13,1976
+141,Romania,ROU,4,9,14,27,1976
+142,Hungary,HUN,4,5,13,22,1976
+143,Finland,FIN,4,2,0,6,1976
+144,Sweden,SWE,4,1,0,5,1976
+145,Great Britain,GBR,3,5,5,13,1976
+146,Italy,ITA,2,7,4,13,1976
+147,France,FRA,2,3,4,9,1976
+148,Yugoslavia,YUG,2,3,3,8,1976
+149,Czechoslovakia,TCH,2,2,4,8,1976
+150,New Zealand,NZL,2,1,1,4,1976
+151,Republic of Korea,KOR,1,1,4,6,1976
+152,Switzerland,SUI,1,1,2,4,1976
+153,Democratic People's Republic of Korea,PRK,1,1,0,2,1976
+154,Jamaica,JAM,1,1,0,2,1976
+155,Norway,NOR,1,1,0,2,1976
+156,Denmark,DEN,1,0,2,3,1976
+157,Mexico,MEX,1,0,1,2,1976
+158,Trinidad and Tobago,TTO,1,0,0,1,1976
+159,Canada,CAN,0,5,6,11,1976
+160,Belgium,BEL,0,3,3,6,1976
+161,Netherlands,NED,0,2,3,5,1976
+162,Portugal,POR,0,2,0,2,1976
+163,Spain,ESP,0,2,0,2,1976
+164,Australia,AUS,0,1,4,5,1976
+165,Islamic Republic of Iran,IRI,0,1,1,2,1976
+166,Mongolia,MGL,0,1,0,1,1976
+167,Venezuela,VEN,0,1,0,1,1976
+168,Brazil,BRA,0,0,2,2,1976
+169,Austria,AUT,0,0,1,1,1976
+170,Bermuda,BER,0,0,1,1,1976
+171,Pakistan,PAK,0,0,1,1,1976
+172,Puerto Rico,PUR,0,0,1,1,1976
+173,Thailand,THA,0,0,1,1,1976
+174,Soviet Union,URS,80,69,46,195,1980
+175,East Germany,GDR,47,37,42,126,1980
+176,Bulgaria,BUL,8,16,17,41,1980
+177,Cuba,CUB,8,7,5,20,1980
+178,Italy,ITA,8,3,4,15,1980
+179,Hungary,HUN,7,10,15,32,1980
+180,Romania,ROU,6,6,13,25,1980
+181,France,FRA,6,5,3,14,1980
+182,Great Britain,GBR,5,7,9,21,1980
+183,Poland,POL,3,14,15,32,1980
+184,Sweden,SWE,3,3,6,12,1980
+185,Finland,FIN,3,1,4,8,1980
+186,Czechoslovakia,TCH,2,3,9,14,1980
+187,Yugoslavia,YUG,2,3,4,9,1980
+188,Australia,AUS,2,2,5,9,1980
+189,Denmark,DEN,2,1,2,5,1980
+190,Brazil,BRA,2,0,2,4,1980
+191,Ethiopia,ETH,2,0,2,4,1980
+192,Switzerland,SUI,2,0,0,2,1980
+193,Spain,ESP,1,3,2,6,1980
+194,Austria,AUT,1,2,1,4,1980
+195,Greece,GRE,1,0,2,3,1980
+196,Belgium,BEL,1,0,0,1,1980
+197,India,IND,1,0,0,1,1980
+198,Zimbabwe,ZIM,1,0,0,1,1980
+199,Democratic People's Republic of Korea,PRK,0,3,2,5,1980
+200,Mongolia,MGL,0,2,2,4,1980
+201,United Republic of Tanzania,TAN,0,2,0,2,1980
+202,Mexico,MEX,0,1,3,4,1980
+203,Netherlands,NED,0,1,2,3,1980
+204,Ireland,IRL,0,1,1,2,1980
+205,Uganda,UGA,0,1,0,1,1980
+206,Venezuela,VEN,0,1,0,1,1980
+207,Jamaica,JAM,0,0,3,3,1980
+208,Guyana,GUY,0,0,1,1,1980
+209,Lebanon,LBN,0,0,1,1,1980
+210,United States,USA,83,61,30,174,1984
+211,Romania,ROU,20,16,17,53,1984
+212,West Germany,FRG,17,19,23,59,1984
+213,People's Republic of China,CHN,15,8,9,32,1984
+214,Italy,ITA,14,6,12,32,1984
+215,Canada,CAN,10,18,16,44,1984
+216,Japan,JPN,10,8,14,32,1984
+217,New Zealand,NZL,8,1,2,11,1984
+218,Yugoslavia,YUG,7,4,7,18,1984
+219,Republic of Korea,KOR,6,6,7,19,1984
+220,Great Britain,GBR,5,11,21,37,1984
+221,France,FRA,5,7,16,28,1984
+222,Netherlands,NED,5,2,6,13,1984
+223,Australia,AUS,4,8,12,24,1984
+224,Finland,FIN,4,2,6,12,1984
+225,Sweden,SWE,2,11,6,19,1984
+226,Mexico,MEX,2,3,1,6,1984
+227,Morocco,MAR,2,0,0,2,1984
+228,Brazil,BRA,1,5,2,8,1984
+229,Spain,ESP,1,2,2,5,1984
+230,Belgium,BEL,1,1,2,4,1984
+231,Austria,AUT,1,1,1,3,1984
+232,Kenya,KEN,1,0,2,3,1984
+233,Portugal,POR,1,0,2,3,1984
+234,Pakistan,PAK,1,0,0,1,1984
+235,Switzerland,SUI,0,4,4,8,1984
+236,Denmark,DEN,0,3,3,6,1984
+237,Jamaica,JAM,0,1,2,3,1984
+238,Norway,NOR,0,1,2,3,1984
+239,Greece,GRE,0,1,1,2,1984
+240,Nigeria,NGR,0,1,1,2,1984
+241,Puerto Rico,PUR,0,1,1,2,1984
+242,Colombia,COL,0,1,0,1,1984
+243,CÃ´te d'Ivoire,CIV,0,1,0,1,1984
+244,Egypt,EGY,0,1,0,1,1984
+245,Ireland,IRL,0,1,0,1,1984
+246,Peru,PER,0,1,0,1,1984
+247,Syrian Arab Republic,SYR,0,1,0,1,1984
+248,Thailand,THA,0,1,0,1,1984
+249,Turkey,TUR,0,0,3,3,1984
+250,Venezuela,VEN,0,0,3,3,1984
+251,Algeria,ALG,0,0,2,2,1984
+252,Cameroon,CMR,0,0,1,1,1984
+253,Chinese Taipei,TPE,0,0,1,1,1984
+254,Dominican Republic,DOM,0,0,1,1,1984
+255,Iceland,ISL,0,0,1,1,1984
+256,Zambia,ZAM,0,0,1,1,1984
+257,Soviet Union,URS,55,31,46,132,1988
+258,East Germany,GDR,37,35,30,102,1988
+259,United States,USA,36,31,27,94,1988
+260,Republic of Korea,KOR,12,10,11,33,1988
+261,West Germany,FRG,11,14,15,40,1988
+262,Hungary,HUN,11,6,6,23,1988
+263,Bulgaria,BUL,10,12,13,35,1988
+264,Romania,ROU,7,11,6,24,1988
+265,France,FRA,6,4,6,16,1988
+266,Italy,ITA,6,4,4,14,1988
+267,People's Republic of China,CHN,5,11,12,28,1988
+268,Great Britain,GBR,5,10,9,24,1988
+269,Kenya,KEN,5,2,2,9,1988
+270,Japan,JPN,4,3,7,14,1988
+271,Australia,AUS,3,6,5,14,1988
+272,Yugoslavia,YUG,3,4,5,12,1988
+273,Czechoslovakia,TCH,3,3,2,8,1988
+274,New Zealand,NZL,3,2,8,13,1988
+275,Canada,CAN,3,2,5,10,1988
+276,Poland,POL,2,5,9,16,1988
+277,Norway,NOR,2,3,0,5,1988
+278,Netherlands,NED,2,2,5,9,1988
+279,Denmark,DEN,2,1,1,4,1988
+280,Brazil,BRA,1,2,3,6,1988
+281,Finland,FIN,1,1,2,4,1988
+282,Spain,ESP,1,1,2,4,1988
+283,Turkey,TUR,1,1,0,2,1988
+284,Morocco,MAR,1,0,2,3,1988
+285,Austria,AUT,1,0,0,1,1988
+286,Portugal,POR,1,0,0,1,1988
+287,Suriname,SUR,1,0,0,1,1988
+288,Sweden,SWE,0,4,7,11,1988
+289,Switzerland,SUI,0,2,2,4,1988
+290,Jamaica,JAM,0,2,0,2,1988
+291,Argentina,ARG,0,1,1,2,1988
+292,Chile,CHI,0,1,0,1,1988
+293,Costa Rica,CRC,0,1,0,1,1988
+294,Indonesia,INA,0,1,0,1,1988
+295,Islamic Republic of Iran,IRI,0,1,0,1,1988
+296,Netherlands Antilles,AHO,0,1,0,1,1988
+297,Peru,PER,0,1,0,1,1988
+298,Senegal,SEN,0,1,0,1,1988
+299,United States Virgin Islands,ISV,0,1,0,1,1988
+300,Belgium,BEL,0,0,2,2,1988
+301,Mexico,MEX,0,0,2,2,1988
+302,Colombia,COL,0,0,1,1,1988
+303,Djibouti,DJI,0,0,1,1,1988
+304,Greece,GRE,0,0,1,1,1988
+305,Mongolia,MGL,0,0,1,1,1988
+306,Pakistan,PAK,0,0,1,1,1988
+307,Philippines,PHI,0,0,1,1,1988
+308,Thailand,THA,0,0,1,1,1988
+309,Unified Team,EUN,45,38,29,112,1992
+310,United States,USA,37,34,37,108,1992
+311,Germany,GER,33,21,28,82,1992
+312,People's Republic of China,CHN,16,22,16,54,1992
+313,Cuba,CUB,14,6,11,31,1992
+314,Spain,ESP,13,7,2,22,1992
+315,Republic of Korea,KOR,12,5,12,29,1992
+316,Hungary,HUN,11,12,7,30,1992
+317,France,FRA,8,5,16,29,1992
+318,Australia,AUS,7,9,11,27,1992
+319,Canada,CAN,7,4,7,18,1992
+320,Italy,ITA,6,5,8,19,1992
+321,Great Britain,GBR,5,3,12,20,1992
+322,Romania,ROU,4,6,8,18,1992
+323,Czechoslovakia,TCH,4,2,1,7,1992
+324,Democratic People's Republic of Korea,PRK,4,0,5,9,1992
+325,Japan,JPN,3,8,11,22,1992
+326,Bulgaria,BUL,3,7,6,16,1992
+327,Poland,POL,3,6,10,19,1992
+328,Netherlands,NED,2,6,7,15,1992
+329,Kenya,KEN,2,4,2,8,1992
+330,Norway,NOR,2,4,1,7,1992
+331,Turkey,TUR,2,2,2,6,1992
+332,Indonesia,INA,2,2,1,5,1992
+333,Brazil,BRA,2,1,0,3,1992
+334,Greece,GRE,2,0,0,2,1992
+335,Sweden,SWE,1,7,4,12,1992
+336,New Zealand,NZL,1,4,5,10,1992
+337,Finland,FIN,1,2,2,5,1992
+338,Denmark,DEN,1,1,4,6,1992
+339,Morocco,MAR,1,1,1,3,1992
+340,Ireland,IRL,1,1,0,2,1992
+341,Ethiopia,ETH,1,0,2,3,1992
+342,Algeria,ALG,1,0,1,2,1992
+343,Estonia,EST,1,0,1,2,1992
+344,Lithuania,LTU,1,0,1,2,1992
+345,Switzerland,SUI,1,0,0,1,1992
+346,Jamaica,JAM,0,3,1,4,1992
+347,Nigeria,NGR,0,3,1,4,1992
+348,Latvia,LAT,0,2,1,3,1992
+349,Austria,AUT,0,2,0,2,1992
+350,Namibia,NAM,0,2,0,2,1992
+351,South Africa,RSA,0,2,0,2,1992
+352,Belgium,BEL,0,1,2,3,1992
+353,Croatia,CRO,0,1,2,3,1992
+354,Individual Olympic Athletes,IOA,0,1,2,3,1992
+355,Islamic Republic of Iran,IRI,0,1,2,3,1992
+356,Israel,ISR,0,1,1,2,1992
+357,Chinese Taipei,TPE,0,1,0,1,1992
+358,Mexico,MEX,0,1,0,1,1992
+359,Peru,PER,0,1,0,1,1992
+360,Mongolia,MGL,0,0,2,2,1992
+361,Slovenia,SLO,0,0,2,2,1992
+362,Argentina,ARG,0,0,1,1,1992
+363,Colombia,COL,0,0,1,1,1992
+364,Ghana,GHA,0,0,1,1,1992
+365,Malaysia,MAS,0,0,1,1,1992
+366,Pakistan,PAK,0,0,1,1,1992
+367,Philippines,PHI,0,0,1,1,1992
+368,Puerto Rico,PUR,0,0,1,1,1992
+369,Qatar,QAT,0,0,1,1,1992
+370,Suriname,SUR,0,0,1,1,1992
+371,Thailand,THA,0,0,1,1,1992
+372,The Bahamas,BAH,0,0,1,1,1992
+373,United States,USA,44,32,25,101,1996
+374,Russian Federation,RUS,26,21,16,63,1996
+375,Germany,GER,20,18,27,65,1996
+376,People's Republic of China,CHN,16,22,12,50,1996
+377,France,FRA,15,7,15,37,1996
+378,Italy,ITA,13,10,12,35,1996
+379,Australia,AUS,9,9,23,41,1996
+380,Cuba,CUB,9,8,8,25,1996
+381,Ukraine,UKR,9,2,12,23,1996
+382,Republic of Korea,KOR,7,15,5,27,1996
+383,Poland,POL,7,5,5,17,1996
+384,Hungary,HUN,7,4,10,21,1996
+385,Spain,ESP,5,6,6,17,1996
+386,Romania,ROU,4,7,9,20,1996
+387,Netherlands,NED,4,5,10,19,1996
+388,Greece,GRE,4,4,0,8,1996
+389,Czech Republic,CZE,4,3,4,11,1996
+390,Switzerland,SUI,4,3,0,7,1996
+391,Denmark,DEN,4,1,1,6,1996
+392,Turkey,TUR,4,1,1,6,1996
+393,Canada,CAN,3,11,8,22,1996
+394,Bulgaria,BUL,3,7,5,15,1996
+395,Japan,JPN,3,6,5,14,1996
+396,Kazakhstan,KAZ,3,4,4,11,1996
+397,Brazil,BRA,3,3,9,15,1996
+398,New Zealand,NZL,3,2,1,6,1996
+399,South Africa,RSA,3,1,1,5,1996
+400,Ireland,IRL,3,0,1,4,1996
+401,Sweden,SWE,2,4,2,8,1996
+402,Norway,NOR,2,2,3,7,1996
+403,Belgium,BEL,2,2,2,6,1996
+404,Nigeria,NGR,2,1,3,6,1996
+405,Democratic People's Republic of Korea,PRK,2,1,2,5,1996
+406,Algeria,ALG,2,0,1,3,1996
+407,Ethiopia,ETH,2,0,1,3,1996
+408,Great Britain,GBR,1,8,6,15,1996
+409,Belarus,BLR,1,6,8,15,1996
+410,Kenya,KEN,1,4,3,8,1996
+411,Jamaica,JAM,1,3,2,6,1996
+412,Finland,FIN,1,2,1,4,1996
+413,Indonesia,INA,1,1,2,4,1996
+414,Serbia and Montenegro,SCG,1,1,2,4,1996
+415,Islamic Republic of Iran,IRI,1,1,1,3,1996
+416,Slovakia,SVK,1,1,1,3,1996
+417,Armenia,ARM,1,1,0,2,1996
+418,Croatia,CRO,1,1,0,2,1996
+419,Portugal,POR,1,0,1,2,1996
+420,Thailand,THA,1,0,1,2,1996
+421,Burundi,BDI,1,0,0,1,1996
+422,Costa Rica,CRC,1,0,0,1,1996
+423,Ecuador,ECU,1,0,0,1,1996
+424,"Hong Kong, China",HKG,1,0,0,1,1996
+425,Syrian Arab Republic,SYR,1,0,0,1,1996
+426,Argentina,ARG,0,2,1,3,1996
+427,Namibia,NAM,0,2,0,2,1996
+428,Slovenia,SLO,0,2,0,2,1996
+429,Austria,AUT,0,1,2,3,1996
+430,Malaysia,MAS,0,1,1,2,1996
+431,Republic of Moldova,MDA,0,1,1,2,1996
+432,Uzbekistan,UZB,0,1,1,2,1996
+433,Azerbaijan,AZE,0,1,0,1,1996
+434,Chinese Taipei,TPE,0,1,0,1,1996
+435,Latvia,LAT,0,1,0,1,1996
+436,Philippines,PHI,0,1,0,1,1996
+437,The Bahamas,BAH,0,1,0,1,1996
+438,Tonga,TGA,0,1,0,1,1996
+439,Zambia,ZAM,0,1,0,1,1996
+440,Georgia,GEO,0,0,2,2,1996
+441,Morocco,MAR,0,0,2,2,1996
+442,Trinidad and Tobago,TTO,0,0,2,2,1996
+443,India,IND,0,0,1,1,1996
+444,Israel,ISR,0,0,1,1,1996
+445,Lithuania,LTU,0,0,1,1,1996
+446,Mexico,MEX,0,0,1,1,1996
+447,Mongolia,MGL,0,0,1,1,1996
+448,Mozambique,MOZ,0,0,1,1,1996
+449,Puerto Rico,PUR,0,0,1,1,1996
+450,Tunisia,TUN,0,0,1,1,1996
+451,Uganda,UGA,0,0,1,1,1996
+452,United States,USA,37,24,32,93,2000
+453,Russian Federation,RUS,32,28,29,89,2000
+454,People's Republic of China,CHN,28,16,14,58,2000
+455,Australia,AUS,16,25,17,58,2000
+456,Germany,GER,13,17,26,56,2000
+457,France,FRA,13,14,11,38,2000
+458,Italy,ITA,13,8,13,34,2000
+459,Netherlands,NED,12,9,4,25,2000
+460,Cuba,CUB,11,11,7,29,2000
+461,Great Britain,GBR,11,10,7,28,2000
+462,Romania,ROU,11,6,9,26,2000
+463,Republic of Korea,KOR,8,10,10,28,2000
+464,Hungary,HUN,8,6,3,17,2000
+465,Poland,POL,6,5,3,14,2000
+466,Japan,JPN,5,8,5,18,2000
+467,Bulgaria,BUL,5,6,2,13,2000
+468,Greece,GRE,4,6,3,13,2000
+469,Sweden,SWE,4,5,3,12,2000
+470,Norway,NOR,4,3,3,10,2000
+471,Ethiopia,ETH,4,1,3,8,2000
+472,Ukraine,UKR,3,10,10,23,2000
+473,Kazakhstan,KAZ,3,4,0,7,2000
+474,Belarus,BLR,3,3,11,17,2000
+475,Canada,CAN,3,3,8,14,2000
+476,Spain,ESP,3,3,5,11,2000
+477,Turkey,TUR,3,0,2,5,2000
+478,Islamic Republic of Iran,IRI,3,0,1,4,2000
+479,Czech Republic,CZE,2,3,3,8,2000
+480,Kenya,KEN,2,3,2,7,2000
+481,Denmark,DEN,2,3,1,6,2000
+482,Finland,FIN,2,1,1,4,2000
+483,Austria,AUT,2,1,0,3,2000
+484,Lithuania,LTU,2,0,3,5,2000
+485,Azerbaijan,AZE,2,0,1,3,2000
+486,The Bahamas,BAH,2,0,1,3,2000
+487,Slovenia,SLO,2,0,0,2,2000
+488,Switzerland,SUI,1,6,2,9,2000
+489,Indonesia,INA,1,3,2,6,2000
+490,Slovakia,SVK,1,3,1,5,2000
+491,Mexico,MEX,1,2,3,6,2000
+492,Nigeria,NGR,1,2,0,3,2000
+493,Algeria,ALG,1,1,3,5,2000
+494,Uzbekistan,UZB,1,1,2,4,2000
+495,Latvia,LAT,1,1,1,3,2000
+496,Serbia and Montenegro,SCG,1,1,1,3,2000
+497,New Zealand,NZL,1,0,3,4,2000
+498,Estonia,EST,1,0,2,3,2000
+499,Thailand,THA,1,0,2,3,2000
+500,Croatia,CRO,1,0,1,2,2000
+501,Cameroon,CMR,1,0,0,1,2000
+502,Colombia,COL,1,0,0,1,2000
+503,Mozambique,MOZ,1,0,0,1,2000
+504,Brazil,BRA,0,6,6,12,2000
+505,Jamaica,JAM,0,6,3,9,2000
+506,Belgium,BEL,0,2,3,5,2000
+507,South Africa,RSA,0,2,3,5,2000
+508,Argentina,ARG,0,2,2,4,2000
+509,Chinese Taipei,TPE,0,1,4,5,2000
+510,Morocco,MAR,0,1,4,5,2000
+511,Democratic People's Republic of Korea,PRK,0,1,3,4,2000
+512,Kingdom of Saudi Arabia,KSA,0,1,1,2,2000
+513,Republic of Moldova,MDA,0,1,1,2,2000
+514,Trinidad and Tobago,TTO,0,1,1,2,2000
+515,Ireland,IRL,0,1,0,1,2000
+516,Sri Lanka,SRI,0,1,0,1,2000
+517,Uruguay,URU,0,1,0,1,2000
+518,Vietnam,VIE,0,1,0,1,2000
+519,Georgia,GEO,0,0,6,6,2000
+520,Costa Rica,CRC,0,0,2,2,2000
+521,Portugal,POR,0,0,2,2,2000
+522,Armenia,ARM,0,0,1,1,2000
+523,Barbados,BAR,0,0,1,1,2000
+524,Chile,CHI,0,0,1,1,2000
+525,Iceland,ISL,0,0,1,1,2000
+526,India,IND,0,0,1,1,2000
+527,Israel,ISR,0,0,1,1,2000
+528,Kuwait,KUW,0,0,1,1,2000
+529,Kyrgyzstan,KGZ,0,0,1,1,2000
+530,North Macedonia,MKD,0,0,1,1,2000
+531,Qatar,QAT,0,0,1,1,2000
+532,United States,USA,36,39,26,101,2004
+533,People's Republic of China,CHN,32,17,14,63,2004
+534,Russian Federation,RUS,28,26,36,90,2004
+535,Australia,AUS,17,16,17,50,2004
+536,Japan,JPN,16,9,12,37,2004
+537,Germany,GER,13,16,20,49,2004
+538,France,FRA,11,9,13,33,2004
+539,Italy,ITA,10,11,11,32,2004
+540,Republic of Korea,KOR,9,12,9,30,2004
+541,Great Britain,GBR,9,9,12,30,2004
+542,Cuba,CUB,9,7,11,27,2004
+543,Hungary,HUN,8,6,3,17,2004
+544,Ukraine,UKR,8,5,9,22,2004
+545,Romania,ROU,8,5,6,19,2004
+546,Greece,GRE,6,6,4,16,2004
+547,Brazil,BRA,5,2,3,10,2004
+548,Norway,NOR,5,0,1,6,2004
+549,Netherlands,NED,4,9,9,22,2004
+550,Sweden,SWE,4,2,1,7,2004
+551,Spain,ESP,3,11,6,20,2004
+552,Canada,CAN,3,6,3,12,2004
+553,Turkey,TUR,3,3,4,10,2004
+554,Poland,POL,3,2,5,10,2004
+555,New Zealand,NZL,3,2,0,5,2004
+556,Thailand,THA,3,1,4,8,2004
+557,Belarus,BLR,2,5,6,13,2004
+558,Austria,AUT,2,4,1,7,2004
+559,Ethiopia,ETH,2,3,2,7,2004
+560,Islamic Republic of Iran,IRI,2,2,2,6,2004
+561,Slovakia,SVK,2,2,2,6,2004
+562,Chinese Taipei,TPE,2,2,1,5,2004
+563,Georgia,GEO,2,2,0,4,2004
+564,Bulgaria,BUL,2,1,9,12,2004
+565,Denmark,DEN,2,1,5,8,2004
+566,Jamaica,JAM,2,1,2,5,2004
+567,Uzbekistan,UZB,2,1,2,5,2004
+568,Morocco,MAR,2,1,0,3,2004
+569,Argentina,ARG,2,0,4,6,2004
+570,Chile,CHI,2,0,1,3,2004
+571,Kazakhstan,KAZ,1,4,3,8,2004
+572,Kenya,KEN,1,4,2,7,2004
+573,Czech Republic,CZE,1,3,5,9,2004
+574,South Africa,RSA,1,3,2,6,2004
+575,Croatia,CRO,1,2,2,5,2004
+576,Lithuania,LTU,1,2,0,3,2004
+577,Egypt,EGY,1,1,3,5,2004
+578,Switzerland,SUI,1,1,3,5,2004
+579,Indonesia,INA,1,1,2,4,2004
+580,Zimbabwe,ZIM,1,1,1,3,2004
+581,Azerbaijan,AZE,1,0,4,5,2004
+582,Belgium,BEL,1,0,2,3,2004
+583,Israel,ISR,1,0,1,2,2004
+584,The Bahamas,BAH,1,0,1,2,2004
+585,Cameroon,CMR,1,0,0,1,2004
+586,Dominican Republic,DOM,1,0,0,1,2004
+587,United Arab Emirates,UAE,1,0,0,1,2004
+588,Democratic People's Republic of Korea,PRK,0,4,1,5,2004
+589,Latvia,LAT,0,4,0,4,2004
+590,Mexico,MEX,0,3,1,4,2004
+591,Portugal,POR,0,2,1,3,2004
+592,Finland,FIN,0,2,0,2,2004
+593,Serbia and Montenegro,SCG,0,2,0,2,2004
+594,Slovenia,SLO,0,1,3,4,2004
+595,Estonia,EST,0,1,2,3,2004
+596,"Hong Kong, China",HKG,0,1,0,1,2004
+597,India,IND,0,1,0,1,2004
+598,Paraguay,PAR,0,1,0,1,2004
+599,Colombia,COL,0,0,2,2,2004
+600,Nigeria,NGR,0,0,2,2,2004
+601,Venezuela,VEN,0,0,2,2,2004
+602,Eritrea,ERI,0,0,1,1,2004
+603,Mongolia,MGL,0,0,1,1,2004
+604,Syrian Arab Republic,SYR,0,0,1,1,2004
+605,Trinidad and Tobago,TTO,0,0,1,1,2004
+606,People's Republic of China,CHN,48,22,30,100,2008
+607,United States,USA,36,39,37,112,2008
+608,Russian Federation,RUS,24,13,23,60,2008
+609,Great Britain,GBR,19,13,19,51,2008
+610,Germany,GER,16,11,14,41,2008
+611,Australia,AUS,14,15,17,46,2008
+612,Republic of Korea,KOR,13,11,8,32,2008
+613,Japan,JPN,9,8,8,25,2008
+614,Italy,ITA,8,9,10,27,2008
+615,France,FRA,7,16,20,43,2008
+616,Netherlands,NED,7,5,4,16,2008
+617,Ukraine,UKR,7,4,11,22,2008
+618,Kenya,KEN,6,4,6,16,2008
+619,Spain,ESP,5,11,3,19,2008
+620,Jamaica,JAM,5,4,2,11,2008
+621,Poland,POL,4,5,2,11,2008
+622,Ethiopia,ETH,4,2,1,7,2008
+623,Romania,ROU,4,1,4,9,2008
+624,Cuba,CUB,3,10,17,30,2008
+625,Canada,CAN,3,9,8,20,2008
+626,Hungary,HUN,3,5,2,10,2008
+627,Norway,NOR,3,5,1,9,2008
+628,Brazil,BRA,3,4,10,17,2008
+629,Belarus,BLR,3,4,7,14,2008
+630,Czech Republic,CZE,3,3,1,7,2008
+631,Slovakia,SVK,3,3,0,6,2008
+632,New Zealand,NZL,3,2,4,9,2008
+633,Georgia,GEO,3,2,2,7,2008
+634,Kazakhstan,KAZ,2,3,4,9,2008
+635,Denmark,DEN,2,2,3,7,2008
+636,Democratic People's Republic of Korea,PRK,2,2,2,6,2008
+637,Thailand,THA,2,2,2,6,2008
+638,Mongolia,MGL,2,2,0,4,2008
+639,Switzerland,SUI,2,1,4,7,2008
+640,Argentina,ARG,2,0,4,6,2008
+641,Mexico,MEX,2,0,2,4,2008
+642,Belgium,BEL,2,0,0,2,2008
+643,Zimbabwe,ZIM,1,3,0,4,2008
+644,Slovenia,SLO,1,2,2,5,2008
+645,Azerbaijan,AZE,1,1,4,6,2008
+646,Indonesia,INA,1,1,4,6,2008
+647,Bulgaria,BUL,1,1,3,5,2008
+648,Turkey,TUR,1,1,3,5,2008
+649,Chinese Taipei,TPE,1,1,2,4,2008
+650,Finland,FIN,1,1,2,4,2008
+651,Latvia,LAT,1,1,1,3,2008
+652,Dominican Republic,DOM,1,1,0,2,2008
+653,Estonia,EST,1,1,0,2,2008
+654,Portugal,POR,1,1,0,2,2008
+655,Trinidad and Tobago,TTO,1,1,0,2,2008
+656,India,IND,1,0,2,3,2008
+657,Islamic Republic of Iran,IRI,1,0,1,2,2008
+658,Cameroon,CMR,1,0,0,1,2008
+659,Panama,PAN,1,0,0,1,2008
+660,Tunisia,TUN,1,0,0,1,2008
+661,Sweden,SWE,0,4,1,5,2008
+662,Lithuania,LTU,0,3,2,5,2008
+663,Nigeria,NGR,0,3,2,5,2008
+664,Croatia,CRO,0,2,3,5,2008
+665,Colombia,COL,0,2,1,3,2008
+666,Greece,GRE,0,2,1,3,2008
+667,Armenia,ARM,0,1,4,5,2008
+668,Uzbekistan,UZB,0,1,3,4,2008
+669,Austria,AUT,0,1,2,3,2008
+670,Ireland,IRL,0,1,2,3,2008
+671,Kyrgyzstan,KGZ,0,1,2,3,2008
+672,Serbia,SRB,0,1,2,3,2008
+673,Algeria,ALG,0,1,1,2,2008
+674,Morocco,MAR,0,1,1,2,2008
+675,Tajikistan,TJK,0,1,1,2,2008
+676,The Bahamas,BAH,0,1,1,2,2008
+677,Chile,CHI,0,1,0,1,2008
+678,Ecuador,ECU,0,1,0,1,2008
+679,Iceland,ISL,0,1,0,1,2008
+680,Malaysia,MAS,0,1,0,1,2008
+681,Samoa,SAM,0,1,0,1,2008
+682,Singapore,SGP,0,1,0,1,2008
+683,South Africa,RSA,0,1,0,1,2008
+684,Sudan,SUD,0,1,0,1,2008
+685,Vietnam,VIE,0,1,0,1,2008
+686,Egypt,EGY,0,0,2,2,2008
+687,Afghanistan,AFG,0,0,1,1,2008
+688,Israel,ISR,0,0,1,1,2008
+689,Mauritius,MRI,0,0,1,1,2008
+690,Republic of Moldova,MDA,0,0,1,1,2008
+691,Togo,TOG,0,0,1,1,2008
+692,Venezuela,VEN,0,0,1,1,2008
+693,United States,USA,46,28,30,104,2012
+694,People's Republic of China,CHN,38,31,22,91,2012
+695,Great Britain,GBR,29,17,19,65,2012
+696,Russian Federation,RUS,20,20,27,67,2012
+697,Republic of Korea,KOR,13,9,8,30,2012
+698,Germany,GER,11,20,13,44,2012
+699,France,FRA,11,11,13,35,2012
+700,Australia,AUS,8,15,12,35,2012
+701,Italy,ITA,8,9,11,28,2012
+702,Hungary,HUN,8,4,6,18,2012
+703,Japan,JPN,7,14,17,38,2012
+704,Islamic Republic of Iran,IRI,7,5,1,13,2012
+705,Netherlands,NED,6,6,8,20,2012
+706,New Zealand,NZL,6,2,5,13,2012
+707,Ukraine,UKR,5,4,10,19,2012
+708,Cuba,CUB,5,3,7,15,2012
+709,Spain,ESP,4,10,4,18,2012
+710,Jamaica,JAM,4,5,3,12,2012
+711,Czech Republic,CZE,4,3,4,11,2012
+712,South Africa,RSA,4,1,1,6,2012
+713,Democratic People's Republic of Korea,PRK,4,0,2,6,2012
+714,Brazil,BRA,3,5,9,17,2012
+715,Poland,POL,3,2,6,11,2012
+716,Ethiopia,ETH,3,2,3,8,2012
+717,Kazakhstan,KAZ,3,1,7,11,2012
+718,Croatia,CRO,3,1,2,6,2012
+719,Canada,CAN,2,5,11,18,2012
+720,Belarus,BLR,2,5,3,10,2012
+721,Kenya,KEN,2,4,7,13,2012
+722,Denmark,DEN,2,4,3,9,2012
+723,Romania,ROU,2,4,1,7,2012
+724,Azerbaijan,AZE,2,2,5,9,2012
+725,Switzerland,SUI,2,2,0,4,2012
+726,Norway,NOR,2,1,1,4,2012
+727,Lithuania,LTU,2,0,3,5,2012
+728,Tunisia,TUN,2,0,1,3,2012
+729,Sweden,SWE,1,4,3,8,2012
+730,Colombia,COL,1,3,5,9,2012
+731,Mexico,MEX,1,3,4,8,2012
+732,Georgia,GEO,1,2,3,6,2012
+733,Ireland,IRL,1,1,4,6,2012
+734,Argentina,ARG,1,1,2,4,2012
+735,Serbia,SRB,1,1,2,4,2012
+736,Slovenia,SLO,1,1,2,4,2012
+737,Trinidad and Tobago,TTO,1,1,2,4,2012
+738,Turkey,TUR,1,1,1,3,2012
+739,Dominican Republic,DOM,1,1,0,2,2012
+740,Chinese Taipei,TPE,1,0,1,2,2012
+741,Latvia,LAT,1,0,1,2,2012
+742,Algeria,ALG,1,0,0,1,2012
+743,Bahrain,BRN,1,0,0,1,2012
+744,Grenada,GRN,1,0,0,1,2012
+745,The Bahamas,BAH,1,0,0,1,2012
+746,Uganda,UGA,1,0,0,1,2012
+747,Venezuela,VEN,1,0,0,1,2012
+748,Egypt,EGY,0,3,1,4,2012
+749,India,IND,0,2,4,6,2012
+750,Mongolia,MGL,0,2,3,5,2012
+751,Thailand,THA,0,2,2,4,2012
+752,Bulgaria,BUL,0,2,1,3,2012
+753,Finland,FIN,0,2,1,3,2012
+754,Indonesia,INA,0,2,1,3,2012
+755,Slovakia,SVK,0,1,3,4,2012
+756,Belgium,BEL,0,1,2,3,2012
+757,Armenia,ARM,0,1,1,2,2012
+758,Estonia,EST,0,1,1,2,2012
+759,Malaysia,MAS,0,1,1,2,2012
+760,Puerto Rico,PUR,0,1,1,2,2012
+761,Botswana,BOT,0,1,0,1,2012
+762,Cyprus,CYP,0,1,0,1,2012
+763,Gabon,GAB,0,1,0,1,2012
+764,Guatemala,GUA,0,1,0,1,2012
+765,Montenegro,MNE,0,1,0,1,2012
+766,Portugal,POR,0,1,0,1,2012
+767,Uzbekistan,UZB,0,0,3,3,2012
+768,Greece,GRE,0,0,2,2,2012
+769,Qatar,QAT,0,0,2,2,2012
+770,Singapore,SGP,0,0,2,2,2012
+771,Afghanistan,AFG,0,0,1,1,2012
+772,Cameroon,CMR,0,0,1,1,2012
+773,"Hong Kong, China",HKG,0,0,1,1,2012
+774,Kingdom of Saudi Arabia,KSA,0,0,1,1,2012
+775,Kuwait,KUW,0,0,1,1,2012
+776,Morocco,MAR,0,0,1,1,2012
+777,Tajikistan,TJK,0,0,1,1,2012
+778,Vietnam,VIE,0,0,1,1,2012
+779,United States,USA,46,37,38,121,2016
+780,Great Britain,GBR,27,23,17,67,2016
+781,People's Republic of China,CHN,26,18,26,70,2016
+782,Russian Federation,RUS,19,17,20,56,2016
+783,Germany,GER,17,10,15,42,2016
+784,Japan,JPN,12,8,21,41,2016
+785,France,FRA,10,18,14,42,2016
+786,Republic of Korea,KOR,9,3,9,21,2016
+787,Italy,ITA,8,12,8,28,2016
+788,Australia,AUS,8,11,10,29,2016
+789,Netherlands,NED,8,7,4,19,2016
+790,Hungary,HUN,8,3,4,15,2016
+791,Brazil,BRA,7,6,6,19,2016
+792,Spain,ESP,7,4,6,17,2016
+793,Kenya,KEN,6,6,1,13,2016
+794,Jamaica,JAM,6,3,2,11,2016
+795,Croatia,CRO,5,3,2,10,2016
+796,Cuba,CUB,5,2,4,11,2016
+797,New Zealand,NZL,4,9,5,18,2016
+798,Canada,CAN,4,3,15,22,2016
+799,Uzbekistan,UZB,4,2,7,13,2016
+800,Kazakhstan,KAZ,3,5,10,18,2016
+801,Colombia,COL,3,2,3,8,2016
+802,Switzerland,SUI,3,2,2,7,2016
+803,Islamic Republic of Iran,IRI,3,1,4,8,2016
+804,Greece,GRE,3,1,2,6,2016
+805,Argentina,ARG,3,1,0,4,2016
+806,Denmark,DEN,2,6,7,15,2016
+807,Sweden,SWE,2,6,3,11,2016
+808,South Africa,RSA,2,6,2,10,2016
+809,Ukraine,UKR,2,5,4,11,2016
+810,Serbia,SRB,2,4,2,8,2016
+811,Poland,POL,2,3,6,11,2016
+812,Democratic People's Republic of Korea,PRK,2,3,2,7,2016
+813,Belgium,BEL,2,2,2,6,2016
+814,Thailand,THA,2,2,2,6,2016
+815,Slovakia,SVK,2,2,0,4,2016
+816,Georgia,GEO,2,1,4,7,2016
+817,Azerbaijan,AZE,1,7,10,18,2016
+818,Belarus,BLR,1,4,4,9,2016
+819,Turkey,TUR,1,3,4,8,2016
+820,Armenia,ARM,1,3,0,4,2016
+821,Czech Republic,CZE,1,2,7,10,2016
+822,Ethiopia,ETH,1,2,5,8,2016
+823,Slovenia,SLO,1,2,1,4,2016
+824,Indonesia,INA,1,2,0,3,2016
+825,Romania,ROU,1,1,2,4,2016
+826,Bahrain,BRN,1,1,0,2,2016
+827,Vietnam,VIE,1,1,0,2,2016
+828,Chinese Taipei,TPE,1,0,2,3,2016
+829,CÃ´te d'Ivoire,CIV,1,0,1,2,2016
+830,Individual Olympic Athletes,IOA,1,0,1,2,2016
+831,The Bahamas,BAH,1,0,1,2,2016
+832,Fiji,FIJ,1,0,0,1,2016
+833,Jordan,JOR,1,0,0,1,2016
+834,Kosovo,KOS,1,0,0,1,2016
+835,Puerto Rico,PUR,1,0,0,1,2016
+836,Singapore,SGP,1,0,0,1,2016
+837,Tajikistan,TJK,1,0,0,1,2016
+838,Malaysia,MAS,0,4,1,5,2016
+839,Mexico,MEX,0,3,2,5,2016
+840,Venezuela,VEN,0,2,1,3,2016
+841,Algeria,ALG,0,2,0,2,2016
+842,Ireland,IRL,0,2,0,2,2016
+843,Lithuania,LTU,0,1,3,4,2016
+844,Bulgaria,BUL,0,1,2,3,2016
+845,India,IND,0,1,1,2,2016
+846,Mongolia,MGL,0,1,1,2,2016
+847,Burundi,BDI,0,1,0,1,2016
+848,Grenada,GRN,0,1,0,1,2016
+849,Niger,NIG,0,1,0,1,2016
+850,Philippines,PHI,0,1,0,1,2016
+851,Qatar,QAT,0,1,0,1,2016
+852,Norway,NOR,0,0,4,4,2016
+853,Egypt,EGY,0,0,3,3,2016
+854,Tunisia,TUN,0,0,3,3,2016
+855,Israel,ISR,0,0,2,2,2016
+856,Austria,AUT,0,0,1,1,2016
+857,Dominican Republic,DOM,0,0,1,1,2016
+858,Estonia,EST,0,0,1,1,2016
+859,Finland,FIN,0,0,1,1,2016
+860,Morocco,MAR,0,0,1,1,2016
+861,Nigeria,NGR,0,0,1,1,2016
+862,Portugal,POR,0,0,1,1,2016
+863,Trinidad and Tobago,TTO,0,0,1,1,2016
+864,United Arab Emirates,UAE,0,0,1,1,2016
