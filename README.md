@@ -1,4 +1,4 @@
-# Olympics Analysis
+# :1st_place_medal: :2nd_place_medal: :3rd_place_medal: Olympics Analysis :1st_place_medal: :2nd_place_medal: :3rd_place_medal:
 
 ## Overview
 As more than 50,000 athletes, coaches, trainers, and team members head to the land of the rising sun we wondered, "Can Olympic results be predicted?". We analyzed the history of the Summer Olympics to see how past results might help us predict which country will hear their national anthem the most times this year. 
