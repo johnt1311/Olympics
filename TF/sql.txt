@@ -41,3 +41,12 @@ CREATE TABLE Gloc (
        	Value DECIMAL);
 		
 SELECT * FROM gloc;
+
+CREATE TABLE events (
+	NOC VARCHAR,
+	Country VARCHAR,
+	Place VARCHAR,
+	Year VARCHAR,
+	Discipline VARCHAR,
+	Gender VARCHAR,
+	Event VARCHAR)
