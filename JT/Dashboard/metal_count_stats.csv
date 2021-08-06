@@ -1,0 +1,866 @@
+Country,Country Code,Gold,Silver,Bronze,Total,Year,Host_City,Host_Country,COU,Life Expectancy at Birth,Population
+United States,USA,36,26,28,90,1964,Tokyo,JPN,USA,70.3,191888791.0
+Russia,URS,30,31,35,96,1964,Tokyo,JPN,RUS,67.7,125412625.0
+Japan,JPN,16,5,8,29,1964,Tokyo,JPN,JPN,70.3,98110000.0
+Germany,GER,10,22,18,50,1964,Tokyo,JPN,DEU,70.6,75318338.0
+Italy,ITA,10,10,7,27,1964,Tokyo,JPN,,65.31290322580645,51675294.0
+Hungary,HUN,10,7,5,22,1964,Tokyo,JPN,HUN,69.5,10119834.0
+Poland,POL,7,6,10,23,1964,Tokyo,JPN,POL,68.7,31161200.0
+Australia,AUS,6,2,10,18,1964,Tokyo,JPN,AUS,70.7,11121600.0
+Czechoslovakia,TCH,5,6,3,14,1964,Tokyo,JPN,,,
+England,GBR,4,12,2,18,1964,Tokyo,JPN,,,
+Bulgaria,BUL,3,5,2,10,1964,Tokyo,JPN,,65.31290322580645,8144340.0
+Finland,FIN,3,0,2,5,1964,Tokyo,JPN,,65.31290322580645,4548545.0
+New Zealand,NZL,3,0,2,5,1964,Tokyo,JPN,NZL,71.2,2591965.0
+Romania,ROU,2,4,6,12,1964,Tokyo,JPN,,65.31290322580645,19207135.0
+Netherlands,NED,2,4,4,10,1964,Tokyo,JPN,NLD,73.8,12127116.0
+Turkey,TUR,2,3,1,6,1964,Tokyo,JPN,TUR,51.0,30391000.0
+Sweden,SWE,2,2,4,8,1964,Tokyo,JPN,SWE,73.8,7661351.0
+Denmark,DEN,2,1,3,6,1964,Tokyo,JPN,,65.31290322580645,4722074.0
+Yugoslavia,YUG,2,1,2,5,1964,Tokyo,JPN,,,
+Belgium,BEL,2,0,1,3,1964,Tokyo,JPN,BEL,70.9,9378114.0
+France,FRA,1,8,6,15,1964,Tokyo,JPN,FRA,71.4,48310410.0
+Canada,CAN,1,2,1,4,1964,Tokyo,JPN,,65.31290322580645,19719595.0
+Switzerland,SUI,1,2,1,4,1964,Tokyo,JPN,CHE,72.2,5789228.0
+Ethiopia,ETH,1,0,0,1,1964,Tokyo,JPN,,,
+India,IND,1,0,0,1,1964,Tokyo,JPN,IND,43.9,487484535.0
+The Bahamas,BAH,1,0,0,1,1964,Tokyo,JPN,,,
+Republic of Korea,KOR,0,2,1,3,1964,Tokyo,JPN,,,
+Trinidad and Tobago,TTO,0,1,2,3,1964,Tokyo,JPN,,,
+Tunisia,TUN,0,1,1,2,1964,Tokyo,JPN,,,
+Argentina,ARG,0,1,0,1,1964,Tokyo,JPN,,65.31290322580645,21949246.0
+Cuba,CUB,0,1,0,1,1964,Tokyo,JPN,,,
+Pakistan,PAK,0,1,0,1,1964,Tokyo,JPN,,,
+Philippines,PHI,0,1,0,1,1964,Tokyo,JPN,,,
+Islamic Republic of Iran,IRI,0,0,2,2,1964,Tokyo,JPN,,,
+Brazil,BRA,0,0,1,1,1964,Tokyo,JPN,BRA,56.2,81168654.0
+Ghana,GHA,0,0,1,1,1964,Tokyo,JPN,,,
+Ireland,IRL,0,0,1,1,1964,Tokyo,JPN,,65.31290322580645,2863800.0
+Kenya,KEN,0,0,1,1,1964,Tokyo,JPN,,,
+Mexico,MEX,0,0,1,1,1964,Tokyo,JPN,MEX,59.9,41970377.0
+Nigeria,NGR,0,0,1,1,1964,Tokyo,JPN,,,
+Uruguay,URU,0,0,1,1,1964,Tokyo,JPN,,,
+United States,USA,45,28,34,107,1968,Mexico City,MEX,USA,70.4,200706052.0
+Russia,URS,29,32,30,91,1968,Mexico City,MEX,RUS,68.0,128836021.0
+Japan,JPN,11,7,7,25,1968,Mexico City,MEX,JPN,71.7,102287000.0
+Hungary,HUN,10,10,12,32,1968,Mexico City,MEX,HUN,69.3,10255807.0
+Germany,GDR,9,9,7,25,1968,Mexico City,MEX,DEU,70.5,77294310.0
+France,FRA,7,3,5,15,1968,Mexico City,MEX,FRA,71.5,49915403.0
+Czechoslovakia,TCH,7,2,4,13,1968,Mexico City,MEX,,,
+Germany,FRG,5,11,10,26,1968,Mexico City,MEX,DEU,70.5,77294310.0
+Australia,AUS,5,7,5,17,1968,Mexico City,MEX,AUS,70.9,12008635.0
+England,GBR,5,5,3,13,1968,Mexico City,MEX,,,
+Poland,POL,5,2,11,18,1968,Mexico City,MEX,POL,70.3,32304800.0
+Romania,ROU,4,6,5,15,1968,Mexico City,MEX,,66.66363636363637,19799831.0
+Italy,ITA,3,4,9,16,1968,Mexico City,MEX,,66.66363636363637,53235691.0
+Kenya,KEN,3,4,2,9,1968,Mexico City,MEX,,,
+Mexico,MEX,3,3,3,9,1968,Mexico City,MEX,MEX,61.3,47720198.0
+Yugoslavia,YUG,3,3,2,8,1968,Mexico City,MEX,,,
+Netherlands,NED,3,3,1,7,1968,Mexico City,MEX,NLD,73.7,12729717.0
+Bulgaria,BUL,2,4,3,9,1968,Mexico City,MEX,,66.66363636363637,8369603.0
+Islamic Republic of Iran,IRI,2,1,2,5,1968,Mexico City,MEX,,,
+Sweden,SWE,2,1,1,4,1968,Mexico City,MEX,SWE,74.1,7911980.0
+Turkey,TUR,2,0,0,2,1968,Mexico City,MEX,TUR,53.4,33586000.0
+Denmark,DEN,1,4,3,8,1968,Mexico City,MEX,DNK,73.0,4864879.0
+Canada,CAN,1,3,1,5,1968,Mexico City,MEX,,66.66363636363637,21129417.0
+Finland,FIN,1,2,1,4,1968,Mexico City,MEX,FIN,69.8,4626471.0
+Ethiopia,ETH,1,1,0,2,1968,Mexico City,MEX,,,
+Norway,NOR,1,1,0,2,1968,Mexico City,MEX,NOR,74.2,3816488.0
+New Zealand,NZL,1,0,2,3,1968,Mexico City,MEX,NZL,71.4,2758885.0
+Tunisia,TUN,1,0,1,2,1968,Mexico City,MEX,,,
+Pakistan,PAK,1,0,0,1,1968,Mexico City,MEX,,,
+Venezuela,VEN,1,0,0,1,1968,Mexico City,MEX,,,
+Cuba,CUB,0,4,0,4,1968,Mexico City,MEX,,,
+Austria,AUT,0,2,2,4,1968,Mexico City,MEX,AUT,70.2,7415403.0
+Switzerland,SUI,0,1,4,5,1968,Mexico City,MEX,CHE,72.7,6067714.0
+Mongolia,MGL,0,1,3,4,1968,Mexico City,MEX,,,
+Brazil,BRA,0,1,2,3,1968,Mexico City,MEX,BRA,58.1,90557064.0
+Belgium,BEL,0,1,1,2,1968,Mexico City,MEX,BEL,70.8,9618756.0
+Republic of Korea,KOR,0,1,1,2,1968,Mexico City,MEX,,,
+Uganda,UGA,0,1,1,2,1968,Mexico City,MEX,,,
+Cameroon,CMR,0,1,0,1,1968,Mexico City,MEX,,,
+Jamaica,JAM,0,1,0,1,1968,Mexico City,MEX,,,
+Argentina,ARG,0,0,2,2,1968,Mexico City,MEX,,66.66363636363637,23260684.0
+Chinese Taipei,TPE,0,0,1,1,1968,Mexico City,MEX,,,
+Greece,GRE,0,0,1,1,1968,Mexico City,MEX,GRC,72.4,8740765.0
+India,IND,0,0,1,1,1968,Mexico City,MEX,IND,46.4,529967317.0
+Russia,URS,50,27,22,99,1972,Munich,GER,RUS,68.4,131514099.0
+United States,USA,33,31,30,94,1972,Munich,GER,USA,71.3,209896021.0
+Germany,GDR,20,23,23,66,1972,Munich,GER,DEU,71.0,78688450.0
+Germany,FRG,13,11,16,40,1972,Munich,GER,DEU,71.0,78688450.0
+Japan,JPN,13,8,8,29,1972,Munich,GER,JPN,73.2,107595000.0
+Australia,AUS,8,7,2,17,1972,Munich,GER,AUS,72.0,13303664.0
+Poland,POL,7,5,9,21,1972,Munich,GER,POL,70.7,33068000.0
+Hungary,HUN,6,13,16,35,1972,Munich,GER,HUN,69.8,10398491.0
+Bulgaria,BUL,6,10,5,21,1972,Munich,GER,,67.98648648648648,8576200.0
+Italy,ITA,5,3,10,18,1972,Munich,GER,,67.98648648648648,54381345.0
+Sweden,SWE,4,6,6,16,1972,Munich,GER,SWE,74.8,8122154.0
+England,GBR,4,5,9,18,1972,Munich,GER,,,
+Romania,ROU,3,6,7,16,1972,Munich,GER,,67.98648648648648,20657956.0
+Cuba,CUB,3,1,4,8,1972,Munich,GER,,,
+Finland,FIN,3,1,4,8,1972,Munich,GER,FIN,70.7,4639656.0
+Netherlands,NED,3,1,1,5,1972,Munich,GER,NLD,73.8,13328595.0
+France,FRA,2,4,7,13,1972,Munich,GER,FRA,72.4,51700913.0
+Czechoslovakia,TCH,2,4,2,8,1972,Munich,GER,,,
+Kenya,KEN,2,3,4,9,1972,Munich,GER,,,
+Yugoslavia,YUG,2,1,2,5,1972,Munich,GER,,,
+Norway,NOR,2,1,1,4,1972,Munich,GER,NOR,74.6,3933001.0
+Democratic People's Republic of Korea,PRK,1,1,3,5,1972,Munich,GER,,,
+New Zealand,NZL,1,1,1,3,1972,Munich,GER,NZL,71.7,2929135.0
+Uganda,UGA,1,1,0,2,1972,Munich,GER,,,
+Denmark,DEN,1,0,0,1,1972,Munich,GER,DNK,73.4,4991596.0
+Switzerland,SUI,0,3,0,3,1972,Munich,GER,CHE,73.8,6260956.0
+Canada,CAN,0,2,3,5,1972,Munich,GER,,67.98648648648648,22218463.0
+Islamic Republic of Iran,IRI,0,2,1,3,1972,Munich,GER,,,
+Belgium,BEL,0,2,0,2,1972,Munich,GER,BEL,71.5,9711115.0
+Greece,GRE,0,2,0,2,1972,Munich,GER,GRC,73.8,8888628.0
+Austria,AUT,0,1,2,3,1972,Munich,GER,AUT,70.6,7544201.0
+Colombia,COL,0,1,2,3,1972,Munich,GER,COL,60.4,23146803.0
+Argentina,ARG,0,1,0,1,1972,Munich,GER,,67.98648648648648,24769829.0
+Lebanon,LBN,0,1,0,1,1972,Munich,GER,,,
+Mexico,MEX,0,1,0,1,1972,Munich,GER,MEX,63.1,53973953.0
+Mongolia,MGL,0,1,0,1,1972,Munich,GER,,,
+Pakistan,PAK,0,1,0,1,1972,Munich,GER,,,
+Republic of Korea,KOR,0,1,0,1,1972,Munich,GER,,,
+Tunisia,TUN,0,1,0,1,1972,Munich,GER,,,
+Turkey,TUR,0,1,0,1,1972,Munich,GER,TUR,55.0,37133000.0
+Brazil,BRA,0,0,2,2,1972,Munich,GER,BRA,59.8,100143598.0
+Ethiopia,ETH,0,0,2,2,1972,Munich,GER,,,
+Ghana,GHA,0,0,1,1,1972,Munich,GER,,,
+India,IND,0,0,1,1,1972,Munich,GER,IND,49.1,579411513.0
+Jamaica,JAM,0,0,1,1,1972,Munich,GER,,,
+Niger,NIG,0,0,1,1,1972,Munich,GER,,,
+Nigeria,NGR,0,0,1,1,1972,Munich,GER,,,
+Spain,ESP,0,0,1,1,1972,Munich,GER,,67.98648648648648,34571714.0
+Russia,URS,49,41,35,125,1976,Montreal,CAN,RUS,67.6,134580091.0
+Germany,GDR,40,25,25,90,1976,Montreal,CAN,DEU,71.8,78336948.0
+United States,USA,34,35,25,94,1976,Montreal,CAN,USA,73.0,218035164.0
+Germany,FRG,10,12,17,39,1976,Montreal,CAN,DEU,71.8,78336948.0
+Japan,JPN,9,6,10,25,1976,Montreal,CAN,JPN,74.8,113094000.0
+Poland,POL,7,6,13,26,1976,Montreal,CAN,POL,70.7,34362133.0
+Bulgaria,BUL,6,9,7,22,1976,Montreal,CAN,,69.4125,8758599.0
+Cuba,CUB,6,4,3,13,1976,Montreal,CAN,,,
+Romania,ROU,4,9,14,27,1976,Montreal,CAN,,69.4125,21551631.0
+Hungary,HUN,4,5,13,22,1976,Montreal,CAN,HUN,69.7,10598674.0
+Finland,FIN,4,2,0,6,1976,Montreal,CAN,FIN,72.0,4725665.0
+Sweden,SWE,4,1,0,5,1976,Montreal,CAN,SWE,75.1,8222309.0
+England,GBR,3,5,5,13,1976,Montreal,CAN,,,
+Italy,ITA,2,7,4,13,1976,Montreal,CAN,ITA,72.8,55718266.0
+France,FRA,2,3,4,9,1976,Montreal,CAN,FRA,73.2,52908675.0
+Yugoslavia,YUG,2,3,3,8,1976,Montreal,CAN,,,
+Czechoslovakia,TCH,2,2,4,8,1976,Montreal,CAN,,,
+New Zealand,NZL,2,1,1,4,1976,Montreal,CAN,NZL,72.3,3153535.0
+Republic of Korea,KOR,1,1,4,6,1976,Montreal,CAN,,,
+Switzerland,SUI,1,1,2,4,1976,Montreal,CAN,CHE,74.9,6302505.0
+Democratic People's Republic of Korea,PRK,1,1,0,2,1976,Montreal,CAN,,,
+Jamaica,JAM,1,1,0,2,1976,Montreal,CAN,,,
+Norway,NOR,1,1,0,2,1976,Montreal,CAN,NOR,75.3,4026151.0
+Denmark,DEN,1,0,2,3,1976,Montreal,CAN,DNK,73.9,5072597.0
+Mexico,MEX,1,0,1,2,1976,Montreal,CAN,MEX,65.2,60702805.0
+Trinidad and Tobago,TTO,1,0,0,1,1976,Montreal,CAN,,,
+Canada,CAN,0,5,6,11,1976,Montreal,CAN,CAN,73.9,23449808.0
+Belgium,BEL,0,3,3,6,1976,Montreal,CAN,BEL,72.2,9818228.0
+Netherlands,NED,0,2,3,5,1976,Montreal,CAN,NLD,74.7,13774037.0
+Portugal,POR,0,2,0,2,1976,Montreal,CAN,PRT,69.0,9355812.0
+Spain,ESP,0,2,0,2,1976,Montreal,CAN,ESP,73.7,36118035.0
+Australia,AUS,0,1,4,5,1976,Montreal,CAN,AUS,72.8,14033083.0
+Islamic Republic of Iran,IRI,0,1,1,2,1976,Montreal,CAN,,,
+Mongolia,MGL,0,1,0,1,1976,Montreal,CAN,,,
+Venezuela,VEN,0,1,0,1,1976,Montreal,CAN,,,
+Brazil,BRA,0,0,2,2,1976,Montreal,CAN,BRA,61.3,110213082.0
+Austria,AUT,0,0,1,1,1976,Montreal,CAN,AUT,71.7,7565525.0
+Bermuda,BER,0,0,1,1,1976,Montreal,CAN,,,
+Pakistan,PAK,0,0,1,1,1976,Montreal,CAN,,,
+Puerto Rico,PUR,0,0,1,1,1976,Montreal,CAN,,,
+Thailand,THA,0,0,1,1,1976,Montreal,CAN,,,
+Russia,URS,80,69,46,195,1980,Moskow,RUS,RUS,67.2,138058710.0
+Germany,GDR,47,37,42,126,1980,Moskow,RUS,DEU,72.9,78288576.0
+Bulgaria,BUL,8,16,17,41,1980,Moskow,RUS,,70.64047619047618,8861535.0
+Cuba,CUB,8,7,5,20,1980,Moskow,RUS,,,
+Italy,ITA,8,3,4,15,1980,Moskow,RUS,ITA,74.0,56433876.0
+Hungary,HUN,7,10,15,32,1980,Moskow,RUS,HUN,69.2,10711126.0
+Romania,ROU,6,6,13,25,1980,Moskow,RUS,,70.64047619047618,22207284.0
+France,FRA,6,5,3,14,1980,Moskow,RUS,FRA,74.3,53880012.0
+England,GBR,5,7,9,21,1980,Moskow,RUS,,,
+Poland,POL,3,14,15,32,1980,Moskow,RUS,POL,70.2,35578019.0
+Sweden,SWE,3,3,6,12,1980,Moskow,RUS,SWE,75.9,8310477.0
+Finland,FIN,3,1,4,8,1980,Moskow,RUS,FIN,73.6,4779537.0
+Czechoslovakia,TCH,2,3,9,14,1980,Moskow,RUS,,,
+Yugoslavia,YUG,2,3,4,9,1980,Moskow,RUS,,,
+Australia,AUS,2,2,5,9,1980,Moskow,RUS,AUS,74.6,14695356.0
+Denmark,DEN,2,1,2,5,1980,Moskow,RUS,DNK,74.3,5123027.0
+Brazil,BRA,2,0,2,4,1980,Moskow,RUS,BRA,62.7,122081510.0
+Ethiopia,ETH,2,0,2,4,1980,Moskow,RUS,,,
+Switzerland,SUI,2,0,0,2,1980,Moskow,RUS,CHE,75.7,6319409.0
+Spain,ESP,1,3,2,6,1980,Moskow,RUS,ESP,75.4,37526911.0
+Austria,AUT,1,2,1,4,1980,Moskow,RUS,AUT,72.6,7549433.0
+Greece,GRE,1,0,2,3,1980,Moskow,RUS,GRC,75.3,9642505.0
+Belgium,BEL,1,0,0,1,1980,Moskow,RUS,BEL,73.3,9859243.0
+India,IND,1,0,0,1,1980,Moskow,RUS,IND,53.8,696783517.0
+Zimbabwe,ZIM,1,0,0,1,1980,Moskow,RUS,,,
+Democratic People's Republic of Korea,PRK,0,3,2,5,1980,Moskow,RUS,,,
+Mongolia,MGL,0,2,2,4,1980,Moskow,RUS,,,
+United Republic of Tanzania,TAN,0,2,0,2,1980,Moskow,RUS,,,
+Mexico,MEX,0,1,3,4,1980,Moskow,RUS,MEX,67.2,67561216.0
+Netherlands,NED,0,1,2,3,1980,Moskow,RUS,NLD,75.9,14149799.0
+Ireland,IRL,0,1,1,2,1980,Moskow,RUS,IRL,72.9,3401000.0
+Uganda,UGA,0,1,0,1,1980,Moskow,RUS,,,
+Venezuela,VEN,0,1,0,1,1980,Moskow,RUS,,,
+Jamaica,JAM,0,0,3,3,1980,Moskow,RUS,,,
+Guyana,GUY,0,0,1,1,1980,Moskow,RUS,,,
+Lebanon,LBN,0,0,1,1,1980,Moskow,RUS,,,
+United States,USA,83,61,30,174,1984,Los Angeles,USA,USA,74.7,235824902.0
+Romania,ROU,20,16,17,53,1984,Los Angeles,USA,,71.6857142857143,22640545.0
+Germany,FRG,17,19,23,59,1984,Los Angeles,USA,DEU,74.3,77858682.0
+China,CHN,15,8,9,32,1984,Los Angeles,USA,,,
+Italy,ITA,14,6,12,32,1984,Los Angeles,USA,ITA,75.0,56576719.0
+Canada,CAN,10,18,16,44,1984,Los Angeles,USA,CAN,76.2,25607053.0
+Japan,JPN,10,8,14,32,1984,Los Angeles,USA,JPN,77.4,120305000.0
+New Zealand,NZL,8,1,2,11,1984,Los Angeles,USA,NZL,73.8,3278850.0
+Yugoslavia,YUG,7,4,7,18,1984,Los Angeles,USA,,,
+Republic of Korea,KOR,6,6,7,19,1984,Los Angeles,USA,,,
+England,GBR,5,11,21,37,1984,Los Angeles,USA,,,
+France,FRA,5,7,16,28,1984,Los Angeles,USA,FRA,75.3,55026074.0
+Netherlands,NED,5,2,6,13,1984,Los Angeles,USA,NLD,76.4,14424211.0
+Australia,AUS,4,8,12,24,1984,Los Angeles,USA,AUS,75.8,15579391.0
+Finland,FIN,4,2,6,12,1984,Los Angeles,USA,FIN,74.8,4881806.0
+Sweden,SWE,2,11,6,19,1984,Los Angeles,USA,SWE,77.0,8336595.0
+Mexico,MEX,2,3,1,6,1984,Los Angeles,USA,MEX,69.1,74359027.0
+Morocco,MAR,2,0,0,2,1984,Los Angeles,USA,,,
+Brazil,BRA,1,5,2,8,1984,Los Angeles,USA,BRA,64.1,133238189.0
+Spain,ESP,1,2,2,5,1984,Los Angeles,USA,ESP,76.4,38325244.0
+Belgium,BEL,1,1,2,4,1984,Los Angeles,USA,BEL,74.5,9855372.0
+Austria,AUT,1,1,1,3,1984,Los Angeles,USA,AUT,73.7,7561434.0
+Kenya,KEN,1,0,2,3,1984,Los Angeles,USA,,,
+Portugal,POR,1,0,2,3,1984,Los Angeles,USA,PRT,72.7,9996232.0
+Pakistan,PAK,1,0,0,1,1984,Los Angeles,USA,,,
+Switzerland,SUI,0,4,4,8,1984,Los Angeles,USA,CHE,76.9,6441865.0
+Denmark,DEN,0,3,3,6,1984,Los Angeles,USA,DNK,74.8,5111619.0
+Jamaica,JAM,0,1,2,3,1984,Los Angeles,USA,,,
+Norway,NOR,0,1,2,3,1984,Los Angeles,USA,NOR,76.4,4140098.0
+Greece,GRE,0,1,1,2,1984,Los Angeles,USA,GRC,76.2,9895801.0
+Nigeria,NGR,0,1,1,2,1984,Los Angeles,USA,,,
+Puerto Rico,PUR,0,1,1,2,1984,Los Angeles,USA,,,
+Colombia,COL,0,1,0,1,1984,Los Angeles,USA,COL,66.0,30350086.0
+CÃ´te d'Ivoire,CIV,0,1,0,1,1984,Los Angeles,USA,,,
+Egypt,EGY,0,1,0,1,1984,Los Angeles,USA,,,
+Ireland,IRL,0,1,0,1,1984,Los Angeles,USA,,71.6857142857143,3529000.0
+Peru,PER,0,1,0,1,1984,Los Angeles,USA,,,
+Syrian Arab Republic,SYR,0,1,0,1,1984,Los Angeles,USA,,,
+Thailand,THA,0,1,0,1,1984,Los Angeles,USA,,,
+Turkey,TUR,0,0,3,3,1984,Los Angeles,USA,TUR,60.9,49070000.0
+Venezuela,VEN,0,0,3,3,1984,Los Angeles,USA,,,
+Algeria,ALG,0,0,2,2,1984,Los Angeles,USA,,,
+Cameroon,CMR,0,0,1,1,1984,Los Angeles,USA,,,
+Chinese Taipei,TPE,0,0,1,1,1984,Los Angeles,USA,,,
+Dominican Republic,DOM,0,0,1,1,1984,Los Angeles,USA,,,
+Iceland,ISL,0,0,1,1,1984,Los Angeles,USA,ISL,77.7,239506.0
+Zambia,ZAM,0,0,1,1,1984,Los Angeles,USA,,,
+Russia,URS,55,31,46,132,1988,Seoul,KOR,RUS,69.6,146035578.0
+Germany,GDR,37,35,30,102,1988,Seoul,KOR,DEU,75.8,78144617.0
+United States,USA,36,31,27,94,1988,Seoul,KOR,USA,74.9,244498982.0
+Republic of Korea,KOR,12,10,11,33,1988,Seoul,KOR,,,
+Germany,FRG,11,14,15,40,1988,Seoul,KOR,DEU,75.8,78144617.0
+Hungary,HUN,11,6,6,23,1988,Seoul,KOR,HUN,70.2,10596489.0
+Bulgaria,BUL,10,12,13,35,1988,Seoul,KOR,,72.83023255813954,8981446.0
+Romania,ROU,7,11,6,24,1988,Seoul,KOR,,72.83023255813954,23057660.0
+France,FRA,6,4,6,16,1988,Seoul,KOR,FRA,76.6,56117974.0
+Italy,ITA,6,4,4,14,1988,Seoul,KOR,ITA,76.5,56629290.0
+China,CHN,5,11,12,28,1988,Seoul,KOR,,,
+England,GBR,5,10,9,24,1988,Seoul,KOR,,,
+Kenya,KEN,5,2,2,9,1988,Seoul,KOR,,,
+Japan,JPN,4,3,7,14,1988,Seoul,KOR,JPN,78.4,122745000.0
+Australia,AUS,3,6,5,14,1988,Seoul,KOR,AUS,76.3,16532164.0
+Yugoslavia,YUG,3,4,5,12,1988,Seoul,KOR,,,
+Czechoslovakia,TCH,3,3,2,8,1988,Seoul,KOR,,,
+New Zealand,NZL,3,2,8,13,1988,Seoul,KOR,NZL,74.8,3343680.0
+Canada,CAN,3,2,5,10,1988,Seoul,KOR,CAN,76.8,26791747.0
+Poland,POL,2,5,9,16,1988,Seoul,KOR,POL,71.5,37862063.0
+Norway,NOR,2,3,0,5,1988,Seoul,KOR,NOR,76.4,4209489.0
+Netherlands,NED,2,2,5,9,1988,Seoul,KOR,NLD,77.1,14760092.0
+Denmark,DEN,2,1,1,4,1988,Seoul,KOR,DNK,75.0,5129517.0
+Brazil,BRA,1,2,3,6,1988,Seoul,KOR,BRA,65.7,143851505.0
+Finland,FIN,1,1,2,4,1988,Seoul,KOR,FIN,74.8,4946487.0
+Spain,ESP,1,1,2,4,1988,Seoul,KOR,ESP,76.9,38764307.0
+Turkey,TUR,1,1,0,2,1988,Seoul,KOR,TUR,65.2,53268000.0
+Morocco,MAR,1,0,2,3,1988,Seoul,KOR,,,
+Austria,AUT,1,0,0,1,1988,Seoul,KOR,AUT,75.3,7585317.0
+Portugal,POR,1,0,0,1,1988,Seoul,KOR,PRT,73.8,10019610.0
+Suriname,SUR,1,0,0,1,1988,Seoul,KOR,,,
+Sweden,SWE,0,4,7,11,1988,Seoul,KOR,SWE,77.1,8436483.0
+Switzerland,SUI,0,2,2,4,1988,Seoul,KOR,CHE,77.5,6593387.0
+Jamaica,JAM,0,2,0,2,1988,Seoul,KOR,,,
+Argentina,ARG,0,1,1,2,1988,Seoul,KOR,,72.83023255813954,31673154.0
+Chile,CHI,0,1,0,1,1988,Seoul,KOR,CHL,72.5,12748135.0
+Costa Rica,CRC,0,1,0,1,1988,Seoul,KOR,CRI,75.3,2878888.0
+Indonesia,INA,0,1,0,1,1988,Seoul,KOR,IDN,61.5,175000916.0
+Islamic Republic of Iran,IRI,0,1,0,1,1988,Seoul,KOR,,,
+Netherlands Antilles,AHO,0,1,0,1,1988,Seoul,KOR,,,
+Peru,PER,0,1,0,1,1988,Seoul,KOR,,,
+Senegal,SEN,0,1,0,1,1988,Seoul,KOR,,,
+United States Virgin Islands,ISV,0,1,0,1,1988,Seoul,KOR,,,
+Belgium,BEL,0,0,2,2,1988,Seoul,KOR,BEL,75.7,9901665.0
+Mexico,MEX,0,0,2,2,1988,Seoul,KOR,MEX,70.6,80970606.0
+Colombia,COL,0,0,1,1,1988,Seoul,KOR,COL,67.0,32767110.0
+Djibouti,DJI,0,0,1,1,1988,Seoul,KOR,,,
+Greece,GRE,0,0,1,1,1988,Seoul,KOR,GRC,76.8,10037037.0
+Mongolia,MGL,0,0,1,1,1988,Seoul,KOR,,,
+Pakistan,PAK,0,0,1,1,1988,Seoul,KOR,,,
+Philippines,PHI,0,0,1,1,1988,Seoul,KOR,,,
+Thailand,THA,0,0,1,1,1988,Seoul,KOR,,,
+Unified Team,EUN,45,38,29,112,1992,Barcelona,ESP,,,
+United States,USA,37,34,37,108,1992,Barcelona,ESP,USA,75.7,256514224.0
+Germany,GER,33,21,28,82,1992,Barcelona,ESP,DEU,76.0,80624601.0
+China,CHN,16,22,16,54,1992,Barcelona,ESP,,,
+Cuba,CUB,14,6,11,31,1992,Barcelona,ESP,,,
+Spain,ESP,13,7,2,22,1992,Barcelona,ESP,ESP,77.6,39147940.0
+Republic of Korea,KOR,12,5,12,29,1992,Barcelona,ESP,,,
+Hungary,HUN,11,12,7,30,1992,Barcelona,ESP,HUN,69.4,10369339.0
+France,FRA,8,5,16,29,1992,Barcelona,ESP,FRA,77.5,58711615.0
+Australia,AUS,7,9,11,27,1992,Barcelona,ESP,AUS,77.5,17478635.0
+Canada,CAN,7,4,7,18,1992,Barcelona,ESP,CAN,77.7,28371264.0
+Italy,ITA,6,5,8,19,1992,Barcelona,ESP,ITA,77.5,56797078.0
+England,GBR,5,3,12,20,1992,Barcelona,ESP,,,
+Romania,ROU,4,6,8,18,1992,Barcelona,ESP,,73.53023255813952,22794284.0
+Czechoslovakia,TCH,4,2,1,7,1992,Barcelona,ESP,,,
+Democratic People's Republic of Korea,PRK,4,0,5,9,1992,Barcelona,ESP,,,
+Japan,JPN,3,8,11,22,1992,Barcelona,ESP,JPN,79.2,124567000.0
+Bulgaria,BUL,3,7,6,16,1992,Barcelona,ESP,,73.53023255813952,8540164.0
+Poland,POL,3,6,10,19,1992,Barcelona,ESP,POL,71.1,38173500.0
+Netherlands,NED,2,6,7,15,1992,Barcelona,ESP,NLD,77.4,15184163.0
+Kenya,KEN,2,4,2,8,1992,Barcelona,ESP,,,
+Norway,NOR,2,4,1,7,1992,Barcelona,ESP,NOR,77.4,4286397.0
+Turkey,TUR,2,2,2,6,1992,Barcelona,ESP,TUR,68.2,56986000.0
+Indonesia,INA,2,2,1,5,1992,Barcelona,ESP,IDN,63.1,187766086.0
+Brazil,BRA,2,1,0,3,1992,Barcelona,ESP,BRA,67.2,153973883.0
+Greece,GRE,2,0,0,2,1992,Barcelona,ESP,GRC,77.2,10399058.0
+Sweden,SWE,1,7,4,12,1992,Barcelona,ESP,SWE,78.2,8668065.0
+New Zealand,NZL,1,4,5,10,1992,Barcelona,ESP,NZL,76.1,3531700.0
+Finland,FIN,1,2,2,5,1992,Barcelona,ESP,FIN,75.7,5041990.0
+Denmark,DEN,1,1,4,6,1992,Barcelona,ESP,DNK,75.3,5171370.0
+Morocco,MAR,1,1,1,3,1992,Barcelona,ESP,,,
+Ireland,IRL,1,1,0,2,1992,Barcelona,ESP,IRL,75.5,3554500.0
+Ethiopia,ETH,1,0,2,3,1992,Barcelona,ESP,,,
+Algeria,ALG,1,0,1,2,1992,Barcelona,ESP,,,
+Estonia,EST,1,0,1,2,1992,Barcelona,ESP,EST,69.1,1533091.0
+Lithuania,LTU,1,0,1,2,1992,Barcelona,ESP,LTU,70.4,3700114.0
+Switzerland,SUI,1,0,0,1,1992,Barcelona,ESP,CHE,78.1,6875364.0
+Jamaica,JAM,0,3,1,4,1992,Barcelona,ESP,,,
+Nigeria,NGR,0,3,1,4,1992,Barcelona,ESP,,,
+Latvia,LAT,0,2,1,3,1992,Barcelona,ESP,,73.53023255813952,2614338.0
+Austria,AUT,0,2,0,2,1992,Barcelona,ESP,AUT,75.9,7840709.0
+Namibia,NAM,0,2,0,2,1992,Barcelona,ESP,,,
+South Africa,RSA,0,2,0,2,1992,Barcelona,ESP,ZAF,63.4,39360225.0
+Belgium,BEL,0,1,2,3,1992,Barcelona,ESP,BEL,76.5,10045165.0
+Croatia,CRO,0,1,2,3,1992,Barcelona,ESP,,73.53023255813952,4732864.0
+Individual Olympic Athletes,IOA,0,1,2,3,1992,Barcelona,ESP,,,
+Islamic Republic of Iran,IRI,0,1,2,3,1992,Barcelona,ESP,,,
+Israel,ISR,0,1,1,2,1992,Barcelona,ESP,ISR,76.6,5123500.0
+Chinese Taipei,TPE,0,1,0,1,1992,Barcelona,ESP,,,
+Mexico,MEX,0,1,0,1,1992,Barcelona,ESP,MEX,71.9,87312337.0
+Peru,PER,0,1,0,1,1992,Barcelona,ESP,,,
+Mongolia,MGL,0,0,2,2,1992,Barcelona,ESP,,,
+Slovenia,SLO,0,0,2,2,1992,Barcelona,ESP,SVN,73.6,1995832.0
+Argentina,ARG,0,0,1,1,1992,Barcelona,ESP,,73.53023255813952,33475005.0
+Colombia,COL,0,0,1,1,1992,Barcelona,ESP,COL,67.5,35520940.0
+Ghana,GHA,0,0,1,1,1992,Barcelona,ESP,,,
+Malaysia,MAS,0,0,1,1,1992,Barcelona,ESP,,,
+Pakistan,PAK,0,0,1,1,1992,Barcelona,ESP,,,
+Philippines,PHI,0,0,1,1,1992,Barcelona,ESP,,,
+Puerto Rico,PUR,0,0,1,1,1992,Barcelona,ESP,,,
+Qatar,QAT,0,0,1,1,1992,Barcelona,ESP,,,
+Suriname,SUR,0,0,1,1,1992,Barcelona,ESP,,,
+Thailand,THA,0,0,1,1,1992,Barcelona,ESP,,,
+The Bahamas,BAH,0,0,1,1,1992,Barcelona,ESP,,,
+United States,USA,44,32,25,101,1996,Atlanta,USA,USA,76.1,269394284.0
+Russia,RUS,26,21,16,63,1996,Atlanta,USA,RUS,66.0,148160121.0
+Germany,GER,20,18,27,65,1996,Atlanta,USA,DEU,76.9,81914834.0
+China,CHN,16,22,12,50,1996,Atlanta,USA,,,
+France,FRA,15,7,15,37,1996,Atlanta,USA,FRA,78.3,59589289.0
+Italy,ITA,13,10,12,35,1996,Atlanta,USA,ITA,78.6,56860279.0
+Australia,AUS,9,9,23,41,1996,Atlanta,USA,AUS,78.2,18224767.0
+Cuba,CUB,9,8,8,25,1996,Atlanta,USA,,,
+Ukraine,UKR,9,2,12,23,1996,Atlanta,USA,,,
+Republic of Korea,KOR,7,15,5,27,1996,Atlanta,USA,,,
+Poland,POL,7,5,5,17,1996,Atlanta,USA,POL,72.4,38289000.0
+Hungary,HUN,7,4,10,21,1996,Atlanta,USA,HUN,70.7,10311235.0
+Spain,ESP,5,6,6,17,1996,Atlanta,USA,ESP,78.3,39884246.0
+Romania,ROU,4,7,9,20,1996,Atlanta,USA,,74.35813953488372,22619005.0
+Netherlands,NED,4,5,10,19,1996,Atlanta,USA,NLD,77.6,15530500.0
+Greece,GRE,4,4,0,8,1996,Atlanta,USA,GRC,78.0,10608801.0
+Czech Republic,CZE,4,3,4,11,1996,Atlanta,USA,CZE,74.0,10315353.0
+Switzerland,SUI,4,3,0,7,1996,Atlanta,USA,CHE,79.1,7071851.0
+Denmark,DEN,4,1,1,6,1996,Atlanta,USA,DNK,75.7,5261503.0
+Turkey,TUR,4,1,1,6,1996,Atlanta,USA,TUR,69.7,60671000.0
+Canada,CAN,3,11,8,22,1996,Atlanta,USA,CAN,78.1,29610218.0
+Bulgaria,BUL,3,7,5,15,1996,Atlanta,USA,,74.35813953488372,8362826.0
+Japan,JPN,3,6,5,14,1996,Atlanta,USA,JPN,80.3,125864000.0
+Kazakhstan,KAZ,3,4,4,11,1996,Atlanta,USA,,,
+Brazil,BRA,3,3,9,15,1996,Atlanta,USA,BRA,68.8,163767821.0
+New Zealand,NZL,3,2,1,6,1996,Atlanta,USA,NZL,77.1,3732000.0
+South Africa,RSA,3,1,1,5,1996,Atlanta,USA,ZAF,60.7,42898520.0
+Ireland,IRL,3,0,1,4,1996,Atlanta,USA,IRL,75.9,3626087.0
+Sweden,SWE,2,4,2,8,1996,Atlanta,USA,SWE,79.2,8840999.0
+Norway,NOR,2,2,3,7,1996,Atlanta,USA,NOR,78.3,4381339.0
+Belgium,BEL,2,2,2,6,1996,Atlanta,USA,BEL,77.3,10156641.0
+Nigeria,NGR,2,1,3,6,1996,Atlanta,USA,,,
+Democratic People's Republic of Korea,PRK,2,1,2,5,1996,Atlanta,USA,,,
+Algeria,ALG,2,0,1,3,1996,Atlanta,USA,,,
+Ethiopia,ETH,2,0,1,3,1996,Atlanta,USA,,,
+England,GBR,1,8,6,15,1996,Atlanta,USA,,,
+Belarus,BLR,1,6,8,15,1996,Atlanta,USA,,,
+Kenya,KEN,1,4,3,8,1996,Atlanta,USA,,,
+Jamaica,JAM,1,3,2,6,1996,Atlanta,USA,,,
+Finland,FIN,1,2,1,4,1996,Atlanta,USA,FIN,76.9,5124573.0
+Indonesia,INA,1,1,2,4,1996,Atlanta,USA,IDN,64.6,199914831.0
+Serbia and Montenegro,SCG,1,1,2,4,1996,Atlanta,USA,,,
+Islamic Republic of Iran,IRI,1,1,1,3,1996,Atlanta,USA,,,
+Slovakia,SVK,1,1,1,3,1996,Atlanta,USA,,,
+Armenia,ARM,1,1,0,2,1996,Atlanta,USA,,,
+Croatia,CRO,1,1,0,2,1996,Atlanta,USA,,74.35813953488372,4574853.0
+Portugal,POR,1,0,1,2,1996,Atlanta,USA,PRT,75.3,10063945.0
+Thailand,THA,1,0,1,2,1996,Atlanta,USA,,,
+Burundi,BDI,1,0,0,1,1996,Atlanta,USA,,,
+Costa Rica,CRC,1,0,0,1,1996,Atlanta,USA,CRI,76.8,3520866.0
+Ecuador,ECU,1,0,0,1,1996,Atlanta,USA,,,
+"Hong Kong, China",HKG,1,0,0,1,1996,Atlanta,USA,,,
+Syrian Arab Republic,SYR,1,0,0,1,1996,Atlanta,USA,,,
+Argentina,ARG,0,2,1,3,1996,Atlanta,USA,,74.35813953488372,35195575.0
+Namibia,NAM,0,2,0,2,1996,Atlanta,USA,,,
+Slovenia,SLO,0,2,0,2,1996,Atlanta,USA,SVN,75.1,1991169.0
+Austria,AUT,0,1,2,3,1996,Atlanta,USA,AUT,77.0,7959016.0
+Malaysia,MAS,0,1,1,2,1996,Atlanta,USA,,,
+Republic of Moldova,MDA,0,1,1,2,1996,Atlanta,USA,,,
+Uzbekistan,UZB,0,1,1,2,1996,Atlanta,USA,,,
+Azerbaijan,AZE,0,1,0,1,1996,Atlanta,USA,,,
+Chinese Taipei,TPE,0,1,0,1,1996,Atlanta,USA,,,
+Latvia,LAT,0,1,0,1,1996,Atlanta,USA,,74.35813953488372,2457226.0
+Philippines,PHI,0,1,0,1,1996,Atlanta,USA,,,
+The Bahamas,BAH,0,1,0,1,1996,Atlanta,USA,,,
+Tonga,TGA,0,1,0,1,1996,Atlanta,USA,,,
+Zambia,ZAM,0,1,0,1,1996,Atlanta,USA,,,
+Georgia,GEO,0,0,2,2,1996,Atlanta,USA,,,
+Morocco,MAR,0,0,2,2,1996,Atlanta,USA,,,
+Trinidad and Tobago,TTO,0,0,2,2,1996,Atlanta,USA,,,
+India,IND,0,0,1,1,1996,Atlanta,USA,IND,60.8,978893217.0
+Israel,ISR,0,0,1,1,1996,Atlanta,USA,ISR,78.2,5685100.0
+Lithuania,LTU,0,0,1,1,1996,Atlanta,USA,LTU,70.3,3601613.0
+Mexico,MEX,0,0,1,1,1996,Atlanta,USA,MEX,72.7,93294783.0
+Mongolia,MGL,0,0,1,1,1996,Atlanta,USA,,,
+Mozambique,MOZ,0,0,1,1,1996,Atlanta,USA,,,
+Puerto Rico,PUR,0,0,1,1,1996,Atlanta,USA,,,
+Tunisia,TUN,0,0,1,1,1996,Atlanta,USA,,,
+Uganda,UGA,0,0,1,1,1996,Atlanta,USA,,,
+United States,USA,37,24,32,93,2000,Sydney,AUS,USA,76.7,282162411.0
+Russia,RUS,32,28,29,89,2000,Sydney,AUS,RUS,65.6,146596873.0
+China,CHN,28,16,14,58,2000,Sydney,AUS,,,
+Australia,AUS,16,25,17,58,2000,Sydney,AUS,AUS,79.3,19028802.0
+Germany,GER,13,17,26,56,2000,Sydney,AUS,DEU,78.2,82211501.0
+France,FRA,13,14,11,38,2000,Sydney,AUS,FRA,79.2,60724780.0
+Italy,ITA,13,8,13,34,2000,Sydney,AUS,ITA,79.9,56942108.0
+Netherlands,NED,12,9,4,25,2000,Sydney,AUS,NLD,78.2,15925505.0
+Cuba,CUB,11,11,7,29,2000,Sydney,AUS,,,
+England,GBR,11,10,7,28,2000,Sydney,AUS,,,
+Romania,ROU,11,6,9,26,2000,Sydney,AUS,,75.27441860465116,22442973.0
+Republic of Korea,KOR,8,10,10,28,2000,Sydney,AUS,,,
+Hungary,HUN,8,6,3,17,2000,Sydney,AUS,HUN,71.9,10210965.0
+Poland,POL,6,5,3,14,2000,Sydney,AUS,POL,73.8,38258478.0
+Japan,JPN,5,8,5,18,2000,Sydney,AUS,JPN,81.2,126925843.0
+Bulgaria,BUL,5,6,2,13,2000,Sydney,AUS,,75.27441860465116,8170172.0
+Greece,GRE,4,6,3,13,2000,Sydney,AUS,GRC,78.6,10805806.0
+Sweden,SWE,4,5,3,12,2000,Sydney,AUS,SWE,79.7,8872112.0
+Norway,NOR,4,3,3,10,2000,Sydney,AUS,NOR,78.8,4490973.0
+Ethiopia,ETH,4,1,3,8,2000,Sydney,AUS,,,
+Ukraine,UKR,3,10,10,23,2000,Sydney,AUS,,,
+Kazakhstan,KAZ,3,4,0,7,2000,Sydney,AUS,,,
+Belarus,BLR,3,3,11,17,2000,Sydney,AUS,,,
+Canada,CAN,3,3,8,14,2000,Sydney,AUS,CAN,79.0,30685730.0
+Spain,ESP,3,3,5,11,2000,Sydney,AUS,ESP,79.3,40554387.0
+Turkey,TUR,3,0,2,5,2000,Sydney,AUS,TUR,71.1,64268751.0
+Islamic Republic of Iran,IRI,3,0,1,4,2000,Sydney,AUS,,,
+Czech Republic,CZE,2,3,3,8,2000,Sydney,AUS,CZE,75.1,10272503.0
+Kenya,KEN,2,3,2,7,2000,Sydney,AUS,,,
+Denmark,DEN,2,3,1,6,2000,Sydney,AUS,DNK,76.9,5337344.0
+Finland,FIN,2,1,1,4,2000,Sydney,AUS,FIN,77.7,5176203.0
+Austria,AUT,2,1,0,3,2000,Sydney,AUS,AUT,78.2,8011566.0
+Lithuania,LTU,2,0,3,5,2000,Sydney,AUS,LTU,72.1,3499534.0
+Azerbaijan,AZE,2,0,1,3,2000,Sydney,AUS,,,
+The Bahamas,BAH,2,0,1,3,2000,Sydney,AUS,,,
+Slovenia,SLO,2,0,0,2,2000,Sydney,AUS,SVN,76.1,1990272.0
+Switzerland,SUI,1,6,2,9,2000,Sydney,AUS,CHE,79.9,7184250.0
+Indonesia,INA,1,3,2,6,2000,Sydney,AUS,IDN,65.8,211540429.0
+Slovakia,SVK,1,3,1,5,2000,Sydney,AUS,,,
+Mexico,MEX,1,2,3,6,2000,Sydney,AUS,MEX,74.7,98785275.0
+Nigeria,NGR,1,2,0,3,2000,Sydney,AUS,,,
+Algeria,ALG,1,1,3,5,2000,Sydney,AUS,,,
+Uzbekistan,UZB,1,1,2,4,2000,Sydney,AUS,,,
+Latvia,LAT,1,1,1,3,2000,Sydney,AUS,,75.27441860465116,2367549.0
+Serbia and Montenegro,SCG,1,1,1,3,2000,Sydney,AUS,,,
+New Zealand,NZL,1,0,3,4,2000,Sydney,AUS,NZL,78.4,3857700.0
+Estonia,EST,1,0,2,3,2000,Sydney,AUS,EST,71.0,1396985.0
+Thailand,THA,1,0,2,3,2000,Sydney,AUS,,,
+Croatia,CRO,1,0,1,2,2000,Sydney,AUS,,75.27441860465116,4428069.0
+Cameroon,CMR,1,0,0,1,2000,Sydney,AUS,,,
+Colombia,COL,1,0,0,1,2000,Sydney,AUS,COL,71.0,40295563.0
+Mozambique,MOZ,1,0,0,1,2000,Sydney,AUS,,,
+Brazil,BRA,0,6,6,12,2000,Sydney,AUS,BRA,70.2,173765726.0
+Jamaica,JAM,0,6,3,9,2000,Sydney,AUS,,,
+Belgium,BEL,0,2,3,5,2000,Sydney,AUS,BEL,77.8,10251247.0
+South Africa,RSA,0,2,3,5,2000,Sydney,AUS,ZAF,56.2,45728315.0
+Argentina,ARG,0,2,2,4,2000,Sydney,AUS,,75.27441860465116,36783859.0
+Chinese Taipei,TPE,0,1,4,5,2000,Sydney,AUS,,,
+Morocco,MAR,0,1,4,5,2000,Sydney,AUS,,,
+Democratic People's Republic of Korea,PRK,0,1,3,4,2000,Sydney,AUS,,,
+Kingdom of Saudi Arabia,KSA,0,1,1,2,2000,Sydney,AUS,,,
+Republic of Moldova,MDA,0,1,1,2,2000,Sydney,AUS,,,
+Trinidad and Tobago,TTO,0,1,1,2,2000,Sydney,AUS,,,
+Ireland,IRL,0,1,0,1,2000,Sydney,AUS,IRL,76.6,3789536.0
+Sri Lanka,SRI,0,1,0,1,2000,Sydney,AUS,,,
+Uruguay,URU,0,1,0,1,2000,Sydney,AUS,,,
+Vietnam,VIE,0,1,0,1,2000,Sydney,AUS,,,
+Georgia,GEO,0,0,6,6,2000,Sydney,AUS,,,
+Costa Rica,CRC,0,0,2,2,2000,Sydney,AUS,CRI,77.5,3872349.0
+Portugal,POR,0,0,2,2,2000,Sydney,AUS,PRT,76.9,10289898.0
+Armenia,ARM,0,0,1,1,2000,Sydney,AUS,,,
+Barbados,BAR,0,0,1,1,2000,Sydney,AUS,,,
+Chile,CHI,0,0,1,1,2000,Sydney,AUS,CHL,76.4,15343326.0
+Iceland,ISL,0,0,1,1,2000,Sydney,AUS,ISL,79.7,281200.0
+India,IND,0,0,1,1,2000,Sydney,AUS,IND,62.5,1053050912.0
+Israel,ISR,0,0,1,1,2000,Sydney,AUS,ISR,78.8,6289200.0
+Kuwait,KUW,0,0,1,1,2000,Sydney,AUS,,,
+Kyrgyzstan,KGZ,0,0,1,1,2000,Sydney,AUS,,,
+North Macedonia,MKD,0,0,1,1,2000,Sydney,AUS,,,
+Qatar,QAT,0,0,1,1,2000,Sydney,AUS,,,
+United States,USA,36,39,26,101,2004,Athens,GRC,USA,77.6,292805298.0
+China,CHN,32,17,14,63,2004,Athens,GRC,,,
+Russia,RUS,28,26,36,90,2004,Athens,GRC,RUS,65.6,143821218.0
+Australia,AUS,17,16,17,50,2004,Athens,GRC,AUS,80.6,19932722.0
+Japan,JPN,16,9,12,37,2004,Athens,GRC,JPN,82.1,127687000.0
+Germany,GER,13,16,20,49,2004,Athens,GRC,DEU,79.2,82516268.0
+France,FRA,11,9,13,33,2004,Athens,GRC,FRA,80.3,62490800.0
+Italy,ITA,10,11,11,32,2004,Athens,GRC,ITA,80.9,57685327.0
+Republic of Korea,KOR,9,12,9,30,2004,Athens,GRC,,,
+England,GBR,9,9,12,30,2004,Athens,GRC,,,
+Cuba,CUB,9,7,11,27,2004,Athens,GRC,,,
+Hungary,HUN,8,6,3,17,2004,Athens,GRC,HUN,73.0,10107140.0
+Ukraine,UKR,8,5,9,22,2004,Athens,GRC,,,
+Romania,ROU,8,5,6,19,2004,Athens,GRC,,76.17045454545453,21451845.0
+Greece,GRE,6,6,4,16,2004,Athens,GRC,GRC,79.4,10955142.0
+Brazil,BRA,5,2,3,10,2004,Athens,GRC,BRA,71.6,182865043.0
+Norway,NOR,5,0,1,6,2004,Athens,GRC,NOR,80.1,4591909.0
+Netherlands,NED,4,9,9,22,2004,Athens,GRC,NLD,79.2,16281777.0
+Sweden,SWE,4,2,1,7,2004,Athens,GRC,SWE,80.6,8993533.0
+Spain,ESP,3,11,6,20,2004,Athens,GRC,ESP,80.4,42859172.0
+Canada,CAN,3,6,3,12,2004,Athens,GRC,CAN,79.8,31940655.0
+Turkey,TUR,3,3,4,10,2004,Athens,GRC,TUR,72.7,67598736.0
+Poland,POL,3,2,5,10,2004,Athens,GRC,POL,74.9,38180249.0
+New Zealand,NZL,3,2,0,5,2004,Athens,GRC,NZL,79.6,4087500.0
+Thailand,THA,3,1,4,8,2004,Athens,GRC,,,
+Belarus,BLR,2,5,6,13,2004,Athens,GRC,,,
+Austria,AUT,2,4,1,7,2004,Athens,GRC,AUT,79.3,8169441.0
+Ethiopia,ETH,2,3,2,7,2004,Athens,GRC,,,
+Islamic Republic of Iran,IRI,2,2,2,6,2004,Athens,GRC,,,
+Slovakia,SVK,2,2,2,6,2004,Athens,GRC,,,
+Chinese Taipei,TPE,2,2,1,5,2004,Athens,GRC,,,
+Georgia,GEO,2,2,0,4,2004,Athens,GRC,,,
+Bulgaria,BUL,2,1,9,12,2004,Athens,GRC,,76.17045454545453,7716860.0
+Denmark,DEN,2,1,5,8,2004,Athens,GRC,DNK,77.8,5401177.0
+Jamaica,JAM,2,1,2,5,2004,Athens,GRC,,,
+Uzbekistan,UZB,2,1,2,5,2004,Athens,GRC,,,
+Morocco,MAR,2,1,0,3,2004,Athens,GRC,,,
+Argentina,ARG,2,0,4,6,2004,Athens,GRC,,76.17045454545453,38325927.0
+Chile,CHI,2,0,1,3,2004,Athens,GRC,CHL,77.4,16022133.0
+Kazakhstan,KAZ,1,4,3,8,2004,Athens,GRC,,,
+Kenya,KEN,1,4,2,7,2004,Athens,GRC,,,
+Czech Republic,CZE,1,3,5,9,2004,Athens,GRC,CZE,75.8,10206923.0
+South Africa,RSA,1,3,2,6,2004,Athens,GRC,ZAF,53.5,46741256.0
+Croatia,CRO,1,2,2,5,2004,Athens,GRC,,76.17045454545453,4308296.0
+Lithuania,LTU,1,2,0,3,2004,Athens,GRC,LTU,72.0,3377073.0
+Egypt,EGY,1,1,3,5,2004,Athens,GRC,,,
+Switzerland,SUI,1,1,3,5,2004,Athens,GRC,CHE,81.2,7389626.0
+Indonesia,INA,1,1,2,4,2004,Athens,GRC,IDN,67.0,223614649.0
+Zimbabwe,ZIM,1,1,1,3,2004,Athens,GRC,,,
+Azerbaijan,AZE,1,0,4,5,2004,Athens,GRC,,,
+Belgium,BEL,1,0,2,3,2004,Athens,GRC,BEL,79.0,10421133.0
+Israel,ISR,1,0,1,2,2004,Athens,GRC,ISR,80.2,6809000.0
+The Bahamas,BAH,1,0,1,2,2004,Athens,GRC,,,
+Cameroon,CMR,1,0,0,1,2004,Athens,GRC,,,
+Dominican Republic,DOM,1,0,0,1,2004,Athens,GRC,,,
+United Arab Emirates,UAE,1,0,0,1,2004,Athens,GRC,,,
+Democratic People's Republic of Korea,PRK,0,4,1,5,2004,Athens,GRC,,,
+Latvia,LAT,0,4,0,4,2004,Athens,GRC,LVA,70.8,2263123.0
+Mexico,MEX,0,3,1,4,2004,Athens,GRC,MEX,75.4,104272444.0
+Portugal,POR,0,2,1,3,2004,Athens,GRC,PRT,78.4,10483861.0
+Finland,FIN,0,2,0,2,2004,Athens,GRC,FIN,79.0,5228173.0
+Serbia and Montenegro,SCG,0,2,0,2,2004,Athens,GRC,,,
+Slovenia,SLO,0,1,3,4,2004,Athens,GRC,SVN,77.2,1997004.0
+Estonia,EST,0,1,2,3,2004,Athens,GRC,EST,72.4,1362550.0
+"Hong Kong, China",HKG,0,1,0,1,2004,Athens,GRC,,,
+India,IND,0,1,0,1,2004,Athens,GRC,IND,64.1,1126135777.0
+Paraguay,PAR,0,1,0,1,2004,Athens,GRC,,,
+Colombia,COL,0,0,2,2,2004,Athens,GRC,COL,72.7,42368489.0
+Nigeria,NGR,0,0,2,2,2004,Athens,GRC,,,
+Venezuela,VEN,0,0,2,2,2004,Athens,GRC,,,
+Eritrea,ERI,0,0,1,1,2004,Athens,GRC,,,
+Mongolia,MGL,0,0,1,1,2004,Athens,GRC,,,
+Syrian Arab Republic,SYR,0,0,1,1,2004,Athens,GRC,,,
+Trinidad and Tobago,TTO,0,0,1,1,2004,Athens,GRC,,,
+China,CHN,48,22,30,100,2008,Beijing,CHN,,,
+United States,USA,36,39,37,112,2008,Beijing,CHN,USA,78.1,304093966.0
+Russia,RUS,24,13,23,60,2008,Beijing,CHN,RUS,68.1,141956413.0
+England,GBR,19,13,19,51,2008,Beijing,CHN,,,
+Germany,GER,16,11,14,41,2008,Beijing,CHN,DEU,80.2,82110097.0
+Australia,AUS,14,15,17,46,2008,Beijing,CHN,AUS,81.5,21249199.0
+Republic of Korea,KOR,13,11,8,32,2008,Beijing,CHN,,,
+Japan,JPN,9,8,8,25,2008,Beijing,CHN,JPN,82.7,128083960.0
+Italy,ITA,8,9,10,27,2008,Beijing,CHN,ITA,81.6,58826733.0
+France,FRA,7,16,20,43,2008,Beijing,CHN,FRA,81.4,64133174.0
+Netherlands,NED,7,5,4,16,2008,Beijing,CHN,NLD,80.5,16445590.0
+Ukraine,UKR,7,4,11,22,2008,Beijing,CHN,,,
+Kenya,KEN,6,4,6,16,2008,Beijing,CHN,,,
+Spain,ESP,5,11,3,19,2008,Beijing,CHN,ESP,81.5,45983169.0
+Jamaica,JAM,5,4,2,11,2008,Beijing,CHN,,,
+Poland,POL,4,5,2,11,2008,Beijing,CHN,POL,75.7,38115909.0
+Ethiopia,ETH,4,2,1,7,2008,Beijing,CHN,,,
+Romania,ROU,4,1,4,9,2008,Beijing,CHN,,77.23409090909091,20537848.0
+Cuba,CUB,3,10,17,30,2008,Beijing,CHN,,,
+Canada,CAN,3,9,8,20,2008,Beijing,CHN,CAN,80.6,33247118.0
+Hungary,HUN,3,5,2,10,2008,Beijing,CHN,HUN,74.2,10038186.0
+Norway,NOR,3,5,1,9,2008,Beijing,CHN,NOR,80.8,4768215.0
+Brazil,BRA,3,4,10,17,2008,Beijing,CHN,BRA,73.0,191010274.0
+Belarus,BLR,3,4,7,14,2008,Beijing,CHN,,,
+Czech Republic,CZE,3,3,1,7,2008,Beijing,CHN,CZE,77.3,10429692.0
+Slovakia,SVK,3,3,0,6,2008,Beijing,CHN,,,
+New Zealand,NZL,3,2,4,9,2008,Beijing,CHN,NZL,80.5,4259800.0
+Georgia,GEO,3,2,2,7,2008,Beijing,CHN,,,
+Kazakhstan,KAZ,2,3,4,9,2008,Beijing,CHN,,,
+Denmark,DEN,2,2,3,7,2008,Beijing,CHN,DNK,78.8,5489022.0
+Democratic People's Republic of Korea,PRK,2,2,2,6,2008,Beijing,CHN,,,
+Thailand,THA,2,2,2,6,2008,Beijing,CHN,,,
+Mongolia,MGL,2,2,0,4,2008,Beijing,CHN,,,
+Switzerland,SUI,2,1,4,7,2008,Beijing,CHN,CHE,82.2,7647676.0
+Argentina,ARG,2,0,4,6,2008,Beijing,CHN,,77.23409090909091,39940234.0
+Mexico,MEX,2,0,2,4,2008,Beijing,CHN,MEX,75.1,110405454.0
+Belgium,BEL,2,0,0,2,2008,Beijing,CHN,BEL,79.8,10709976.0
+Zimbabwe,ZIM,1,3,0,4,2008,Beijing,CHN,,,
+Slovenia,SLO,1,2,2,5,2008,Beijing,CHN,SVN,79.1,2022629.0
+Azerbaijan,AZE,1,1,4,6,2008,Beijing,CHN,,,
+Indonesia,INA,1,1,4,6,2008,Beijing,CHN,IDN,68.5,236159276.0
+Bulgaria,BUL,1,1,3,5,2008,Beijing,CHN,,77.23409090909091,7492561.0
+Turkey,TUR,1,1,3,5,2008,Beijing,CHN,TUR,73.9,71051689.0
+Chinese Taipei,TPE,1,1,2,4,2008,Beijing,CHN,,,
+Finland,FIN,1,1,2,4,2008,Beijing,CHN,FIN,79.9,5313398.0
+Latvia,LAT,1,1,1,3,2008,Beijing,CHN,LVA,72.0,2177324.0
+Dominican Republic,DOM,1,1,0,2,2008,Beijing,CHN,,,
+Estonia,EST,1,1,0,2,2008,Beijing,CHN,EST,74.2,1337090.0
+Portugal,POR,1,1,0,2,2008,Beijing,CHN,PRT,79.5,10558177.0
+Trinidad and Tobago,TTO,1,1,0,2,2008,Beijing,CHN,,,
+India,IND,1,0,2,3,2008,Beijing,CHN,IND,65.8,1197146906.0
+Islamic Republic of Iran,IRI,1,0,1,2,2008,Beijing,CHN,,,
+Cameroon,CMR,1,0,0,1,2008,Beijing,CHN,,,
+Panama,PAN,1,0,0,1,2008,Beijing,CHN,,,
+Tunisia,TUN,1,0,0,1,2008,Beijing,CHN,,,
+Sweden,SWE,0,4,1,5,2008,Beijing,CHN,SWE,81.3,9219639.0
+Lithuania,LTU,0,3,2,5,2008,Beijing,CHN,LTU,71.8,3198234.0
+Nigeria,NGR,0,3,2,5,2008,Beijing,CHN,,,
+Croatia,CRO,0,2,3,5,2008,Beijing,CHN,,77.23409090909091,4310884.0
+Colombia,COL,0,2,1,3,2008,Beijing,CHN,COL,73.9,44451147.0
+Greece,GRE,0,2,1,3,2008,Beijing,CHN,GRC,80.3,11077839.0
+Armenia,ARM,0,1,4,5,2008,Beijing,CHN,,,
+Uzbekistan,UZB,0,1,3,4,2008,Beijing,CHN,,,
+Austria,AUT,0,1,2,3,2008,Beijing,CHN,AUT,80.5,8321541.0
+Ireland,IRL,0,1,2,3,2008,Beijing,CHN,IRL,80.2,4485070.0
+Kyrgyzstan,KGZ,0,1,2,3,2008,Beijing,CHN,,,
+Serbia,SRB,0,1,2,3,2008,Beijing,CHN,,,
+Algeria,ALG,0,1,1,2,2008,Beijing,CHN,,,
+Morocco,MAR,0,1,1,2,2008,Beijing,CHN,,,
+Tajikistan,TJK,0,1,1,2,2008,Beijing,CHN,,,
+The Bahamas,BAH,0,1,1,2,2008,Beijing,CHN,,,
+Chile,CHI,0,1,0,1,2008,Beijing,CHN,CHL,78.3,16697754.0
+Ecuador,ECU,0,1,0,1,2008,Beijing,CHN,,,
+Iceland,ISL,0,1,0,1,2008,Beijing,CHN,ISL,81.7,317404.0
+Malaysia,MAS,0,1,0,1,2008,Beijing,CHN,,,
+Samoa,SAM,0,1,0,1,2008,Beijing,CHN,,,
+Singapore,SGP,0,1,0,1,2008,Beijing,CHN,,77.23409090909091,3642659.0
+South Africa,RSA,0,1,0,1,2008,Beijing,CHN,ZAF,55.4,49176550.0
+Sudan,SUD,0,1,0,1,2008,Beijing,CHN,,,
+Vietnam,VIE,0,1,0,1,2008,Beijing,CHN,,,
+Egypt,EGY,0,0,2,2,2008,Beijing,CHN,,,
+Afghanistan,AFG,0,0,1,1,2008,Beijing,CHN,,,
+Israel,ISR,0,0,1,1,2008,Beijing,CHN,ISR,81.0,7308795.0
+Mauritius,MRI,0,0,1,1,2008,Beijing,CHN,,,
+Republic of Moldova,MDA,0,0,1,1,2008,Beijing,CHN,,,
+Togo,TOG,0,0,1,1,2008,Beijing,CHN,,,
+Venezuela,VEN,0,0,1,1,2008,Beijing,CHN,,,
+United States,USA,46,28,30,104,2012,London,GBR,USA,78.8,313874218.0
+China,CHN,38,31,22,91,2012,London,GBR,,,
+England,GBR,29,17,19,65,2012,London,GBR,,,
+Russia,RUS,20,20,27,67,2012,London,GBR,RUS,70.2,143201721.0
+Republic of Korea,KOR,13,9,8,30,2012,London,GBR,,,
+Germany,GER,11,20,13,44,2012,London,GBR,DEU,80.6,80425826.0
+France,FRA,11,11,13,35,2012,London,GBR,FRA,82.1,65402998.0
+Australia,AUS,8,15,12,35,2012,London,GBR,AUS,82.1,22733465.0
+Italy,ITA,8,9,11,28,2012,London,GBR,ITA,82.3,59539725.0
+Hungary,HUN,8,4,6,18,2012,London,GBR,HUN,75.2,9920364.0
+Japan,JPN,7,14,17,38,2012,London,GBR,JPN,83.2,127592657.0
+Islamic Republic of Iran,IRI,7,5,1,13,2012,London,GBR,,,
+Netherlands,NED,6,6,8,20,2012,London,GBR,NLD,81.2,16754963.0
+New Zealand,NZL,6,2,5,13,2012,London,GBR,NZL,81.2,4408100.0
+Ukraine,UKR,5,4,10,19,2012,London,GBR,,,
+Cuba,CUB,5,3,7,15,2012,London,GBR,,,
+Spain,ESP,4,10,4,18,2012,London,GBR,ESP,82.5,46766403.0
+Jamaica,JAM,4,5,3,12,2012,London,GBR,,,
+Czech Republic,CZE,4,3,4,11,2012,London,GBR,CZE,78.2,10509286.0
+South Africa,RSA,4,1,1,6,2012,London,GBR,ZAF,60.1,52409724.0
+Democratic People's Republic of Korea,PRK,4,0,2,6,2012,London,GBR,,,
+Brazil,BRA,3,5,9,17,2012,London,GBR,BRA,74.2,198314934.0
+Poland,POL,3,2,6,11,2012,London,GBR,POL,76.9,38533789.0
+Ethiopia,ETH,3,2,3,8,2012,London,GBR,,,
+Kazakhstan,KAZ,3,1,7,11,2012,London,GBR,,,
+Croatia,CRO,3,1,2,6,2012,London,GBR,,78.30454545454546,4269063.0
+Canada,CAN,2,5,11,18,2012,London,GBR,CAN,81.5,34714222.0
+Belarus,BLR,2,5,3,10,2012,London,GBR,,,
+Kenya,KEN,2,4,7,13,2012,London,GBR,,,
+Denmark,DEN,2,4,3,9,2012,London,GBR,DNK,80.1,5587085.0
+Romania,ROU,2,4,1,7,2012,London,GBR,,78.30454545454546,20060182.0
+Azerbaijan,AZE,2,2,5,9,2012,London,GBR,,,
+Switzerland,SUI,2,2,0,4,2012,London,GBR,CHE,82.8,7996861.0
+Norway,NOR,2,1,1,4,2012,London,GBR,NOR,81.5,5018574.0
+Lithuania,LTU,2,0,3,5,2012,London,GBR,LTU,74.0,2987773.0
+Tunisia,TUN,2,0,1,3,2012,London,GBR,,,
+Sweden,SWE,1,4,3,8,2012,London,GBR,SWE,81.8,9519378.0
+Colombia,COL,1,3,5,9,2012,London,GBR,COL,74.8,46581823.0
+Mexico,MEX,1,3,4,8,2012,London,GBR,MEX,75.0,116935670.0
+Georgia,GEO,1,2,3,6,2012,London,GBR,,,
+Ireland,IRL,1,1,4,6,2012,London,GBR,IRL,80.9,4593697.0
+Argentina,ARG,1,1,2,4,2012,London,GBR,,78.30454545454546,41733271.0
+Serbia,SRB,1,1,2,4,2012,London,GBR,,,
+Slovenia,SLO,1,1,2,4,2012,London,GBR,SVN,80.2,2056262.0
+Trinidad and Tobago,TTO,1,1,2,4,2012,London,GBR,,,
+Turkey,TUR,1,1,1,3,2012,London,GBR,TUR,74.6,75175836.0
+Dominican Republic,DOM,1,1,0,2,2012,London,GBR,,,
+Chinese Taipei,TPE,1,0,1,2,2012,London,GBR,,,
+Latvia,LAT,1,0,1,2,2012,London,GBR,LVA,73.9,2034324.0
+Algeria,ALG,1,0,0,1,2012,London,GBR,,,
+Bahrain,BRN,1,0,0,1,2012,London,GBR,,,
+Grenada,GRN,1,0,0,1,2012,London,GBR,,,
+The Bahamas,BAH,1,0,0,1,2012,London,GBR,,,
+Uganda,UGA,1,0,0,1,2012,London,GBR,,,
+Venezuela,VEN,1,0,0,1,2012,London,GBR,,,
+Egypt,EGY,0,3,1,4,2012,London,GBR,,,
+India,IND,0,2,4,6,2012,London,GBR,IND,67.6,1263065852.0
+Mongolia,MGL,0,2,3,5,2012,London,GBR,,,
+Thailand,THA,0,2,2,4,2012,London,GBR,,,
+Bulgaria,BUL,0,2,1,3,2012,London,GBR,,78.30454545454546,7305888.0
+Finland,FIN,0,2,1,3,2012,London,GBR,FIN,80.7,5413967.0
+Indonesia,INA,0,2,1,3,2012,London,GBR,IDN,69.9,245425200.0
+Slovakia,SVK,0,1,3,4,2012,London,GBR,,,
+Belgium,BEL,0,1,2,3,2012,London,GBR,BEL,80.5,11067748.0
+Armenia,ARM,0,1,1,2,2012,London,GBR,,,
+Estonia,EST,0,1,1,2,2012,London,GBR,EST,76.5,1322696.0
+Malaysia,MAS,0,1,1,2,2012,London,GBR,,,
+Puerto Rico,PUR,0,1,1,2,2012,London,GBR,,,
+Botswana,BOT,0,1,0,1,2012,London,GBR,,,
+Cyprus,CYP,0,1,0,1,2012,London,GBR,,78.30454545454546,863945.0
+Gabon,GAB,0,1,0,1,2012,London,GBR,,,
+Guatemala,GUA,0,1,0,1,2012,London,GBR,,,
+Montenegro,MNE,0,1,0,1,2012,London,GBR,,,
+Portugal,POR,0,1,0,1,2012,London,GBR,PRT,80.5,10514844.0
+Uzbekistan,UZB,0,0,3,3,2012,London,GBR,,,
+Greece,GRE,0,0,2,2,2012,London,GBR,GRC,80.7,11045010.0
+Qatar,QAT,0,0,2,2,2012,London,GBR,,,
+Singapore,SGP,0,0,2,2,2012,London,GBR,,78.30454545454546,3818205.0
+Afghanistan,AFG,0,0,1,1,2012,London,GBR,,,
+Cameroon,CMR,0,0,1,1,2012,London,GBR,,,
+"Hong Kong, China",HKG,0,0,1,1,2012,London,GBR,,,
+Kingdom of Saudi Arabia,KSA,0,0,1,1,2012,London,GBR,,,
+Kuwait,KUW,0,0,1,1,2012,London,GBR,,,
+Morocco,MAR,0,0,1,1,2012,London,GBR,,,
+Tajikistan,TJK,0,0,1,1,2012,London,GBR,,,
+Vietnam,VIE,0,0,1,1,2012,London,GBR,,,
+United States,USA,46,37,38,121,2016,Rio de Janeiro,BRA,USA,78.7,323071342.0
+England,GBR,27,23,17,67,2016,Rio de Janeiro,BRA,,,
+China,CHN,26,18,26,70,2016,Rio de Janeiro,BRA,,,
+Russia,RUS,19,17,20,56,2016,Rio de Janeiro,BRA,RUS,71.8,144342400.0
+Germany,GER,17,10,15,42,2016,Rio de Janeiro,BRA,DEU,81.1,82348669.0
+Japan,JPN,12,8,21,41,2016,Rio de Janeiro,BRA,JPN,84.1,126932772.0
+France,FRA,10,18,14,42,2016,Rio de Janeiro,BRA,FRA,82.7,66685530.0
+Republic of Korea,KOR,9,3,9,21,2016,Rio de Janeiro,BRA,,,
+Italy,ITA,8,12,8,28,2016,Rio de Janeiro,BRA,ITA,83.3,60627494.0
+Australia,AUS,8,11,10,29,2016,Rio de Janeiro,BRA,AUS,82.5,24190907.0
+Netherlands,NED,8,7,4,19,2016,Rio de Janeiro,BRA,NLD,81.6,17030314.0
+Hungary,HUN,8,3,4,15,2016,Rio de Janeiro,BRA,HUN,76.2,9814026.0
+Brazil,BRA,7,6,6,19,2016,Rio de Janeiro,BRA,BRA,75.3,205156587.0
+Spain,ESP,7,4,6,17,2016,Rio de Janeiro,BRA,ESP,83.4,46449874.0
+Kenya,KEN,6,6,1,13,2016,Rio de Janeiro,BRA,,,
+Jamaica,JAM,6,3,2,11,2016,Rio de Janeiro,BRA,,,
+Croatia,CRO,5,3,2,10,2016,Rio de Janeiro,BRA,,79.21363636363637,4174349.0
+Cuba,CUB,5,2,4,11,2016,Rio de Janeiro,BRA,,,
+New Zealand,NZL,4,9,5,18,2016,Rio de Janeiro,BRA,NZL,81.7,4693200.0
+Canada,CAN,4,3,15,22,2016,Rio de Janeiro,BRA,CAN,82.0,36109487.0
+Uzbekistan,UZB,4,2,7,13,2016,Rio de Janeiro,BRA,,,
+Kazakhstan,KAZ,3,5,10,18,2016,Rio de Janeiro,BRA,,,
+Colombia,COL,3,2,3,8,2016,Rio de Janeiro,BRA,COL,75.8,48747708.0
+Switzerland,SUI,3,2,2,7,2016,Rio de Janeiro,BRA,CHE,83.7,8373334.0
+Islamic Republic of Iran,IRI,3,1,4,8,2016,Rio de Janeiro,BRA,,,
+Greece,GRE,3,1,2,6,2016,Rio de Janeiro,BRA,GRC,81.5,10775971.0
+Argentina,ARG,3,1,0,4,2016,Rio de Janeiro,BRA,,79.21363636363637,43590368.0
+Denmark,DEN,2,6,7,15,2016,Rio de Janeiro,BRA,DNK,80.9,5724456.0
+Sweden,SWE,2,6,3,11,2016,Rio de Janeiro,BRA,SWE,82.4,9923085.0
+South Africa,RSA,2,6,2,10,2016,Rio de Janeiro,BRA,ZAF,63.2,55946872.0
+Ukraine,UKR,2,5,4,11,2016,Rio de Janeiro,BRA,,,
+Serbia,SRB,2,4,2,8,2016,Rio de Janeiro,BRA,,,
+Poland,POL,2,3,6,11,2016,Rio de Janeiro,BRA,POL,78.0,38426809.0
+Democratic People's Republic of Korea,PRK,2,3,2,7,2016,Rio de Janeiro,BRA,,,
+Belgium,BEL,2,2,2,6,2016,Rio de Janeiro,BRA,BEL,81.5,11295003.0
+Thailand,THA,2,2,2,6,2016,Rio de Janeiro,BRA,,,
+Slovakia,SVK,2,2,0,4,2016,Rio de Janeiro,BRA,,,
+Georgia,GEO,2,1,4,7,2016,Rio de Janeiro,BRA,,,
+Azerbaijan,AZE,1,7,10,18,2016,Rio de Janeiro,BRA,,,
+Belarus,BLR,1,4,4,9,2016,Rio de Janeiro,BRA,,,
+Turkey,TUR,1,3,4,8,2016,Rio de Janeiro,BRA,TUR,78.0,79277971.0
+Armenia,ARM,1,3,0,4,2016,Rio de Janeiro,BRA,,,
+Czech Republic,CZE,1,2,7,10,2016,Rio de Janeiro,BRA,CZE,79.1,10565284.0
+Ethiopia,ETH,1,2,5,8,2016,Rio de Janeiro,BRA,,,
+Slovenia,SLO,1,2,1,4,2016,Rio de Janeiro,BRA,SVN,81.3,2064241.0
+Indonesia,INA,1,2,0,3,2016,Rio de Janeiro,BRA,IDN,71.1,258705000.0
+Romania,ROU,1,1,2,4,2016,Rio de Janeiro,BRA,,79.21363636363637,19706529.0
+Bahrain,BRN,1,1,0,2,2016,Rio de Janeiro,BRA,,,
+Vietnam,VIE,1,1,0,2,2016,Rio de Janeiro,BRA,,,
+Chinese Taipei,TPE,1,0,2,3,2016,Rio de Janeiro,BRA,,,
+CÃ´te d'Ivoire,CIV,1,0,1,2,2016,Rio de Janeiro,BRA,,,
+Individual Olympic Athletes,IOA,1,0,1,2,2016,Rio de Janeiro,BRA,,,
+The Bahamas,BAH,1,0,1,2,2016,Rio de Janeiro,BRA,,,
+Fiji,FIJ,1,0,0,1,2016,Rio de Janeiro,BRA,,,
+Jordan,JOR,1,0,0,1,2016,Rio de Janeiro,BRA,,,
+Kosovo,KOS,1,0,0,1,2016,Rio de Janeiro,BRA,,,
+Puerto Rico,PUR,1,0,0,1,2016,Rio de Janeiro,BRA,,,
+Singapore,SGP,1,0,0,1,2016,Rio de Janeiro,BRA,,79.21363636363637,3933559.0
+Tajikistan,TJK,1,0,0,1,2016,Rio de Janeiro,BRA,,,
+Malaysia,MAS,0,4,1,5,2016,Rio de Janeiro,BRA,,,
+Mexico,MEX,0,3,2,5,2016,Rio de Janeiro,BRA,MEX,74.8,122715165.0
+Venezuela,VEN,0,2,1,3,2016,Rio de Janeiro,BRA,,,
+Algeria,ALG,0,2,0,2,2016,Rio de Janeiro,BRA,,,
+Ireland,IRL,0,2,0,2,2016,Rio de Janeiro,BRA,IRL,81.7,4739597.0
+Lithuania,LTU,0,1,3,4,2016,Rio de Janeiro,BRA,LTU,74.8,2868234.0
+Bulgaria,BUL,0,1,2,3,2016,Rio de Janeiro,BRA,,79.21363636363637,7127822.0
+India,IND,0,1,1,2,2016,Rio de Janeiro,BRA,IND,68.9,1324171354.0
+Mongolia,MGL,0,1,1,2,2016,Rio de Janeiro,BRA,,,
+Burundi,BDI,0,1,0,1,2016,Rio de Janeiro,BRA,,,
+Grenada,GRN,0,1,0,1,2016,Rio de Janeiro,BRA,,,
+Niger,NIG,0,1,0,1,2016,Rio de Janeiro,BRA,,,
+Philippines,PHI,0,1,0,1,2016,Rio de Janeiro,BRA,,,
+Qatar,QAT,0,1,0,1,2016,Rio de Janeiro,BRA,,,
+Norway,NOR,0,0,4,4,2016,Rio de Janeiro,BRA,NOR,82.5,5236152.0
+Egypt,EGY,0,0,3,3,2016,Rio de Janeiro,BRA,,,
+Tunisia,TUN,0,0,3,3,2016,Rio de Janeiro,BRA,,,
+Israel,ISR,0,0,2,2,2016,Rio de Janeiro,BRA,ISR,82.5,8546009.0
+Austria,AUT,0,0,1,1,2016,Rio de Janeiro,BRA,AUT,81.7,8739806.0
+Dominican Republic,DOM,0,0,1,1,2016,Rio de Janeiro,BRA,,,
+Estonia,EST,0,0,1,1,2016,Rio de Janeiro,BRA,EST,77.8,1315790.0
+Finland,FIN,0,0,1,1,2016,Rio de Janeiro,BRA,FIN,81.5,5495297.0
+Morocco,MAR,0,0,1,1,2016,Rio de Janeiro,BRA,,,
+Nigeria,NGR,0,0,1,1,2016,Rio de Janeiro,BRA,,,
+Portugal,POR,0,0,1,1,2016,Rio de Janeiro,BRA,PRT,81.2,10325452.0
+Trinidad and Tobago,TTO,0,0,1,1,2016,Rio de Janeiro,BRA,,,
+United Arab Emirates,UAE,0,0,1,1,2016,Rio de Janeiro,BRA,,,
