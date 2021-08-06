@@ -15,7 +15,7 @@ CREATE TABLE stats (
 
 SELECT * FROM stats;
 
-DROP TABLE Gloc;
+DROP TABLE loc;
 CREATE TABLE Gloc (
 		Country VARCHAR, 
 		Capital VARCHAR, 
@@ -40,7 +40,7 @@ CREATE TABLE Gloc (
         Year FLOAT,
        	Value DECIMAL);
 		
-SELECT * FROM gloc;
+SELECT * FROM loc;
 
 CREATE TABLE events (
 	NOC VARCHAR,
