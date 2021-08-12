@@ -1,0 +1,948 @@
+Country,Code,Medal (3=gold),Discipline,Gender
+Japan,JPN,1,Boxing,Men
+Ghana,GHA,1,Boxing,Men
+Armenia,ARM,1,Boxing,Men
+Ireland,IRL,1,Boxing,Men
+Philippines,PHL,1,Boxing,Men
+Russia,RUS,1,Boxing,Men
+New Zealand,NZL,1,Boxing,Men
+Kazakhstan,KAZ,1,Boxing,Women
+Taiwan,TWN,1,Boxing,Women
+Italy,ITA,1,Boxing,Women
+Finland,FIN,1,Boxing,Women
+United States,USA,1,Boxing,Women
+Russia,RUS,1,Boxing,Men
+France,FRA,1,Judo,Men
+Brazil,BRA,1,Judo,Men
+Mongolia,MNG,1,Judo,Men
+Belgium,BEL,1,Judo,Men
+Hungary,HUN,1,Judo,Men
+Russia,RUS,1,Judo,Men
+Russia,RUS,1,Judo,Women
+Mongolia,MNG,1,Judo,Women
+United Kingdom,GBR,1,Judo,Women
+Canada,CAN,1,Judo,Women
+Canada,CAN,1,Judo,Women
+Netherlands,NLD,1,Judo,Women
+Brazil,BRA,1,Judo,Women
+France,FRA,1,Judo,Open
+Israel,ISR,1,Judo,Men
+United States,USA,1,Karate,Men
+Jordan,JOR,1,Karate,Men
+Hungary,HUN,1,Karate,Men
+Japan,JPN,1,Karate,Women
+Italy,ITA,1,Karate,Women
+Taiwan,TWN,1,Karate,Women
+Egypt,EGY,1,Karate,Women
+China,CHN,1,Karate,Men
+Russia,RUS,1,Taekwondo,Men
+Turkey,TUR,1,Taekwondo,Men
+Egypt,EGY,1,Taekwondo,Men
+South Korea,KOR,1,Taekwondo,Women
+Serbia,SRB,1,Taekwondo,Women
+Turkey,TUR,1,Taekwondo,Women
+Egypt,EGY,1,Taekwondo,Women
+United Kingdom,GBR,1,Taekwondo,Men
+Russia,RUS,1,Wrestling,Men
+Egypt,EGY,1,Wrestling,Men
+Azerbaijan,AZE,1,Wrestling,Men
+Serbia,SRB,1,Wrestling,Men
+Iran,IRN,1,Wrestling,Men
+Russia,RUS,1,Wrestling,Men
+United States,USA,1,Wrestling,Men
+Uzbekistan,UZB,1,Wrestling,Men
+San Marino,SMR,1,Wrestling,Men
+Italy,ITA,1,Wrestling,Men
+Turkey,TUR,1,Wrestling,Women
+United States,USA,1,Wrestling,Women
+Mongolia,MNG,1,Wrestling,Women
+Bulgaria,BGR,1,Wrestling,Women
+Bulgaria,BGR,1,Wrestling,Women
+Kyrgyzstan,KGZ,1,Wrestling,Women
+China,CHN,1,Wrestling,Women
+Hungary,HUN,2,Canoe Slalom,Men
+Hungary,HUN,3,Fencing,Men
+Brazil,BRA,3,Sport Climbing,Men
+Japan,JPN,3,Judo,Men
+Kuwait,KWT,1,Shooting,Women
+Russia,RUS,3,Wrestling,Men
+Israel,ISR,1,Taekwondo,Women
+Brazil,BRA,1,Boxing,Men
+United Kingdom,GBR,3,Swimming,Men
+United States,USA,2,Wrestling,Women
+Spain,ESP,2,Taekwondo,Men
+Egypt,EGY,2,Marathon Swimming,Women
+Tunisia,TUN,3,Swimming,Men
+Uzbekistan,UZB,3,Weightlifting,Men
+Japan,JPN,3,Judo,Women
+Japan,JPN,1,Sport Climbing,Men
+Kyrgyzstan,KGZ,2,Wrestling,Men
+Russia,RUS,3,Boxing,Men
+Spain,ESP,3,Softball,Men
+San Marino,SMR,1,Shooting,Women
+United States,USA,2,Swimming,Women
+United Kingdom,GBR,2,Trampolining,Women
+Czech Republic,CZE,1,Fencing,Men
+Germany,DEU,3,Taekwondo,Men
+Iran,IRN,2,Weightlifting,Men
+Turkey,TUR,1,Karate,Men
+Belarus,BLR,1,Rhythmic Gymnastics,Women
+Germany,DEU,3,Wrestling,Women
+Brazil,BRA,1,Athletics,Men
+Ukraine,UKR,1,Wrestling,Women
+France,FRA,1,Taekwondo,Men
+France,FRA,2,Judo,Women
+United States,USA,3,Shooting,Women
+Iran,IRN,1,Wrestling,Women
+Japan,JPN,1,Surfing,Men
+South Korea,KOR,1,Judo,Men
+South Korea,KOR,1,Judo,Men
+South Korea,KOR,3,Archery,Women
+Brazil,BRA,3,Marathon Swimming,Women
+Romania,ROU,2,Fencing,Women
+Spain,ESP,1,Athletics,Women
+United States,USA,3,Taekwondo,Women
+Russia,RUS,2,Shooting,Women
+Russia,RUS,2,Artistic Gymnastics,Women
+Canada,CAN,1,Athletics,Men
+Germany,DEU,1,Canoe Slalom,Men
+Australia,AUS,1,Equestrian Eventing,Open
+Russia,RUS,1,Boxing,Men
+Cuba,CUB,3,Boxing,Men
+Russia,RUS,1,Artistic Gymnastics,Women
+Poland,POL,3,Athletics,Women
+Austria,AUT,3,Cycling Road,Women
+Russia,RUS,2,Rowing,Men
+Netherlands,NLD,1,Cycling Road,Men
+Germany,DEU,1,Judo,Women
+Denmark,DNK,3,Sailing,Women
+Netherlands,NLD,3,Cycling Road,Women
+Netherlands,NLD,2,Cycling Road,Men
+United States,USA,1,Swimming,Women
+Indonesia,IDN,1,Badminton,Men
+Bulgaria,BGR,2,Shooting,Men
+Georgia,GEO,1,Weightlifting,Men
+Italy,ITA,1,Weightlifting,Men
+Ukraine,UKR,2,Karate,Women
+Mexico,MEX,1,Weightlifting,Women
+Argentina,ARG,1,Rugby Sevens,Women
+Australia,AUS,3,Swimming,Women
+Australia,AUS,3,Swimming,Women
+Australia,AUS,2,Swimming,Women
+Cuba,CUB,3,Boxing,Men
+Sweden,SWE,3,Athletics,Men
+Netherlands,NLD,2,Swimming,Men
+Netherlands,NLD,2,Swimming,Men
+Latvia,LVA,1,Weightlifting,Men
+Israel,ISR,3,Artistic Gymnastics,Men
+Armenia,ARM,2,Wrestling,Men
+Armenia,ARM,1,Artistic Gymnastics,Men
+Russia,RUS,1,Wrestling,Men
+United States,USA,3,Athletics,Women
+Australia,AUS,3,Rowing,Men
+Australia,AUS,3,Rowing,Women
+Australia,AUS,3,Sailing,Men
+Australia,AUS,3,Swimming,Women
+Australia,AUS,2,Basketball,Men
+Australia,AUS,2,Equestrian Dressage,Open
+Australia,AUS,2,Golf,Women
+Australia,AUS,1,Basketball,Women
+Australia,AUS,1,Cycling Track,Men
+Australia,AUS,1,Rowing,Men
+Australia,AUS,1,Rowing,Women
+Australia,AUS,1,Swimming,Men
+Australia,AUS,1,Swimming,Men
+Australia,AUS,1,Swimming,Women
+Australia,AUS,1,Swimming,Men
+Australia,AUS,1,Tennis,Men
+Australia,AUS,3,Canoe Sprint,Men
+Kyrgyzstan,KGZ,2,Wrestling,Women
+Hungary,HUN,3,Canoe Sprint,Men
+Uzbekistan,UZB,3,Boxing,Men
+Italy,ITA,3,Athletics,Men
+Brazil,BRA,2,Boxing,Women
+Belgium,BEL,3,Golf,Men
+Switzerland,CHE,3,Tennis,Women
+United Kingdom,GBR,2,Boxing,Men
+Kenya,KEN,1,Athletics,Men
+Slovenia,SVN,3,Canoe Slalom,Men
+United Kingdom,GBR,3,Cycling BMX Racing,Women
+Austria,AUT,1,Karate,Women
+China,CHN,1,Sailing,Men
+South Africa,ZAF,2,Sport Climbing,Men
+Nigeria,NGA,2,Wrestling,Women
+United Kingdom,GBR,2,Table Tennis,Men
+Brazil,BRA,3,Sailing,Women
+Brazil,BRA,1,Tennis,Open
+Australia,AUS,1,Swimming,Men
+United States,USA,2,Athletics,Women
+Brazil,BRA,1,Swimming,Men
+United Kingdom,GBR,1,Trampolining,Men
+Bulgaria,BGR,3,Rhythmic Gymnastics,Women
+Turkey,TUR,2,Boxing,Men
+Turkey,TUR,3,Boxing,Women
+United States,USA,3,Surfing,Men
+United States,USA,3,Swimming,Men
+United States,USA,3,Swimming,Men
+New Zealand,NZL,2,Cycling Track,Men
+Canada,CAN,3,Rowing,Women
+Canada,CAN,2,Diving,Women
+Canada,CAN,2,Swimming,Women
+Canada,CAN,1,Rowing,Women
+Canada,CAN,1,Softball,Men
+China,CHN,3,Diving,Men
+United States,USA,3,Surfing,Women
+Philippines,PHL,2,Beach Volleyball,Women
+Colombia,COL,1,Cycling BMX Racing,Women
+Australia,AUS,1,Swimming,Women
+France,FRA,2,Sailing,Men
+United Kingdom,GBR,1,Equestrian Dressage,Open
+United Kingdom,GBR,3,Cycling BMX Freestyle,Women
+United States,USA,3,Swimming,Men
+China,CHN,3,Weightlifting,Men
+China,CHN,2,Athletics,Open
+China,CHN,3,Table Tennis,Women
+Taiwan,TWN,1,Weightlifting,Women
+China,CHN,3,Badminton,Women
+China,CHN,2,Diving,Women
+Taiwan,TWN,3,Badminton,Men
+Taiwan,TWN,2,Archery,Men
+Taiwan,TWN,1,Table Tennis,Men
+Japan,JPN,3,Judo,Women
+United States,USA,2,Athletics,Men
+Namibia,NAM,2,Athletics,Women
+France,FRA,3,Judo,Women
+United States,USA,1,Skateboarding,Women
+United States,USA,2,Athletics,Women
+Dominican Republic,DOM,1,Weightlifting,Women
+Croatia,HRV,3,Rowing,Men
+Croatia,HRV,3,Tennis,Men
+Croatia,HRV,2,Taekwondo,Men
+Cuba,CUB,3,Canoe Sprint,Men
+Czech Republic,CZE,1,Canoe Sprint,Men
+Czech Republic,CZE,3,Tennis,Women
+Japan,JPN,3,Artistic Gymnastics,Men
+Japan,JPN,3,Artistic Gymnastics,Men
+United States,USA,2,Athletics,Women
+Spain,ESP,2,Judo,Open
+Croatia,HRV,1,Rowing,Men
+Serbia,SRB,2,Sailing,Open
+Venezuela,VEN,2,Canoe Sprint,Women
+Sweden,SWE,3,Athletics,Men
+Italy,ITA,2,Equestrian Eventing,Open
+Ukraine,UKR,1,Judo,Women
+Kazakhstan,KAZ,1,Karate,Men
+Czech Republic,CZE,2,Shooting,Men
+United States,USA,3,Wrestling,Men
+Spain,ESP,1,Cycling Mountain Bike,Women
+Uzbekistan,UZB,1,Judo,Men
+United Kingdom,GBR,1,Cycling BMX Freestyle,Women
+North Macedonia,MKD,2,Taekwondo,Men
+Russia,RUS,2,Artistic Gymnastics,Men
+Germany,DEU,1,Wrestling,Men
+Denmark,DNK,3,Cycling Track,Men
+Denmark,DNK,2,Cycling Track,Men
+Denmark,DNK,1,Rowing,Men
+Italy,ITA,2,Shooting,Women
+Germany,DEU,1,Table Tennis,Women
+Russia,RUS,2,Modern Pentathlon,Women
+Kosovo,KOS,3,Judo,Women
+Dominican Republic,DOM,2,Athletics,Women
+Dominican Republic,DOM,1,Baseball,Men
+China,CHN,2,Tennis,Open
+United States,USA,2,Beach Volleyball,Men
+United Kingdom,GBR,2,Swimming,Men
+United Kingdom,GBR,2,Swimming,Men
+New Zealand,NZL,1,Trampolining,Women
+Hong Kong,HKG,3,Equestrian Eventing,Men
+Germany,DEU,2,Judo,Men
+Norway,NOR,2,Athletics,Men
+Indonesia,IDN,2,Triathlon,Open
+Jamaica,JAM,3,Athletics,Women
+Jamaica,JAM,3,Athletics,Women
+Greece,GRC,1,Artistic Gymnastics,Men
+Italy,ITA,1,Cycling Track,Women
+Ukraine,UKR,1,Tennis,Women
+Italy,ITA,1,Cycling Road,Women
+New Zealand,NZL,2,Cycling Track,Women
+United Kingdom,GBR,2,Weightlifting,Women
+Australia,AUS,1,Swimming,Women
+Denmark,DNK,1,Canoe Sprint,Women
+Denmark,DNK,1,Canoe Sprint,Women
+Australia,AUS,3,Swimming,Women
+Australia,AUS,3,Swimming,Women
+Australia,AUS,1,Swimming,Women
+New Zealand,NZL,3,Rowing,Women
+United States,USA,2,Swimming,Women
+United Kingdom,GBR,1,Sailing,Women
+Kenya,KEN,3,Athletics,Men
+Turkey,TUR,2,Judo,Men
+United States,USA,2,Swimming,Women
+Nigeria,NGA,1,Athletics,Women
+Estonia,EST,3,Fencing,Women
+China,CHN,2,Swimming,Open
+Qatar,QAT,3,Weightlifting,Men
+Italy,ITA,1,Swimming,Men
+Netherlands,NLD,1,Athletics,Women
+Kenya,KEN,2,Athletics,Men
+Turkey,TUR,1,Artistic Gymnastics,Men
+Portugal,PRT,1,Canoe Sprint,Men
+Brazil,BRA,1,Swimming,Men
+Egypt,EGY,3,Karate,Women
+Fiji,FJI,3,Rowing,Men
+Fiji,FJI,1,Rugby Sevens,Men
+Bermuda,BMU,3,Triathlon,Women
+France,FRA,2,Surfing,Women
+Germany,DEU,3,Karate,Men
+Germany,DEU,1,Swimming,Men
+France,FRA,3,Fencing,Men
+France,FRA,3,Judo,Open
+France,FRA,3,Rowing,Men
+France,FRA,2,Badminton,Men
+France,FRA,2,Fencing,Women
+France,FRA,2,Fencing,Women
+France,FRA,2,Rowing,Women
+France,FRA,2,Rowing,Men
+France,FRA,1,Basketball,Men
+France,FRA,1,Cycling Track,Men
+France,FRA,1,Cycling Track,Men
+France,FRA,1,Equestrian Eventing,Men
+France,FRA,1,Sailing,Women
+France,FRA,1,Triathlon,Men
+Germany,DEU,1,Wrestling,Men
+United Kingdom,GBR,1,Boxing,Women
+United States,USA,2,Athletics,Men
+Japan,JPN,1,Skateboarding,Women
+Japan,JPN,2,Judo,Men
+United States,USA,3,Wrestling,Men
+United States,USA,1,Athletics,Women
+United Kingdom,GBR,3,Beach Volleyball,Men
+Georgia,GEO,2,Wrestling,Men
+United Kingdom,GBR,2,Trampolining,Men
+Hungary,HUN,2,Fencing,Men
+Germany,DEU,3,Cycling Track,Women
+Germany,DEU,3,Equestrian Dressage,Open
+Germany,DEU,2,Canoe Sprint,Men
+Germany,DEU,2,Cycling Track,Women
+Germany,DEU,2,Rowing,Men
+Germany,DEU,2,Rowing,Men
+Germany,DEU,2,Sailing,Women
+Germany,DEU,1,Archery,Women
+Germany,DEU,1,Canoe Sprint,Women
+Germany,DEU,1,Diving,Men
+Germany,DEU,1,Diving,Women
+Germany,DEU,1,Sailing,Men
+Germany,DEU,1,Sailing,Men
+Germany,DEU,1,Judo,Men
+United Kingdom,GBR,3,Sailing,Men
+Italy,ITA,2,Weightlifting,Women
+Russia,RUS,1,Boxing,Men
+China,CHN,3,Athletics,Women
+Hong Kong,HKG,1,Karate,Women
+United Kingdom,GBR,3,Diving,Men
+United Kingdom,GBR,3,Equestrian Eventing,Open
+United Kingdom,GBR,3,Sailing,Men
+United Kingdom,GBR,3,Sailing,Women
+United Kingdom,GBR,3,Swimming,Men
+United Kingdom,GBR,3,Swimming,Open
+United Kingdom,GBR,3,Triathlon,Open
+United Kingdom,GBR,2,Cycling Track,Men
+United Kingdom,GBR,2,Cycling Track,Men
+United Kingdom,GBR,2,Cycling Track,Women
+United Kingdom,GBR,2,Rowing,Men
+United Kingdom,GBR,2,Sailing,Women
+United Kingdom,GBR,2,Swimming,Men
+United Kingdom,GBR,1,Artistic Gymnastics,Women
+United Kingdom,GBR,1,Equestrian Dressage,Open
+United Kingdom,GBR,1,Rowing,Men
+Italy,ITA,2,Swimming,Men
+Italy,ITA,1,Marathon Swimming,Women
+China,CHN,2,Boxing,Women
+China,CHN,3,Artistic Gymnastics,Women
+Ethiopia,ETH,1,Athletics,Women
+Georgia,GEO,2,Judo,Men
+United States,USA,1,Swimming,Women
+United States,USA,1,Swimming,Open
+United States,USA,2,Canoe Sprint,Men
+Germany,DEU,1,Canoe Slalom,Men
+Netherlands,NLD,3,Cycling Road,Men
+Netherlands,NLD,1,Cycling Track,Men
+Australia,AUS,1,Boxing,Men
+Iran,IRN,2,Wrestling,Men
+New Zealand,NZL,1,Triathlon,Women
+Brazil,BRA,3,Boxing,Men
+United States,USA,1,Wrestling,Women
+Kenya,KEN,2,Athletics,Women
+Norway,NOR,1,Sailing,Men
+Philippines,PHL,3,Weightlifting,Women
+Japan,JPN,3,Judo,Men
+Hong Kong,HKG,1,Table Tennis,Open
+China,CHN,3,Weightlifting,Women
+Hungary,HUN,1,Fencing,Women
+Hungary,HUN,1,Canoe Sprint,Women
+Kenya,KEN,1,Athletics,Women
+Georgia,GEO,2,Wrestling,Men
+Cuba,CUB,2,Judo,Women
+Kazakhstan,KAZ,1,Weightlifting,Men
+Ukraine,UKR,1,Fencing,Men
+India,IND,1,Hockey,Men
+Indonesia,IDN,3,Badminton,Women
+Russia,RUS,2,Fencing,Men
+Ireland,IRL,3,Rowing,Men
+Ireland,IRL,1,Rowing,Women
+Azerbaijan,AZE,1,Judo,Open
+Ukraine,UKR,1,Wrestling,Women
+Belarus,BLR,2,Wrestling,Women
+Azerbaijan,AZE,2,Karate,Women
+Germany,DEU,2,Diving,Women
+Italy,ITA,3,Cycling Track,Men
+Italy,ITA,3,Rowing,Women
+Italy,ITA,3,Sailing,Open
+Italy,ITA,2,Fencing,Men
+Italy,ITA,2,Swimming,Men
+Italy,ITA,1,Fencing,Women
+Italy,ITA,1,Fencing,Women
+Italy,ITA,1,Rhythmic Gymnastics,Men
+Italy,ITA,1,Rowing,Men
+Italy,ITA,1,Rowing,Women
+Italy,ITA,1,Swimming,Women
+Belarus,BLR,3,Tennis,Men
+Bulgaria,BGR,3,Karate,Women
+Switzerland,CHE,1,Swimming,Men
+United Kingdom,GBR,1,Cycling Track,Men
+United Kingdom,GBR,1,Diving,Men
+Australia,AUS,2,Swimming,Men
+Uganda,UGA,1,Athletics,Men
+United States,USA,3,Artistic Gymnastics,Women
+United States,USA,1,Skateboarding,Men
+Austria,AUT,1,Sport Climbing,Women
+Slovakia,SVK,2,Boxing,Women
+South Korea,KOR,1,Taekwondo,Men
+Slovenia,SVN,3,Sport Climbing,Women
+Japan,JPN,3,Badminton,Men
+Japan,JPN,3,Fencing,Men
+Japan,JPN,3,Skateboarding,Women
+Japan,JPN,3,Table Tennis,Open
+Japan,JPN,2,Artistic Gymnastics,Men
+Japan,JPN,2,Baseball,Men
+Japan,JPN,2,Judo,Women
+Japan,JPN,2,Table Tennis,Women
+Japan,JPN,1,Archery,Men
+Japan,JPN,1,Badminton,Men
+Puerto Rico,PRI,3,Athletics,Women
+United Kingdom,GBR,3,Cycling Track,Men
+Iran,IRN,3,Sailing,Men
+United States,USA,2,Swimming,Men
+France,FRA,3,Shooting,Men
+Netherlands,NLD,2,Cycling Road,Women
+United States,USA,3,Cycling Track,Women
+South Korea,KOR,1,Modern Pentathlon,Women
+Denmark,DNK,2,Shooting,Men
+Australia,AUS,3,Canoe Slalom,Women
+Australia,AUS,1,Canoe Slalom,Women
+Germany,DEU,3,Diving,Open
+Czech Republic,CZE,3,Shooting,Men
+Czech Republic,CZE,3,Boxing,Men
+China,CHN,1,Shooting,Women
+South Korea,KOR,2,Judo,Men
+Spain,ESP,1,Sailing,Women
+United Kingdom,GBR,3,Marathon Swimming,Men
+Switzerland,CHE,3,Cycling Mountain Bike,Women
+Portugal,PRT,1,Judo,Men
+Sweden,SWE,2,Sailing,Women
+Uganda,UGA,2,Athletics,Men
+Serbia,SRB,3,Karate,Women
+Cuba,CUB,2,Athletics,Men
+Germany,DEU,3,Equestrian Dressage,Open
+Cuba,CUB,3,Boxing,Men
+Venezuela,VEN,2,Weightlifting,Men
+Japan,JPN,2,Sport Climbing,Women
+Australia,AUS,1,Marathon Swimming,Men
+Russia,RUS,2,Taekwondo,Women
+United Kingdom,GBR,1,Boxing,Women
+Norway,NOR,3,Athletics,Men
+United States,USA,1,Swimming,Women
+United Kingdom,GBR,3,Modern Pentathlon,Women
+United States,USA,2,Weightlifting,Women
+United States,USA,3,Swimming,Women
+United States,USA,3,Swimming,Women
+United States,USA,2,Swimming,Women
+United States,USA,1,Triathlon,Open
+Estonia,EST,1,Fencing,Women
+United States,USA,2,Shooting,Women
+Australia,AUS,3,Swimming,Women
+Australia,AUS,3,Swimming,Women
+Japan,JPN,1,Artistic Gymnastics,Men
+Australia,AUS,3,Skateboarding,Men
+United Kingdom,GBR,2,Athletics,Women
+Ireland,IRL,3,Boxing,Women
+Canada,CAN,3,Cycling Track,Women
+Brazil,BRA,2,Shooting,Open
+United States,USA,2,Athletics,Women
+Japan,JPN,2,Weightlifting,Women
+Venezuela,VEN,2,Weightlifting,Men
+United States,USA,2,Boxing,Men
+United States,USA,1,Swimming,Men
+South Korea,KOR,1,Fencing,Men
+South Korea,KOR,2,Shooting,Women
+Netherlands,NLD,3,Rugby Sevens,Men
+Netherlands,NLD,1,Cycling Track,Men
+Japan,JPN,2,Karate,Men
+Norway,NOR,2,Rhythmic Gymnastics,Women
+Russia,RUS,2,Swimming,Men
+Russia,RUS,1,Swimming,Men
+Japan,JPN,2,Skateboarding,Women
+Hungary,HUN,3,Swimming,Men
+Hungary,HUN,2,Swimming,Men
+Hungary,HUN,2,Karate,Women
+Norway,NOR,3,Trampolining,Men
+Germany,DEU,2,Athletics,Women
+United States,USA,1,Diving,Women
+India,IND,2,Wrestling,Men
+Taiwan,TWN,3,Weightlifting,Women
+United Kingdom,GBR,2,Cycling BMX Freestyle,Women
+Australia,AUS,2,Surfing,Men
+United States,USA,1,Wrestling,Men
+United States,USA,2,Wrestling,Men
+Canada,CAN,2,Swimming,Women
+Canada,CAN,2,Swimming,Women
+Cuba,CUB,1,Boxing,Men
+Ethiopia,ETH,2,Athletics,Men
+Italy,ITA,3,Athletics,Men
+Russia,RUS,1,Fencing,Women
+Georgia,GEO,3,Judo,Men
+Georgia,GEO,2,Judo,Men
+Georgia,GEO,3,Weightlifting,Men
+Latvia,LVA,3,3x3 Basketball,Men
+Lithuania,LTU,2,Marathon Swimming,Men
+United Kingdom,GBR,3,Boxing,Women
+United Kingdom,GBR,2,Taekwondo,Women
+Canada,CAN,2,Canoe Sprint,Women
+Canada,CAN,1,Cycling Track,Women
+Taiwan,TWN,2,Artistic Gymnastics,Men
+South Korea,KOR,2,Taekwondo,Women
+United States,USA,3,Fencing,Women
+Cuba,CUB,2,Sailing,Men
+China,CHN,1,Swimming,Women
+China,CHN,3,Triathlon,Men
+China,CHN,2,Boxing,Women
+China,CHN,3,Weightlifting,Women
+China,CHN,1,Shooting,Men
+United Kingdom,GBR,1,Canoe Sprint,Men
+China,CHN,2,Weightlifting,Women
+United States,USA,2,Swimming,Women
+United States,USA,1,Swimming,Women
+Switzerland,CHE,1,Cycling Mountain Bike,Men
+Israel,ISR,3,Modern Pentathlon,Women
+New Zealand,NZL,3,Canoe Sprint,Women
+New Zealand,NZL,3,Canoe Sprint,Women
+China,CHN,2,Tennis,Men
+China,CHN,3,Artistic Gymnastics,Men
+Ukraine,UKR,1,Canoe Sprint,Men
+Taiwan,TWN,1,Taekwondo,Women
+Australia,AUS,3,Canoe Sprint,Men
+Azerbaijan,AZE,1,Boxing,Men
+India,IND,1,Boxing,Women
+China,CHN,3,Weightlifting,Men
+China,CHN,3,Sailing,Women
+Italy,ITA,1,Archery,Women
+Italy,ITA,3,Karate,Men
+Italy,ITA,2,Fencing,Men
+Cuba,CUB,3,Weightlifting,Men
+Colombia,COL,2,Triathlon,Men
+Czech Republic,CZE,3,Judo,Men
+Czech Republic,CZE,2,Boxing,Men
+Germany,DEU,2,Artistic Gymnastics,Men
+Austria,AUT,1,Athletics,Men
+United Kingdom,GBR,1,Swimming,Men
+United States,USA,3,Swimming,Women
+New Zealand,NZL,1,Golf,Men
+China,CHN,3,Swimming,Men
+France,FRA,2,Judo,Women
+Russia,RUS,1,Judo,Women
+Austria,AUT,1,Rowing,Women
+Belarus,BLR,2,Wrestling,Men
+Japan,JPN,1,Artistic Gymnastics,Women
+Spain,ESP,2,Canoe Slalom,Men
+Russia,RUS,3,Taekwondo,Men
+Belarus,BLR,1,Athletics,Men
+Germany,DEU,3,Athletics,Women
+Malaysia,MYS,1,Badminton,Women
+United Kingdom,GBR,2,Canoe Slalom,Women
+Poland,POL,1,Athletics,Open
+Syria,SYR,1,Weightlifting,Women
+Italy,ITA,2,Canoe Slalom,Women
+France,FRA,1,Fencing,Women
+Canada,CAN,3,Swimming,Women
+Italy,ITA,1,Judo,Women
+Colombia,COL,2,Cycling BMX Freestyle,Men
+Netherlands,NLD,1,Sailing,Women
+Azerbaijan,AZE,1,Wrestling,Women
+Czech Republic,CZE,2,Tennis,Men
+Switzerland,CHE,2,Cycling Road,Women
+Croatia,HRV,3,Taekwondo,Women
+Switzerland,CHE,2,Cycling BMX Racing,Women
+United Kingdom,GBR,1,Shooting,Men
+United Kingdom,GBR,3,Cycling Track,Men
+Australia,AUS,3,Sailing,Men
+Finland,FIN,1,Swimming,Men
+Canada,CAN,3,Weightlifting,Women
+Italy,ITA,2,Archery,Men
+United Kingdom,GBR,3,Artistic Gymnastics,Men
+Cuba,CUB,1,Athletics,Men
+Japan,JPN,3,Wrestling,Women
+Jamaica,JAM,1,Athletics,Women
+Australia,AUS,1,Diving,Women
+Netherlands,NLD,1,Cycling BMX Racing,Men
+Turkey,TUR,1,Karate,Women
+Turkey,TUR,3,Archery,Men
+Mexico,MEX,1,Archery,Open
+Mexico,MEX,1,Diving,Open
+Austria,AUT,2,Judo,Women
+Japan,JPN,2,Softball,Men
+Cuba,CUB,3,Wrestling,Men
+Japan,JPN,1,Weightlifting,Women
+Serbia,SRB,1,Shooting,Men
+Serbia,SRB,3,Taekwondo,Women
+Greece,GRC,3,Athletics,Men
+Japan,JPN,1,Table Tennis,Women
+India,IND,2,Weightlifting,Men
+Italy,ITA,1,Weightlifting,Men
+Tunisia,TUN,2,Table Tennis,Open
+Iran,IRN,3,Wrestling,Men
+Malaysia,MYS,2,Cycling Road,Men
+Japan,JPN,3,Skateboarding,Women
+Japan,JPN,2,Fencing,Men
+Russia,RUS,3,Wrestling,Men
+Russia,RUS,2,Boxing,Men
+Qatar,QAT,3,Athletics,Men
+United States,USA,2,Artistic Gymnastics,Women
+Ukraine,UKR,2,Swimming,Men
+Ukraine,UKR,1,Swimming,Men
+Russia,RUS,1,Artistic Gymnastics,Women
+Japan,JPN,3,Hockey,Men
+United States,USA,2,Skateboarding,Women
+Ecuador,ECU,3,Weightlifting,Women
+United States,USA,3,Golf,Women
+Philippines,PHL,2,Boxing,Women
+Netherlands,NLD,3,Cycling Track,Men
+Netherlands,NLD,3,Rowing,Men
+Netherlands,NLD,2,Archery,Open
+Netherlands,NLD,2,Rhythmic Gymnastics,Men
+Netherlands,NLD,2,Rowing,Women
+Netherlands,NLD,1,Rowing,Women
+Netherlands,NLD,1,Rowing,Men
+Netherlands,NLD,1,Sailing,Open
+United States,USA,3,Canoe Sprint,Women
+New Zealand,NZL,3,Rowing,Men
+New Zealand,NZL,3,Rowing,Women
+New Zealand,NZL,3,Rugby Sevens,Women
+New Zealand,NZL,2,Rowing,Women
+New Zealand,NZL,2,Rowing,Women
+New Zealand,NZL,2,Rowing,Women
+New Zealand,NZL,2,Sailing,Men
+New Zealand,NZL,1,Tennis,Women
+New Zealand,NZL,3,Canoe Sprint,Women
+Italy,ITA,1,Swimming,Men
+Netherlands,NLD,3,Cycling BMX Freestyle,Men
+Switzerland,CHE,1,Cycling BMX Freestyle,Men
+Russia,RUS,1,Artistic Gymnastics,Men
+Russia,RUS,1,Artistic Gymnastics,Men
+Switzerland,CHE,3,Shooting,Women
+Switzerland,CHE,1,Shooting,Women
+Belgium,BEL,3,Artistic Gymnastics,Women
+Switzerland,CHE,1,Swimming,Men
+Kosovo,KOS,3,Judo,Women
+Norway,NOR,3,Basketball,Men
+Netherlands,NLD,1,Boxing,Men
+Kazakhstan,KAZ,1,Wrestling,Men
+Italy,ITA,1,Judo,Women
+Ukraine,UKR,2,Boxing,Men
+Ukraine,UKR,2,Cycling Track,Men
+Australia,AUS,1,Surfing,Women
+India,IND,1,Badminton,Women
+Spain,ESP,1,Tennis,Men
+Taiwan,TWN,1,Golf,Women
+China,CHN,2,Wrestling,Women
+China,CHN,1,Shooting,Men
+Thailand,THA,3,Taekwondo,Women
+Ukraine,UKR,2,Weightlifting,Men
+United Kingdom,GBR,2,Boxing,Men
+Portugal,PRT,2,Athletics,Women
+Poland,POL,1,Athletics,Men
+Poland,POL,1,Athletics,Women
+Brazil,BRA,2,Shooting,Men
+Canada,CAN,1,Swimming,Women
+China,CHN,3,Cycling Track,Women
+China,CHN,3,Diving,Men
+China,CHN,3,Diving,Women
+China,CHN,3,Diving,Women
+China,CHN,3,Rowing,Women
+China,CHN,3,Swimming,Women
+China,CHN,3,Table Tennis,Women
+China,CHN,2,Artistic Swimming,Women
+China,CHN,2,Artistic Swimming,Women
+China,CHN,2,Athletics,Men
+China,CHN,2,Canoe Sprint,Men
+China,CHN,2,Diving,Men
+China,CHN,2,Swimming,Women
+China,CHN,2,Table Tennis,Women
+China,CHN,1,3x3 Basketball,Women
+China,CHN,1,Artistic Gymnastics,Men
+China,CHN,1,Rowing,Men
+China,CHN,1,Rowing,Women
+China,CHN,3,Badminton,Open
+China,CHN,3,Shooting,Open
+China,CHN,3,Shooting,Open
+China,CHN,2,Badminton,Women
+China,CHN,2,Badminton,Women
+Denmark,DNK,1,Swimming,Women
+Uganda,UGA,3,Athletics,Women
+Poland,POL,3,Athletics,Open
+Poland,POL,2,Canoe Sprint,Women
+Poland,POL,2,Rowing,Women
+Poland,POL,2,Sailing,Women
+Turkmenistan,TKM,2,Weightlifting,Women
+Slovenia,SVN,3,Cycling Road,Men
+Qatar,QAT,1,Beach Volleyball,Women
+China,CHN,3,Diving,Women
+Turkey,TUR,1,Wrestling,Men
+United States,USA,1,Athletics,Women
+Azerbaijan,AZE,2,Karate,Men
+Cuba,CUB,1,Taekwondo,Women
+Indonesia,IDN,1,Weightlifting,Men
+United States,USA,2,Athletics,Men
+United States,USA,2,Athletics,Women
+Spain,ESP,2,Artistic Gymnastics,Men
+Brazil,BRA,2,Skateboarding,Men
+Brazil,BRA,3,Artistic Gymnastics,Women
+Brazil,BRA,2,Artistic Gymnastics,Women
+United States,USA,2,Swimming,Women
+United States,USA,1,Swimming,Women
+Cuba,CUB,1,Wrestling,Men
+South Korea,KOR,3,Archery,Men
+South Korea,KOR,3,Archery,Women
+South Korea,KOR,3,Archery,Open
+South Korea,KOR,3,Fencing,Men
+South Korea,KOR,2,Fencing,Women
+South Korea,KOR,1,Fencing,Men
+South Korea,KOR,1,Fencing,Men
+South Korea,KOR,1,Badminton,Open
+Germany,DEU,3,Canoe Slalom,Women
+Ecuador,ECU,3,Cycling Mountain Bike,Men
+United States,USA,2,Boxing,Men
+Japan,JPN,3,Wrestling,Women
+United States,USA,3,Swimming,Men
+United States,USA,3,Swimming,Men
+Australia,AUS,1,Cycling Road,Women
+France,FRA,3,Fencing,Men
+Romania,ROU,3,Rowing,Women
+Romania,ROU,2,Rowing,Men
+Romania,ROU,2,Rowing,Men
+Cuba,CUB,3,Boxing,Men
+Slovakia,SVK,2,Fencing,Women
+Russia,RUS,3,Artistic Gymnastics,Men
+Russia,RUS,3,Artistic Gymnastics,Women
+Russia,RUS,3,Artistic Swimming,Women
+Russia,RUS,3,Artistic Swimming,Women
+Russia,RUS,3,Fencing,Women
+Russia,RUS,3,Fencing,Women
+Russia,RUS,2,3x3 Basketball,Men
+Russia,RUS,2,3x3 Basketball,Women
+Russia,RUS,2,Archery,Women
+Russia,RUS,2,Equestrian Eventing,Men
+Russia,RUS,2,Fencing,Men
+Russia,RUS,2,Modern Pentathlon,Women
+Russia,RUS,2,Rowing,Women
+Russia,RUS,2,Swimming,Men
+Russia,RUS,1,Cycling Track,Women
+Russia,RUS,1,Diving,Women
+Russia,RUS,2,Shooting,Women
+Russia,RUS,2,Tennis,Women
+Russia,RUS,3,Tennis,Open
+Russia,RUS,2,Basketball,Women
+Russia,RUS,1,Shooting,Open
+Ivory Coast,CIV,1,Taekwondo,Women
+United States,USA,2,Swimming,Men
+United States,USA,1,Swimming,Men
+Japan,JPN,3,Judo,Men
+Hungary,HUN,3,Canoe Slalom,Men
+Mongolia,MNG,2,Judo,Men
+Iran,IRN,3,Karate,Men
+Kazakhstan,KAZ,1,Boxing,Men
+Japan,JPN,3,Skateboarding,Women
+Jordan,JOR,2,Taekwondo,Men
+San Marino,SMR,2,Shooting,Open
+Spain,ESP,3,Karate,Women
+Germany,DEU,1,Swimming,Women
+Hong Kong,HKG,1,Cycling Track,Women
+United States,USA,1,Weightlifting,Men
+Sweden,SWE,2,Swimming,Men
+France,FRA,2,Judo,Women
+Hungary,HUN,1,Modern Pentathlon,Women
+Ethiopia,ETH,3,Athletics,Men
+Japan,JPN,3,Boxing,Women
+Serbia,SRB,1,3x3 Basketball,Men
+Russia,RUS,2,Shooting,Men
+Austria,AUT,1,Judo,Men
+Netherlands,NLD,3,Cycling Track,Women
+Netherlands,NLD,2,Karate,Men
+Jamaica,JAM,2,Athletics,Men
+China,CHN,2,Shooting,Men
+Jamaica,JAM,1,Athletics,Women
+China,CHN,3,Diving,Women
+China,CHN,3,Weightlifting,Men
+Japan,JPN,3,Judo,Men
+Japan,JPN,1,Wrestling,Men
+Japan,JPN,3,Judo,Women
+Germany,DEU,1,Canoe Slalom,Women
+Netherlands,NLD,3,Athletics,Women
+Armenia,ARM,2,Weightlifting,Men
+Sweden,SWE,2,Athletics,Men
+Italy,ITA,1,Swimming,Women
+United States,USA,1,Artistic Gymnastics,Women
+South Korea,KOR,3,Artistic Gymnastics,Men
+Switzerland,CHE,2,Cycling BMX Racing,Men
+Hong Kong,HKG,2,Swimming,Women
+Hong Kong,HKG,2,Swimming,Women
+United Kingdom,GBR,1,Skateboarding,Women
+Russia,RUS,3,Fencing,Women
+Kazakhstan,KAZ,1,Karate,Men
+Russia,RUS,2,Fencing,Women
+Mauritius,MUS,3,Athletics,Men
+Spain,ESP,3,Shooting,Open
+Spain,ESP,1,Sailing,Men
+Ukraine,UKR,1,Karate,Men
+Greece,GRC,3,Rhythmic Gymnastics,Men
+France,FRA,3,Karate,Men
+Bulgaria,BGR,3,Boxing,Women
+Thailand,THA,1,Boxing,Women
+China,CHN,2,Wrestling,Men
+China,CHN,2,Swimming,Men
+China,CHN,3,Fencing,Women
+United States,USA,3,Artistic Gymnastics,Women
+United States,USA,1,Artistic Gymnastics,Women
+Sweden,SWE,2,Sailing,Men
+Switzerland,CHE,2,Tennis,Women
+Switzerland,CHE,1,Beach Volleyball,Men
+United States,USA,3,Athletics,Women
+Slovenia,SVN,1,Cycling Road,Men
+Poland,POL,1,Wrestling,Men
+Taiwan,TWN,2,Badminton,Men
+Japan,JPN,1,Archery,Men
+Japan,JPN,3,Judo,Men
+Hungary,HUN,3,Wrestling,Men
+Hungary,HUN,2,Canoe Sprint,Women
+Ecuador,ECU,2,Weightlifting,Women
+United States,USA,3,Wrestling,Women
+China,CHN,2,Artistic Gymnastics,Women
+Saudi Arabia,SAU,2,Karate,Men
+South Africa,ZAF,3,Swimming,Women
+South Africa,ZAF,2,Swimming,Women
+Russia,RUS,2,Taekwondo,Women
+France,FRA,1,Judo,Women
+Spain,ESP,2,Canoe Sprint,Men
+Brazil,BRA,1,Athletics,Men
+France,FRA,2,Rugby Sevens,Women
+Croatia,HRV,2,Artistic Gymnastics,Men
+Slovenia,SVN,2,Judo,Women
+United Kingdom,GBR,1,Diving,Men
+United Kingdom,GBR,3,Swimming,Men
+Netherlands,NLD,2,Cycling Mountain Bike,Men
+United Kingdom,GBR,2,Equestrian Dressage,Open
+United Kingdom,GBR,3,Cycling BMX Racing,Men
+Japan,JPN,2,Swimming,Men
+Croatia,HRV,2,Rugby Sevens,Men
+Croatia,HRV,1,Taekwondo,Men
+Japan,JPN,1,Judo,Women
+Japan,JPN,1,Boxing,Women
+Turkey,TUR,1,Karate,Women
+Ukraine,UKR,1,Artistic Swimming,Women
+Ukraine,UKR,1,Artistic Swimming,Women
+Ukraine,UKR,1,Shooting,Open
+Uzbekistan,UZB,3,Taekwondo,Men
+United States,USA,3,3x3 Basketball,Women
+United States,USA,3,Baseball,Men
+United States,USA,3,Basketball,Women
+United States,USA,3,Swimming,Men
+United States,USA,3,Swimming,Men
+United States,USA,2,Artistic Gymnastics,Women
+United States,USA,2,Badminton,Open
+United States,USA,2,Diving,Men
+United States,USA,2,Diving,Women
+United States,USA,2,Diving,Open
+United States,USA,2,Skateboarding,Women
+United States,USA,2,Swimming,Women
+United States,USA,2,Triathlon,Women
+United States,USA,1,Athletics,Men
+United States,USA,1,Cycling Track,Women
+United States,USA,1,Fencing,Men
+United States,USA,1,Swimming,Women
+United States,USA,3,Beach Volleyball,Women
+United States,USA,2,Shooting,Open
+United States,USA,1,Shooting,Men
+Japan,JPN,3,Judo,Women
+United States,USA,3,Athletics,Women
+New Zealand,NZL,1,Athletics,Women
+Belarus,BLR,1,Wrestling,Women
+Italy,ITA,2,Artistic Gymnastics,Women
+Georgia,GEO,2,Hockey,Men
+Denmark,DNK,3,Athletics,Men
+Hungary,HUN,2,Wrestling,Men
+United States,USA,3,Shooting,Men
+Russia,RUS,3,Shooting,Women
+Russia,RUS,3,Shooting,Women
+Italy,ITA,3,Table Tennis,Men
+Russia,RUS,3,Taekwondo,Men
+China,CHN,1,Wrestling,Men
+China,CHN,2,Diving,Men
+China,CHN,3,Swimming,Men
+China,CHN,2,Athletics,Women
+China,CHN,3,Weightlifting,Women
+China,CHN,2,Cycling Track,Women
+China,CHN,1,Shooting,Open
+United States,USA,3,Shooting,Men
+Indonesia,IDN,1,Weightlifting,Women
+Poland,POL,3,Athletics,Men
+Belgium,BEL,2,Cycling Mountain Bike,Women
+United States,USA,3,Fencing,Men
+China,CHN,1,Shooting,Women
+China,CHN,2,Artistic Gymnastics,Men
+China,CHN,1,Artistic Gymnastics,Men
+China,CHN,3,Cycling Track,Men
+Cuba,CUB,1,Athletics,Women
+China,CHN,1,Shooting,Men
+China,CHN,2,Cycling Track,Men
+China,CHN,3,Shooting,Women
+Taiwan,TWN,2,Golf,Men
+Turkey,TUR,1,Wrestling,Women
+Kazakhstan,KAZ,1,Judo,Men
+Russia,RUS,2,Archery,Women
+South Korea,KOR,1,Artistic Gymnastics,Women
+Russia,RUS,3,Swimming,Men
+Russia,RUS,3,Swimming,Men
+China,CHN,2,Karate,Women
+China,CHN,2,Artistic Gymnastics,Men
+Japan,JPN,3,Swimming,Women
+Japan,JPN,3,Swimming,Women
+Japan,JPN,3,Wrestling,Women
+Japan,JPN,3,Wrestling,Women
+Venezuela,VEN,3,Athletics,Women
+Russia,RUS,1,Shooting,Women
+Russia,RUS,2,Shooting,Women
+Japan,JPN,2,Cycling Track,Women
+Japan,JPN,3,Shooting,Men
+Australia,AUS,3,Swimming,Men
+Dominican Republic,DOM,2,Weightlifting,Men
+Russia,RUS,3,Wrestling,Men
+Russia,RUS,3,Wrestling,Men
+Ukraine,UKR,3,Wrestling,Men
+China,CHN,3,Shooting,Men
+China,CHN,3,Swimming,Women
+China,CHN,2,Swimming,Women
+China,CHN,1,Taekwondo,Men
+China,CHN,3,Trampolining,Women
+China,CHN,3,Artistic Gymnastics,Men
+Hungary,HUN,2,Sailing,Men
+Kazakhstan,KAZ,1,Weightlifting,Women
+Slovakia,SVK,3,Shooting,Women
