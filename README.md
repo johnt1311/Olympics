@@ -83,3 +83,8 @@ During the time period we analyzed countries had been destroyed, created, rename
 * Team members communicated through Zoom video calls and Slack messaging
 * Code and resources were reviewed by team members through screen sharing and GitHub
 * Resources and code were individually committed to team member branches and routinely reviewed and merged to main project branch. 
+
+
+# Links
+
+Presentation: https://docs.google.com/presentation/d/1THhDSyPohawLwrSiDOjxda2NZSpPXUvQ/edit?usp=sharing&ouid=115662815122483026556&rtpof=true&sd=true
