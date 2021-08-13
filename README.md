@@ -21,7 +21,10 @@ Competition data includes:
 * Competition Year
 * Host Country
 * Winning Countries
-* Medal won
+* Medal won (gold, silver, bronze)
+* Number of competitors from each country
+* Country win ratio
+* Gender win ratio by country
 
 Country Data includes:
 
@@ -29,17 +32,43 @@ Country Data includes:
 * Population
 * Life Expectancy
 * Distance from competing country to host country
+* Longitude (used to add country seasonality)
+
+The data was collected from the following sources:
+* Olympedia.com
+* data.worldbank.org
+* OECD.org
+
 
 ## The Analysis
 
-Our data provided multiple routes of analysis to determine how economic, demographic, and geographic factors may affect the potential outcomes of Olympic competitions. We analyzed the data with both categorical and projection analyses.
+Our data provided multiple routes of analysis to determine how economic, demographic, and geographic factors may affect the potential outcomes of Olympic competitions. We analyzed the data with both categorical and projection analyses. 
 
-The categorical analysis attempted to classify competing countries into distinct groups. The analysis answered questions such as:
+# The Results
 
+### Categorical Analysis
+Our categorical analysis attempted to separate countries into high performers, average performers, or poor performers. 
+
+* Top performers were defiend as countries accounting for the top 10% of the historical medal count.
+
+The classification analysis was performed using a deep neural network model utilizing easy ensemble AdaBoost as a classification algorithm.
+
+The training set included historical
+
+### Prediction Analysis
+The following results table was created by running our projection model on the 2021 competition data and comparing the results to the actual results of the 2020 Summer games. 
+
+### Dashboard
+Our dashboard was used to digest the complete dataset and answer questions such as: 
 * Do countries with larger populations outperform countries with smaller populations?
 * How do medal counts compare when grouping countries by GDP? Is there a connection between GDP and athletic success?
 * What if we look at medal count by population and GDP on a per capita basis? Would more countries be qualified as top-tier competitors despite having a lower total medal count?
 * Are female competitors from certain countries more successful than male competitors?  
+* Are there countries who are "specialists" in specific events?
+
+
+
+
 
 All categorical analysis was performed using a K-Means analysis to determine a number of categories to analyze, and a deep neural network to perform the categorization. 
 
@@ -53,8 +82,7 @@ We determined that binning factors such as.....
 
 We ran the analysis as a boosted model which resulted in....
 
-# The Results
-The following results table was created by running our projection model on the 2021 competition data and comparing the results to the actual results of the 2021 games. 
+
 
 ### insert table here ###
 
