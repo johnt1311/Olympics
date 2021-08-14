@@ -40,23 +40,46 @@ The data was collected from the following sources:
 * OECD.org
 
 
-## The Analysis
+# The Analysis
 
 Our data provided multiple routes of analysis to determine how economic, demographic, and geographic factors may affect the potential outcomes of Olympic competitions. We analyzed the data with both categorical and projection analyses. 
 
-# The Results
+To provide additional features to our dataset we used the total number of competitors from each country and total number of competitors by gender to calculate the medal-win-ratio for each country overall and by gender. For example, a country which sent 100 competitors and won 10 medals would have an overall win ratio of 10%. We also scaled medal wins by increasing the value of gold medals to 3 and silver medals to 2. Our assumption was that the probability of winning at least one medal improved with the number of gold or silver medals won.
+
+![Sample of cleaned dataset](README_resources\) 
 
 ### Categorical Analysis
 Our categorical analysis attempted to separate countries into high performers, average performers, or poor performers. 
 
-* Top performers were defiend as countries accounting for the top 10% of the historical medal count.
+* Top performers were defined as countries accounting for the top 10% of the historical medal count.
 
 The classification analysis was performed using a deep neural network model utilizing easy ensemble AdaBoost as a classification algorithm.
 
 The training set included historical
 
 ### Prediction Analysis
-The following results table was created by running our projection model on the 2021 competition data and comparing the results to the actual results of the 2020 Summer games. 
+Predictions were made by training and testing a random forest regression model. The model was built on the RandomForestRegressor method from SciKitLearn.ensemble module. The random forest regressor method was selected because of non-linear relationships between our training features and dependent variable and because our training dataset was susceptible to overfitting. The random forest estimator used sub-samples and averages to improve predictive accuracy and help control for over-fitting.
+
+![Random Forest Setup](README_resources\rf_setup.PNG)
+
+The following results table was created by running our projection model on the 2021 competition data and comparing the results to the actual results of the 2020 Summer games. The countries shown each collected at least 10 medals in the 2020 games. The negative variance for the countries that won the most medals is likely a factor of model selection. Random Forest models do not extrapolate data from the testing set which means if no country in our testing set had ever won more than 80 medals our predictive model would never predict a country would win 90 medals. In 2020 the highest medal count was 96 (USA). Only 2% of our total medal testing data was above 96 which potentially limited the accuracy of predicting countries with higher total medal counts. 
+
+![2020 Prediction Results](README_resources\2020%predictions.PNG)
+
+
+Highlights of our predictions include Canada and New Zealand which were off by less than two medals. Our accuracy did improve as we moved down the list of total medal counts. 
+
+The overall prediction statistics were as follows:
+* MAE = 3.31
+* MSE = 36
+* RMSE = 6.04
+* Accuracy = 64.1% 
+
+The average number of medals won in our testing set was 10 so our model did improve on this simple measure of base error. Our largest absolute error was 22 (GBR). 
+
+# The Results
+
+
 
 ### Dashboard
 Our dashboard was used to digest the complete dataset and answer questions such as: 
