@@ -71,7 +71,7 @@ The classification model was analyzed using scikitlearn metrics methods to gener
 
 The balanced accuracy score of the model was 0.94 indicated a successful classification algorithm.
 
-![Balanced Accuracy Score](Trey_Graham/README_resources/nn_score.PNG)
+![Balanced Accuracy Score](Trey_Graham/README_resources/nn_bal_score.PNG)
 
 
 ### Prediction Analysis
@@ -83,7 +83,7 @@ Predictions were made by training and testing a random forest regression model. 
 
 The following results table was created by running our projection model on the 2021 competition data and comparing the results to the actual results of the 2020 Summer games. The countries shown each collected at least 10 medals in the 2020 games. The negative variance for the countries that won the most medals is likely a factor of model selection. Random Forest models do not extrapolate data from the testing set which means if no country in our testing set had ever won more than 80 medals our predictive model would never predict a country would win 90 medals. In 2020 the highest medal count was 96 (USA). Only 2% of our total medal testing data was above 96 which potentially limited the accuracy of predicting countries with higher total medal counts. 
 
-![2020 Prediction Results](Trey_Graham/README_resources/2020%predictions.PNG)
+![2020 Prediction Results](Trey_Graham/README_resources/2020_predictions.PNG)
 
 
 Highlights of our predictions include Canada and New Zealand which were off by less than two medals. Our accuracy did improve as we moved down the list of total medal counts. 
