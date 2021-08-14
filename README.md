@@ -39,28 +39,47 @@ The data was collected from the following sources:
 * data.worldbank.org
 * OECD.org
 
+Data was collected, cleaned, and stored in an AWS database which was subsequently connected to SQL. Data processing was enabled by reading SQL data using sqlalchemy and python. 
+
+Code was developed and tested in various IDEs including Jupyter Notebook, VSCode, and Google Colab.
 
 # The Analysis
 
 Our data provided multiple routes of analysis to determine how economic, demographic, and geographic factors may affect the potential outcomes of Olympic competitions. We analyzed the data with both categorical and projection analyses. 
 
-To provide additional features to our dataset we used the total number of competitors from each country and total number of competitors by gender to calculate the medal-win-ratio for each country overall and by gender. For example, a country which sent 100 competitors and won 10 medals would have an overall win ratio of 10%. We also scaled medal wins by increasing the value of gold medals to 3 and silver medals to 2. Our assumption was that the probability of winning at least one medal improved with the number of gold or silver medals won.
+To provide additional features to our dataset we used the total number of competitors from each country and total number of competitors by gender to calculate the medal-win-ratio for each country overall and by gender. For example, a country which sent 100 competitors and won 10 medals would have an overall win ratio of 10%. We also scaled medal wins by increasing the value of gold medals to 3 and silver medals to 2. Our assumption was that the probability of winning at least one medal improved with the number of gold or silver medals won. Tiers were calculated by percentile ranking each country in each Olympic year based on total medals won. 
 
-![Sample of cleaned dataset](README_resources\) 
+![Sample of cleaned dataset](README_resources\reg_data_1.PNG)
+
+![Sample of cleaned dataset 2](README_resources\reg_data_2.PNG)
+
 
 ### Categorical Analysis
 Our categorical analysis attempted to separate countries into high performers, average performers, or poor performers. 
 
-* Top performers were defined as countries accounting for the top 10% of the historical medal count.
+* Top performers were defined as countries in the 90th percentile of the historical medal count for each Olympic year.
+* Intermediate performers were defined as countries in the 80th to 30th percentile
+* Bottom performers were defined as countries below the 30th percentile
 
-The classification analysis was performed using a deep neural network model utilizing easy ensemble AdaBoost as a classification algorithm.
+Data from multiple SQL tables were joined to maximize the dataset input for the neural network algorithm.
 
-The training set included historical
+The classification analysis was performed using a deep neural network model utilizing tensorflow and an easy ensemble AdaBoost as a classification algorithm. Additional hidden layers were added during testing to determine if additional calculations yielded higher accuracy. 
+
+![Neural Network Setup](README_resources\nn_setup.PNG)
+
+The classification model was analyzed using scikitlearn metrics methods to generate a balanced accuracy score, confusion matric, and classification report from imblearn. 
+
+The balanced accuracy score of the model was 0.94 indicated a successful classification algorithm.
+
+![Balanced Accuracy Score](README_resources\nn_score.PNG)
+
 
 ### Prediction Analysis
 Predictions were made by training and testing a random forest regression model. The model was built on the RandomForestRegressor method from SciKitLearn.ensemble module. The random forest regressor method was selected because of non-linear relationships between our training features and dependent variable and because our training dataset was susceptible to overfitting. The random forest estimator used sub-samples and averages to improve predictive accuracy and help control for over-fitting.
 
 ![Random Forest Setup](README_resources\rf_setup.PNG)
+
+# The Results
 
 The following results table was created by running our projection model on the 2021 competition data and comparing the results to the actual results of the 2020 Summer games. The countries shown each collected at least 10 medals in the 2020 games. The negative variance for the countries that won the most medals is likely a factor of model selection. Random Forest models do not extrapolate data from the testing set which means if no country in our testing set had ever won more than 80 medals our predictive model would never predict a country would win 90 medals. In 2020 the highest medal count was 96 (USA). Only 2% of our total medal testing data was above 96 which potentially limited the accuracy of predicting countries with higher total medal counts. 
 
@@ -77,10 +96,6 @@ The overall prediction statistics were as follows:
 
 The average number of medals won in our testing set was 10 so our model did improve on this simple measure of base error. Our largest absolute error was 22 (GBR). 
 
-# The Results
-
-
-
 ### Dashboard
 Our dashboard was used to digest the complete dataset and answer questions such as: 
 * Do countries with larger populations outperform countries with smaller populations?
@@ -89,52 +104,16 @@ Our dashboard was used to digest the complete dataset and answer questions such 
 * Are female competitors from certain countries more successful than male competitors?  
 * Are there countries who are "specialists" in specific events?
 
-
-
-
-
-All categorical analysis was performed using a K-Means analysis to determine a number of categories to analyze, and a deep neural network to perform the categorization. 
-
-The projection analysis attempted to estimate the number of medals each country won in the 2021 Olympic games. We analyzed the data using a multi-factor regression model. The multi-factor regression model was then trained and analyzed using a random forest decision tree algorithm. Factors were then analyzed by their importance in the random forest model. 
-
-### Table or visual with the most important factors ###
-
-### Table or visual with the least important factors ###
-
-We determined that binning factors such as.....
-
-We ran the analysis as a boosted model which resulted in....
-
-
-
-### insert table here ###
-
-Add some insights...
-
-
-### Other analysis notes ###
-Maybe look at how population growth or GDP growth has affected medal counts over the years. 
-
-### Throw in some bar charts or pie charts ###
-
-
 ### Unique aspects of our dataset:
 
 Throughout the years many Olympic athletes have unfortunately been disqualified for various reasons. Disqualified athletes must vacate their medals which are then awarded to the competitor with the next highest finish. Instead of removing the disqualified athletes from our dataset, we chose to view these athletes as their own country, "DQ", to see how they compare to the field.   
 
 During the time period we analyzed countries had been destroyed, created, renamed or merged. We cleaned our dataset to combine countries such as the former USSR and Russia and East Germany and West Germany. These countries are represented by Russia and Germany, respectively, in our dataset.
 
-
-
-
-
-
-
 ### Communication protocols:
 * Team members communicated through Zoom video calls and Slack messaging
 * Code and resources were reviewed by team members through screen sharing and GitHub
 * Resources and code were individually committed to team member branches and routinely reviewed and merged to main project branch. 
-
 
 # Links
 
